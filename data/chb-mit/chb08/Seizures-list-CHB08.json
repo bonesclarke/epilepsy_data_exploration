@@ -1,0 +1,217 @@
+{
+  "patient_id": "chb08",
+  "sampling_rate_hz": 256,
+  "channels": [
+    {
+      "number": 1,
+      "name": "FP1-F7"
+    },
+    {
+      "number": 2,
+      "name": "F7-T7"
+    },
+    {
+      "number": 3,
+      "name": "T7-P7"
+    },
+    {
+      "number": 4,
+      "name": "P7-O1"
+    },
+    {
+      "number": 5,
+      "name": "FP1-F3"
+    },
+    {
+      "number": 6,
+      "name": "F3-C3"
+    },
+    {
+      "number": 7,
+      "name": "C3-P3"
+    },
+    {
+      "number": 8,
+      "name": "P3-O1"
+    },
+    {
+      "number": 9,
+      "name": "FP2-F4"
+    },
+    {
+      "number": 10,
+      "name": "F4-C4"
+    },
+    {
+      "number": 11,
+      "name": "C4-P4"
+    },
+    {
+      "number": 12,
+      "name": "P4-O2"
+    },
+    {
+      "number": 13,
+      "name": "FP2-F8"
+    },
+    {
+      "number": 14,
+      "name": "F8-T8"
+    },
+    {
+      "number": 15,
+      "name": "T8-P8"
+    },
+    {
+      "number": 16,
+      "name": "P8-O2"
+    },
+    {
+      "number": 17,
+      "name": "FZ-CZ"
+    },
+    {
+      "number": 18,
+      "name": "CZ-PZ"
+    },
+    {
+      "number": 19,
+      "name": "P7-T7"
+    },
+    {
+      "number": 20,
+      "name": "T7-FT9"
+    },
+    {
+      "number": 21,
+      "name": "FT9-FT10"
+    },
+    {
+      "number": 22,
+      "name": "FT10-T8"
+    },
+    {
+      "number": 23,
+      "name": "T8-P8"
+    }
+  ],
+  "seizures": [
+    {
+      "seizure_number": 1,
+      "file_name": "chb08_02.edf",
+      "registration_start_time": "12:28:57",
+      "registration_end_time": "13:28:57",
+      "seizure_start_time": "13.13.27",
+      "seizure_end_time": "13.16.18"
+    },
+    {
+      "seizure_number": 2,
+      "file_name": "chb08_05.edf",
+      "registration_start_time": "15:29:14",
+      "registration_end_time": "16:29:14",
+      "seizure_start_time": "16.16.50",
+      "seizure_end_time": "16.20.00"
+    },
+    {
+      "seizure_number": 3,
+      "file_name": "chb08_11.edf",
+      "registration_start_time": "20:37:01",
+      "registration_end_time": "21:37:01",
+      "seizure_start_time": "21.26.49",
+      "seizure_end_time": "21.29.03"
+    },
+    {
+      "seizure_number": 4,
+      "file_name": "chb08_13.edf",
+      "registration_start_time": "22:37:16",
+      "registration_end_time": "23:37:16",
+      "seizure_start_time": "22.77.33",
+      "seizure_end_time": "22.80.12"
+    },
+    {
+      "seizure_number": 5,
+      "file_name": "chb08_21.edf",
+      "registration_start_time": "06:38:16",
+      "registration_end_time": "7:38:16",
+      "seizure_start_time": "07.13.03",
+      "seizure_end_time": "07.17.27"
+    }
+  ],
+  "non-seizures": [
+    {
+      "file_name": "chb08_03.edf",
+      "registration_start_time": "13:28:59",
+      "registration_end_time": "14:28:59"
+    },
+    {
+      "file_name": "chb08_04.edf",
+      "registration_start_time": "14:29:07",
+      "registration_end_time": "15:29:07"
+    },
+    {
+      "file_name": "chb08_10.edf",
+      "registration_start_time": "19:36:54",
+      "registration_end_time": "20:36:54"
+    },
+    {
+      "file_name": "chb08_12.edf",
+      "registration_start_time": "21:37:08",
+      "registration_end_time": "22:37:08"
+    },
+    {
+      "file_name": "chb08_14.edf",
+      "registration_start_time": "23:37:23",
+      "registration_end_time": "24:37:23"
+    },
+    {
+      "file_name": "chb08_15.edf",
+      "registration_start_time": "00:37:31",
+      "registration_end_time": "1:37:31"
+    },
+    {
+      "file_name": "chb08_16.edf",
+      "registration_start_time": "01:37:38",
+      "registration_end_time": "2:37:38"
+    },
+    {
+      "file_name": "chb08_17.edf",
+      "registration_start_time": "02:37:46",
+      "registration_end_time": "3:37:46"
+    },
+    {
+      "file_name": "chb08_18.edf",
+      "registration_start_time": "03:37:53",
+      "registration_end_time": "4:37:53"
+    },
+    {
+      "file_name": "chb08_19.edf",
+      "registration_start_time": "04:38:01",
+      "registration_end_time": "5:38:01"
+    },
+    {
+      "file_name": "chb08_20.edf",
+      "registration_start_time": "05:38:08",
+      "registration_end_time": "6:38:08"
+    },
+    {
+      "file_name": "chb08_22.edf",
+      "registration_start_time": "07:38:23",
+      "registration_end_time": "8:38:23"
+    },
+    {
+      "file_name": "chb08_23.edf",
+      "registration_start_time": "08:38:31",
+      "registration_end_time": "9:38:31"
+    },
+    {
+      "file_name": "chb08_24.edf",
+      "registration_start_time": "09:38:38",
+      "registration_end_time": "10:38:38"
+    },
+    {
+      "file_name": "chb08_29.edf",
+      "registration_start_time": "13:51:25",
+      "registration_end_time": "14:51:48"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "patient_id": "PN14",
+  "sampling_rate_hz": 512,
+  "channels": [
+    {"number": 1, "name": "Fp1"},
+    {"number": 2, "name": "F3"},
+    {"number": 3, "name": "C3"},
+    {"number": 4, "name": "P3"},
+    {"number": 5, "name": "1"},
+    {"number": 6, "name": "F7"},
+    {"number": 7, "name": "T5"},
+    {"number": 8, "name": "Fc1"},
+    {"number": 9, "name": "Fc5"},
+    {"number": 10, "name": "Cp1"},
+    {"number": 11, "name": "Cp5"},
+    {"number": 12, "name": "F9"},
+    {"number": 13, "name": "Fz"},
+    {"number": 14, "name": "Pz"},
+    {"number": 15, "name": "F4"},
+    {"number": 16, "name": "C4"},
+    {"number": 17, "name": "P4"},
+    {"number": 18, "name": "O2"},
+    {"number": 19, "name": "F8"},
+    {"number": 20, "name": "T4"},
+    {"number": 21, "name": "T6"},
+    {"number": 22, "name": "Fc2"},
+    {"number": 23, "name": "Fc6"},
+    {"number": 24, "name": "Cp2"},
+    {"number": 25, "name": "Cp6"},
+    {"number": 26, "name": "F10"},
+    {"number": 29, "name": "EKG 1"},
+    {"number": 30, "name": "EKG 2"},
+    {"number": 31, "name": "Fp2"},
+    {"number": 39, "name": "T3"},
+    {"number": 40, "name": "Cz"}
+  ],
+  "seizures": [
+    {
+      "seizure_number": 1,
+      "file_name": "PN14-1.edf",
+      "registration_start_time": "11.44.58",
+      "registration_end_time": "13.56.06",
+      "seizure_start_time": "13.46.00",
+      "seizure_end_time": "13.46.27"
+    },
+    {
+      "seizure_number": 2,
+      "file_name": "PN14-2.edf",
+      "registration_start_time": "15.50.13",
+      "registration_end_time": "18.22.58",
+      "seizure_start_time": "17.54.52",
+      "seizure_end_time": "17.55.04"
+    },
+    {
+      "seizure_number": 3,
+      "file_name": "PN14-3.edf",
+      "registration_start_time": "16.17.45",
+      "registration_end_time": "06.57.40",
+      "seizure_start_time": "21.10.05",
+      "seizure_end_time": "21.10.46"
+    },
+    {
+      "seizure_number": 4,
+      "file_name": "PN14-4.edf",
+      "registration_start_time": "14.18.30",
+      "registration_end_time": "18.22.32",
+      "seizure_start_time": "15.49.33",
+      "seizure_end_time": "15.50.56"
+    }
+  ]
+}
