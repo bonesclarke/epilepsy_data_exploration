@@ -1,0 +1,120 @@
+{
+  "patient_id": "PN10",
+  "sampling_rate_hz": 512,
+  "channels": [
+    {"number": 1, "name": "Fp1"},
+    {"number": 2, "name": "F3"},
+    {"number": 3, "name": "C3"},
+    {"number": 4, "name": "P3"},
+    {"number": 5, "name": "1"},
+    {"number": 6, "name": "F7"},
+    {"number": 7, "name": "T3"},
+    {"number": 8, "name": "T5"},
+    {"number": 14, "name": "Fz"},
+    {"number": 15, "name": "Cz"},
+    {"number": 16, "name": "Pz"},
+    {"number": 17, "name": "F4"},
+    {"number": 18, "name": "C4"},
+    {"number": 19, "name": "P4"},
+    {"number": 20, "name": "O2"},
+    {"number": 21, "name": "F8"},
+    {"number": 22, "name": "T4"},
+    {"number": 23, "name": "T6"},
+    {"number": 32, "name": "EKG 1"},
+    {"number": 33, "name": "EKG 2"},
+    {"number": 34, "name": "Fp2"}
+  ],
+  "seizures": [
+    {
+      "seizure_number": 1,
+      "file_name": "PN10-1.edf",
+      "registration_start_time": "05.40.05",
+      "registration_end_time": "08.26.07",
+      "seizure_start_time": "07.45.50",
+      "seizure_end_time": "07.46.59",
+      "notes": "seizure 1A"
+    },
+    {
+      "seizure_number": 2,
+      "file_name": "PN10-2.edf",
+      "registration_start_time": "09.30.15",
+      "registration_end_time": "11.52.29",
+      "seizure_start_time": "11.40.13",
+      "seizure_end_time": "11.41.04 opure 11.40.43",
+      "notes": "seizure B1"
+    },
+    {
+      "seizure_number": 3,
+      "file_name": "PN10-3.edf",
+      "registration_start_time": "13.33.18",
+      "registration_end_time": "15.58.31",
+      "seizure_start_time_clinical": "15.43.53",
+      "seizure_start_time_electric": "15.43.59",
+      "seizure_end_time": "15.45.02",
+      "notes": "seizure B2"
+    },
+    {
+      "seizure_number": 4,
+      "file_name": "PN10-4.5.6.edf",
+      "registration_start_time": "12.11.21",
+      "registration_end_time": "16.48.49",
+      "seizure_start_time": "12.49.50",
+      "seizure_end_time": "12.49.55",
+      "notes": "seizure B3"
+    },
+    {
+      "seizure_number": 5,
+      "file_name": "PN10-4.5.6.edf",
+      "registration_start_time": "12.11.21",
+      "registration_end_time": "16.48.49",
+      "seizure_start_time": "14.00.25",
+      "seizure_end_time": "14.00.44",
+      "notes": "B4"
+    },
+    {
+      "seizure_number": 6,
+      "file_name": "PN10-4.5.6.edf",
+      "registration_start_time": "12.11.21",
+      "registration_end_time": "16.48.49",
+      "seizure_start_time_clinical": "15.18.26",
+      "seizure_end_time": "15.19.23",
+      "notes": "seizure B5"
+    },
+    {
+      "seizure_number": 7,
+      "file_name": "PN10-7.8.9.edf",
+      "registration_start_time": "16.49.25",
+      "registration_end_time": "20.58.40",
+      "seizure_start_time": "17.35.13",
+      "seizure_end_time": "17.36.01",
+      "notes": "seizure B7"
+    },
+    {
+      "seizure_number": 8,
+      "file_name": "PN10-7.8.9.edf",
+      "registration_start_time": "16.49.25",
+      "registration_end_time": "20.58.40",
+      "seizure_start_time": "18.20.24",
+      "seizure_end_time": "18.20.42",
+      "notes": "seizure B8"
+    },
+    {
+      "seizure_number": 9,
+      "file_name": "PN10-7.8.9.edf",
+      "registration_start_time": "16.49.25",
+      "registration_end_time": "20.58.40",
+      "seizure_start_time": "20.24.48",
+      "seizure_end_time": "20.25.03",
+      "notes": "seizure B9"
+    },
+    {
+      "seizure_number": 10,
+      "file_name": "PN10-10.edf",
+      "registration_start_time": "08.45.22",
+      "registration_end_time": "11.08.07",
+      "seizure_start_time": "10.58.19",
+      "seizure_end_time": "10.58.33",
+      "notes": "seizure B10"
+    }
+  ]
+}

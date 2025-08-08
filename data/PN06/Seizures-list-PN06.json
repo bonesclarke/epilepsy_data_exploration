@@ -1,0 +1,80 @@
+{
+  "patient_id": "PN06",
+  "sampling_rate_hz": 512,
+  "channels": [
+    {"number": 1, "name": "Fp1"},
+    {"number": 2, "name": "F3"},
+    {"number": 3, "name": "C3"},
+    {"number": 4, "name": "P3"},
+    {"number": 5, "name": "1"},
+    {"number": 6, "name": "F7"},
+    {"number": 7, "name": "T3"},
+    {"number": 8, "name": "T5"},
+    {"number": 9, "name": "Fc1"},
+    {"number": 10, "name": "Fc5"},
+    {"number": 11, "name": "Cp1"},
+    {"number": 12, "name": "Cp5"},
+    {"number": 13, "name": "F9"},
+    {"number": 14, "name": "Fz"},
+    {"number": 15, "name": "Cz"},
+    {"number": 16, "name": "Pz"},
+    {"number": 17, "name": "F4"},
+    {"number": 18, "name": "C4"},
+    {"number": 19, "name": "P4"},
+    {"number": 20, "name": "O2"},
+    {"number": 21, "name": "F8"},
+    {"number": 22, "name": "T4"},
+    {"number": 23, "name": "T6"},
+    {"number": 24, "name": "Fc2"},
+    {"number": 25, "name": "Fc6"},
+    {"number": 26, "name": "Cp2"},
+    {"number": 27, "name": "Cp6"},
+    {"number": 28, "name": "F10"},
+    {"number": 32, "name": "EKG 1"},
+    {"number": 33, "name": "EKG 2"},
+    {"number": 34, "name": "Fp2"}
+  ],
+  "seizures": [
+    {
+      "seizure_number": 1,
+      "file_name": "PNO6-1.edf",
+      "registration_start_time": "04.21.22",
+      "registration_end_time": "07.01.37",
+      "seizure_start_time": "05.54.25",
+      "seizure_end_time": "05.55.29",
+      "notes": "in sleep"
+    },
+    {
+      "seizure_number": 2,
+      "file_name": "PNO6-2.edf",
+      "registration_start_time": "21.11.29",
+      "registration_end_time": "00.41.49",
+      "seizure_start_time": "23.39.09",
+      "seizure_end_time": "23.40.18"
+    },
+    {
+      "seizure_number": 3,
+      "file_name": "PN06-3.edf",
+      "registration_start_time": "06.25.51",
+      "registration_end_time": "08.41.51",
+      "seizure_start_time": "08.10.26",
+      "seizure_end_time": "08.11.08"
+    },
+    {
+      "seizure_number": 4,
+      "file_name": "PNO6-4.edf",
+      "registration_start_time": "11.16.09",
+      "registration_end_time": "13.12.54",
+      "seizure_start_time": "12.55.08",
+      "seizure_end_time": "12.56.11"
+    },
+    {
+      "seizure_number": 5,
+      "file_name": "PN06-5.edf",
+      "registration_start_time": "13.24.41",
+      "registration_end_time": "15.04.43",
+      "seizure_start_time": "14.44.24",
+      "seizure_end_time": "14.45.08"
+    }
+  ]
+}
