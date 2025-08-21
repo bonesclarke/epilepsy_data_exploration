@@ -1,0 +1,299 @@
+{
+  "patient_id": "chb21",
+  "sampling_rate_hz": 256,
+  "channels": [
+    {
+      "number": 1,
+      "name": "FP1-F7"
+    },
+    {
+      "number": 2,
+      "name": "F7-T7"
+    },
+    {
+      "number": 3,
+      "name": "T7-P7"
+    },
+    {
+      "number": 4,
+      "name": "P7-O1"
+    },
+    {
+      "number": 5,
+      "name": "-"
+    },
+    {
+      "number": 6,
+      "name": "FP1-F3"
+    },
+    {
+      "number": 7,
+      "name": "F3-C3"
+    },
+    {
+      "number": 8,
+      "name": "C3-P3"
+    },
+    {
+      "number": 9,
+      "name": "P3-O1"
+    },
+    {
+      "number": 10,
+      "name": "-"
+    },
+    {
+      "number": 11,
+      "name": "FZ-CZ"
+    },
+    {
+      "number": 12,
+      "name": "CZ-PZ"
+    },
+    {
+      "number": 13,
+      "name": "-"
+    },
+    {
+      "number": 14,
+      "name": "FP2-F4"
+    },
+    {
+      "number": 15,
+      "name": "F4-C4"
+    },
+    {
+      "number": 16,
+      "name": "C4-P4"
+    },
+    {
+      "number": 17,
+      "name": "P4-O2"
+    },
+    {
+      "number": 18,
+      "name": "-"
+    },
+    {
+      "number": 19,
+      "name": "FP2-F8"
+    },
+    {
+      "number": 20,
+      "name": "F8-T8"
+    },
+    {
+      "number": 21,
+      "name": "T8-P8"
+    },
+    {
+      "number": 22,
+      "name": "P8-O2"
+    },
+    {
+      "number": 23,
+      "name": "-"
+    },
+    {
+      "number": 24,
+      "name": "P7-T7"
+    },
+    {
+      "number": 25,
+      "name": "T7-FT9"
+    },
+    {
+      "number": 26,
+      "name": "FT9-FT10"
+    },
+    {
+      "number": 27,
+      "name": "FT10-T8"
+    },
+    {
+      "number": 28,
+      "name": "T8-P8"
+    }
+  ],
+  "seizures": [
+    {
+      "seizure_number": 1,
+      "file_name": "chb21_19.edf",
+      "registration_start_time": "11:59:13",
+      "registration_end_time": "12:59:13",
+      "seizure_start_time": "12.20.41",
+      "seizure_end_time": "12.21.37"
+    },
+    {
+      "seizure_number": 2,
+      "file_name": "chb21_20.edf",
+      "registration_start_time": "12:59:20",
+      "registration_end_time": "13:49:10",
+      "seizure_start_time": "13.43.07",
+      "seizure_end_time": "13.43.57"
+    },
+    {
+      "seizure_number": 3,
+      "file_name": "chb21_21.edf",
+      "registration_start_time": "15:49:35",
+      "registration_end_time": "16:49:35",
+      "seizure_start_time": "16.22.58",
+      "seizure_end_time": "16.24.19"
+    },
+    {
+      "seizure_number": 4,
+      "file_name": "chb21_22.edf",
+      "registration_start_time": "16:49:42",
+      "registration_end_time": "17:49:42",
+      "seizure_start_time": "17.32.15",
+      "seizure_end_time": "17.32.27"
+    }
+  ],
+  "non-seizures": [
+    {
+      "file_name": "chb21_01.edf",
+      "registration_start_time": "17:56:45",
+      "registration_end_time": "18:56:45"
+    },
+    {
+      "file_name": "chb21_02.edf",
+      "registration_start_time": "18:56:49",
+      "registration_end_time": "19:56:49"
+    },
+    {
+      "file_name": "chb21_03.edf",
+      "registration_start_time": "19:56:57",
+      "registration_end_time": "20:56:57"
+    },
+    {
+      "file_name": "chb21_04.edf",
+      "registration_start_time": "20:57:04",
+      "registration_end_time": "21:57:04"
+    },
+    {
+      "file_name": "chb21_05.edf",
+      "registration_start_time": "21:57:11",
+      "registration_end_time": "22:57:11"
+    },
+    {
+      "file_name": "chb21_06.edf",
+      "registration_start_time": "22:57:18",
+      "registration_end_time": "23:57:18"
+    },
+    {
+      "file_name": "chb21_07.edf",
+      "registration_start_time": "23:57:24",
+      "registration_end_time": "24:57:24"
+    },
+    {
+      "file_name": "chb21_08.edf",
+      "registration_start_time": "00:57:31",
+      "registration_end_time": "1:57:31"
+    },
+    {
+      "file_name": "chb21_09.edf",
+      "registration_start_time": "01:57:38",
+      "registration_end_time": "2:57:38"
+    },
+    {
+      "file_name": "chb21_10.edf",
+      "registration_start_time": "02:57:45",
+      "registration_end_time": "3:57:45"
+    },
+    {
+      "file_name": "chb21_11.edf",
+      "registration_start_time": "03:57:52",
+      "registration_end_time": "4:57:52"
+    },
+    {
+      "file_name": "chb21_12.edf",
+      "registration_start_time": "04:57:59",
+      "registration_end_time": "5:57:59"
+    },
+    {
+      "file_name": "chb21_13.edf",
+      "registration_start_time": "05:58:06",
+      "registration_end_time": "6:58:06"
+    },
+    {
+      "file_name": "chb21_14.edf",
+      "registration_start_time": "06:58:13",
+      "registration_end_time": "7:58:13"
+    },
+    {
+      "file_name": "chb21_15.edf",
+      "registration_start_time": "07:58:20",
+      "registration_end_time": "8:58:20"
+    },
+    {
+      "file_name": "chb21_16.edf",
+      "registration_start_time": "08:58:27",
+      "registration_end_time": "9:58:26"
+    },
+    {
+      "file_name": "chb21_17.edf",
+      "registration_start_time": "09:58:59",
+      "registration_end_time": "10:58:59"
+    },
+    {
+      "file_name": "chb21_18.edf",
+      "registration_start_time": "10:59:06",
+      "registration_end_time": "11:59:06"
+    },
+    {
+      "file_name": "chb21_23.edf",
+      "registration_start_time": "18:36:01",
+      "registration_end_time": "19:36:01"
+    },
+    {
+      "file_name": "chb21_24.edf",
+      "registration_start_time": "20:36:11",
+      "registration_end_time": "21:36:11"
+    },
+    {
+      "file_name": "chb21_25.edf",
+      "registration_start_time": "22:36:25",
+      "registration_end_time": "23:36:25"
+    },
+    {
+      "file_name": "chb21_26.edf",
+      "registration_start_time": "23:36:32",
+      "registration_end_time": "24:36:32"
+    },
+    {
+      "file_name": "chb21_27.edf",
+      "registration_start_time": "00:36:39",
+      "registration_end_time": "1:36:39"
+    },
+    {
+      "file_name": "chb21_28.edf",
+      "registration_start_time": "01:36:46",
+      "registration_end_time": "2:36:46"
+    },
+    {
+      "file_name": "chb21_29.edf",
+      "registration_start_time": "08:37:34",
+      "registration_end_time": "9:37:34"
+    },
+    {
+      "file_name": "chb21_30.edf",
+      "registration_start_time": "13:38:08",
+      "registration_end_time": "14:38:08"
+    },
+    {
+      "file_name": "chb21_31.edf",
+      "registration_start_time": "22:39:10",
+      "registration_end_time": "23:39:10"
+    },
+    {
+      "file_name": "chb21_32.edf",
+      "registration_start_time": "23:39:17",
+      "registration_end_time": "24:39:17"
+    },
+    {
+      "file_name": "chb21_33.edf",
+      "registration_start_time": "00:39:24",
+      "registration_end_time": "1:39:24"
+    }
+  ]
+}

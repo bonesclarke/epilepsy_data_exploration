@@ -1,0 +1,301 @@
+{
+  "patient_id": "chb20",
+  "sampling_rate_hz": 256,
+  "channels": [
+    {
+      "number": 1,
+      "name": "FP1-F7"
+    },
+    {
+      "number": 2,
+      "name": "F7-T7"
+    },
+    {
+      "number": 3,
+      "name": "T7-P7"
+    },
+    {
+      "number": 4,
+      "name": "P7-O1"
+    },
+    {
+      "number": 5,
+      "name": "."
+    },
+    {
+      "number": 6,
+      "name": "FP1-F3"
+    },
+    {
+      "number": 7,
+      "name": "F3-C3"
+    },
+    {
+      "number": 8,
+      "name": "C3-P3"
+    },
+    {
+      "number": 9,
+      "name": "P3-O1"
+    },
+    {
+      "number": 10,
+      "name": "."
+    },
+    {
+      "number": 11,
+      "name": "FZ-CZ"
+    },
+    {
+      "number": 12,
+      "name": "CZ-PZ"
+    },
+    {
+      "number": 13,
+      "name": "."
+    },
+    {
+      "number": 14,
+      "name": "FP2-F4"
+    },
+    {
+      "number": 15,
+      "name": "F4-C4"
+    },
+    {
+      "number": 16,
+      "name": "C4-P4"
+    },
+    {
+      "number": 17,
+      "name": "P4-O2"
+    },
+    {
+      "number": 18,
+      "name": "."
+    },
+    {
+      "number": 19,
+      "name": "FP2-F8"
+    },
+    {
+      "number": 20,
+      "name": "F8-T8"
+    },
+    {
+      "number": 21,
+      "name": "T8-P8"
+    },
+    {
+      "number": 22,
+      "name": "P8-O2"
+    },
+    {
+      "number": 23,
+      "name": "."
+    },
+    {
+      "number": 24,
+      "name": "P7-T7"
+    },
+    {
+      "number": 25,
+      "name": "T7-FT9"
+    },
+    {
+      "number": 26,
+      "name": "FT9-FT10"
+    },
+    {
+      "number": 27,
+      "name": "FT10-T8"
+    },
+    {
+      "number": 28,
+      "name": "T8-P8"
+    }
+  ],
+  "seizures": [
+    {
+      "seizure_number": 1,
+      "file_name": "chb20_12.edf",
+      "registration_start_time": "03:56:53",
+      "registration_end_time": "4:56:53",
+      "seizure_start_time": "03.58.27",
+      "seizure_end_time": "03.58.56"
+    },
+    {
+      "seizure_number": 2,
+      "file_name": "chb20_13.edf",
+      "registration_start_time": "04:57:00",
+      "registration_end_time": "5:57:00",
+      "seizure_start_time": "05.21.00",
+      "seizure_end_time": "05.21.30"
+    },
+    {
+      "seizure_number": 3,
+      "file_name": "chb20_13.edf",
+      "registration_start_time": "04:57:00",
+      "registration_end_time": "5:57:00",
+      "seizure_start_time": "05.38.38",
+      "seizure_end_time": "05.39.17"
+    },
+    {
+      "seizure_number": 4,
+      "file_name": "chb20_14.edf",
+      "registration_start_time": "05:57:07",
+      "registration_end_time": "6:57:07",
+      "seizure_start_time": "06.29.58",
+      "seizure_end_time": "06.30.36"
+    },
+    {
+      "seizure_number": 5,
+      "file_name": "chb20_15.edf",
+      "registration_start_time": "06:57:14",
+      "registration_end_time": "7:57:14",
+      "seizure_start_time": "07.03.44",
+      "seizure_end_time": "07.04.19"
+    },
+    {
+      "seizure_number": 6,
+      "file_name": "chb20_15.edf",
+      "registration_start_time": "06:57:14",
+      "registration_end_time": "7:57:14",
+      "seizure_start_time": "07.25.23",
+      "seizure_end_time": "07.26.12"
+    },
+    {
+      "seizure_number": 7,
+      "file_name": "chb20_16.edf",
+      "registration_start_time": "07:57:20",
+      "registration_end_time": "8:55:09",
+      "seizure_start_time": "08.34.26",
+      "seizure_end_time": "08.35.01"
+    },
+    {
+      "seizure_number": 8,
+      "file_name": "chb20_68.edf",
+      "registration_start_time": "09:45:07",
+      "registration_end_time": "10:21:14",
+      "seizure_start_time": "10.08.20",
+      "seizure_end_time": "10.08.59"
+    }
+  ],
+  "non-seizures": [
+    {
+      "file_name": "chb20_01.edf",
+      "registration_start_time": "16:55:08",
+      "registration_end_time": "17:55:14"
+    },
+    {
+      "file_name": "chb20_02.edf",
+      "registration_start_time": "17:55:44",
+      "registration_end_time": "18:55:44"
+    },
+    {
+      "file_name": "chb20_03.edf",
+      "registration_start_time": "18:55:51",
+      "registration_end_time": "19:55:51"
+    },
+    {
+      "file_name": "chb20_04.edf",
+      "registration_start_time": "19:55:59",
+      "registration_end_time": "20:55:59"
+    },
+    {
+      "file_name": "chb20_05.edf",
+      "registration_start_time": "20:56:06",
+      "registration_end_time": "21:56:06"
+    },
+    {
+      "file_name": "chb20_06.edf",
+      "registration_start_time": "21:56:13",
+      "registration_end_time": "22:56:13"
+    },
+    {
+      "file_name": "chb20_07.edf",
+      "registration_start_time": "22:56:19",
+      "registration_end_time": "23:56:19"
+    },
+    {
+      "file_name": "chb20_08.edf",
+      "registration_start_time": "23:56:26",
+      "registration_end_time": "24:56:26"
+    },
+    {
+      "file_name": "chb20_11.edf",
+      "registration_start_time": "02:56:46",
+      "registration_end_time": "3:56:46"
+    },
+    {
+      "file_name": "chb20_17.edf",
+      "registration_start_time": "08:55:24",
+      "registration_end_time": "9:55:24"
+    },
+    {
+      "file_name": "chb20_21.edf",
+      "registration_start_time": "12:51:27",
+      "registration_end_time": "13:51:45"
+    },
+    {
+      "file_name": "chb20_22.edf",
+      "registration_start_time": "13:53:06",
+      "registration_end_time": "14:05:28"
+    },
+    {
+      "file_name": "chb20_23.edf",
+      "registration_start_time": "14:11:44",
+      "registration_end_time": "15:01:08"
+    },
+    {
+      "file_name": "chb20_25.edf",
+      "registration_start_time": "16:05:20",
+      "registration_end_time": "17:05:20"
+    },
+    {
+      "file_name": "chb20_26.edf",
+      "registration_start_time": "17:05:27",
+      "registration_end_time": "18:05:27"
+    },
+    {
+      "file_name": "chb20_27.edf",
+      "registration_start_time": "18:05:33",
+      "registration_end_time": "19:05:33"
+    },
+    {
+      "file_name": "chb20_28.edf",
+      "registration_start_time": "19:05:40",
+      "registration_end_time": "20:05:40"
+    },
+    {
+      "file_name": "chb20_29.edf",
+      "registration_start_time": "20:05:47",
+      "registration_end_time": "21:05:47"
+    },
+    {
+      "file_name": "chb20_30.edf",
+      "registration_start_time": "21:05:54",
+      "registration_end_time": "22:05:54"
+    },
+    {
+      "file_name": "chb20_31.edf",
+      "registration_start_time": "22:06:01",
+      "registration_end_time": "23:06:01"
+    },
+    {
+      "file_name": "chb20_34.edf",
+      "registration_start_time": "01:06:21",
+      "registration_end_time": "2:06:21"
+    },
+    {
+      "file_name": "chb20_59.edf",
+      "registration_start_time": "00:44:04",
+      "registration_end_time": "1:44:04"
+    },
+    {
+      "file_name": "chb20_60.edf",
+      "registration_start_time": "01:44:11",
+      "registration_end_time": "2:44:11"
+    }
+  ]
+}
