@@ -1,5 +1,7 @@
 {
   "patient_id": "PN14",
+  "gender": "M",
+  "age": 49,
   "sampling_rate_hz": 512,
   "channels": [
     {"number": 1, "name": "Fp1"},
@@ -34,6 +36,10 @@
     {"number": 39, "name": "T3"},
     {"number": 40, "name": "Cz"}
   ],
+  "eeg_channel": 29,
+  "seizure_type": "WIAS",
+  "localization": "T",
+  "lateralization": "L",
   "seizures": [
     {
       "seizure_number": 1,

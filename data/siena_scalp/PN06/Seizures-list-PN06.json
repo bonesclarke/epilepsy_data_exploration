@@ -1,5 +1,7 @@
 {
   "patient_id": "PN06",
+  "gender": "M",
+  "age": 36,
   "sampling_rate_hz": 512,
   "channels": [
     {"number": 1, "name": "Fp1"},
@@ -34,6 +36,10 @@
     {"number": 33, "name": "EKG 2"},
     {"number": 34, "name": "Fp2"}
   ],
+  "eeg_channel": 29,
+  "seizure_type": "IAS",
+  "localization": "T",
+  "lateralization": "L",
   "seizures": [
     {
       "seizure_number": 1,

@@ -1,5 +1,7 @@
 {
   "patient_id": "PN10",
+  "gender": "M",
+  "age": 25,
   "sampling_rate_hz": 512,
   "channels": [
     {"number": 1, "name": "Fp1"},
@@ -24,6 +26,10 @@
     {"number": 33, "name": "EKG 2"},
     {"number": 34, "name": "Fp2"}
   ],
+  "eeg_channel": 20,
+  "seizure_type": "FBTC",
+  "localization": "F",
+  "lateralization": "Bilateral",
   "seizures": [
     {
       "seizure_number": 1,

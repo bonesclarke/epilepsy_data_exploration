@@ -1,6 +1,12 @@
 {
   "patient_id": "chb01",
+  "gender": "F",
+  "age": 11,
   "sampling_rate_hz": 256,
+  "eeg_channel": 0,
+  "seizure_type": "",
+  "localization": "",
+  "lateralization": "",
   "channels": [
     {
       "number": 1,
