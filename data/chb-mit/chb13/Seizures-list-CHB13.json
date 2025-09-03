@@ -127,8 +127,8 @@
       "file_name": "chb13_19.edf",
       "registration_start_time": "09:14:25",
       "registration_end_time": "10:14:25",
-      "seizure_start_time": "09.49.02",
-      "seizure_end_time": "09.49.46"
+      "seizure_start_time": "09:49:02",
+      "seizure_end_time": "09:49:46"
     },
     {
       "seizure_number": 2,
@@ -159,56 +159,56 @@
       "file_name": "chb13_55.edf",
       "registration_start_time": "21:20:07",
       "registration_end_time": "22:20:07",
-      "seizure_start_time": "21.27.45",
-      "seizure_end_time": "21.28.05"
+      "seizure_start_time": "21:27:45",
+      "seizure_end_time": "21:28:05"
     },
     {
       "seizure_number": 6,
       "file_name": "chb13_55.edf",
       "registration_start_time": "21:20:07",
       "registration_end_time": "22:20:07",
-      "seizure_start_time": "21.60.43",
-      "seizure_end_time": "21.61.01"
+      "seizure_start_time": "22:00:43",
+      "seizure_end_time": "22:01:01"
     },
     {
       "seizure_number": 7,
       "file_name": "chb13_58.edf",
       "registration_start_time": "00:20:28",
       "registration_end_time": "1:20:28",
-      "seizure_start_time": "01.01.42",
-      "seizure_end_time": "01.01.59"
+      "seizure_start_time": "01:01:42",
+      "seizure_end_time": "01:01:59"
     },
     {
       "seizure_number": 8,
       "file_name": "chb13_59.edf",
       "registration_start_time": "01:20:34",
       "registration_end_time": "2:20:34",
-      "seizure_start_time": "02.16.13",
-      "seizure_end_time": "02.17.15"
+      "seizure_start_time": "02:16:13",
+      "seizure_end_time": "02:17:15"
     },
     {
       "seizure_number": 9,
       "file_name": "chb13_60.edf",
       "registration_start_time": "02:20:41",
       "registration_end_time": "3:20:41",
-      "seizure_start_time": "02.31.19",
-      "seizure_end_time": "02.31.41"
+      "seizure_start_time": "02:31:19",
+      "seizure_end_time": "02:31:41"
     },
     {
       "seizure_number": 10,
       "file_name": "chb13_62.edf",
       "registration_start_time": "04:20:55",
       "registration_end_time": "5:20:55",
-      "seizure_start_time": "04.35.06",
-      "seizure_end_time": "04.36.11"
+      "seizure_start_time": "04:35:06",
+      "seizure_end_time": "04:36:11"
     },
     {
       "seizure_number": 11,
       "file_name": "chb13_62.edf",
       "registration_start_time": "04:20:55",
       "registration_end_time": "5:20:55",
-      "seizure_start_time": "04.48.01",
-      "seizure_end_time": "04.49.06"
+      "seizure_start_time": "04:48:01",
+      "seizure_end_time": "04:49:06"
     },
     {
       "seizure_number": 12,

@@ -107,56 +107,56 @@
       "file_name": "chb03_01.edf",
       "registration_start_time": "13:23:36",
       "registration_end_time": "14:23:36",
-      "seizure_start_time": "13.29.38",
-      "seizure_end_time": "13.30.30"
+      "seizure_start_time": "13:29:38",
+      "seizure_end_time": "13:30:30"
     },
     {
       "seizure_number": 2,
       "file_name": "chb03_02.edf",
       "registration_start_time": "14:23:39",
       "registration_end_time": "15:23:39",
-      "seizure_start_time": "14.35.50",
-      "seizure_end_time": "14.36.55"
+      "seizure_start_time": "14:35:50",
+      "seizure_end_time": "14:36:55"
     },
     {
       "seizure_number": 3,
       "file_name": "chb03_03.edf",
       "registration_start_time": "15:23:47",
       "registration_end_time": "16:23:47",
-      "seizure_start_time": "15.30.59",
-      "seizure_end_time": "15.32.08"
+      "seizure_start_time": "15:30:59",
+      "seizure_end_time": "15:32:08"
     },
     {
       "seizure_number": 4,
       "file_name": "chb03_04.edf",
       "registration_start_time": "16:23:54",
       "registration_end_time": "17:23:54",
-      "seizure_start_time": "17.00.16",
-      "seizure_end_time": "17.01.08"
+      "seizure_start_time": "17:00:16",
+      "seizure_end_time": "17:01:08"
     },
     {
       "seizure_number": 5,
       "file_name": "chb03_34.edf",
       "registration_start_time": "01:51:23",
       "registration_end_time": "2:51:23",
-      "seizure_start_time": "02.24.25",
-      "seizure_end_time": "02.25.12"
+      "seizure_start_time": "02:24:25",
+      "seizure_end_time": "02:25:12"
     },
     {
       "seizure_number": 6,
       "file_name": "chb03_35.edf",
       "registration_start_time": "02:51:30",
       "registration_end_time": "3:51:30",
-      "seizure_start_time": "03.34.42",
-      "seizure_end_time": "03.35.46"
+      "seizure_start_time": "03:34:42",
+      "seizure_end_time": "03:35:46"
     },
     {
       "seizure_number": 7,
       "file_name": "chb03_36.edf",
       "registration_start_time": "04:51:45",
       "registration_end_time": "5:51:45",
-      "seizure_start_time": "05.20.30",
-      "seizure_end_time": "05.21.23"
+      "seizure_start_time": "05:20:30",
+      "seizure_end_time": "05:21:23"
     }
   ],
   "non-seizures": [
