@@ -105,130 +105,130 @@
     {
       "seizure_number": 1,
       "file_name": "chb24_01.edf",
-      "registration_start_time": "N/A",
-      "registration_end_time": "N/A",
-      "seizure_start_time": "00.08.00",
-      "seizure_end_time": "00.08.25"
+      "registration_start_time": "16:26:28",
+      "registration_end_time": "17:26:28",
+      "seizure_start_time": "16:34:28",
+      "seizure_end_time": "16:34:53"
     },
     {
       "seizure_number": 2,
       "file_name": "chb24_01.edf",
-      "registration_start_time": "N/A",
-      "registration_end_time": "N/A",
-      "seizure_start_time": "00.40.51",
-      "seizure_end_time": "00.41.16"
+      "registration_start_time": "16:26:28",
+      "registration_end_time": "17:26:28",
+      "seizure_start_time": "17:07:19",
+      "seizure_end_time": "17:07:44"
     },
     {
       "seizure_number": 3,
       "file_name": "chb24_03.edf",
-      "registration_start_time": "N/A",
-      "registration_end_time": "N/A",
-      "seizure_start_time": "00.03.51",
-      "seizure_end_time": "00.04.20"
+      "registration_start_time": "18:26:39",
+      "registration_end_time": "19:26:39",
+      "seizure_start_time": "18:30:30",
+      "seizure_end_time": "18:30:59"
     },
     {
       "seizure_number": 4,
       "file_name": "chb24_03.edf",
-      "registration_start_time": "N/A",
-      "registration_end_time": "N/A",
-      "seizure_start_time": "00.48.03",
-      "seizure_end_time": "00.48.28"
+      "registration_start_time": "18:26:39",
+      "registration_end_time": "19:26:39",
+      "seizure_start_time": "19:14:42",
+      "seizure_end_time": "19:15:07"
     },
     {
       "seizure_number": 5,
       "file_name": "chb24_04.edf",
-      "registration_start_time": "N/A",
-      "registration_end_time": "N/A",
-      "seizure_start_time": "00.18.08",
-      "seizure_end_time": "00.18.40"
+      "registration_start_time": "19:26:46",
+      "registration_end_time": "20:26:46",
+      "seizure_start_time": "19:44:54",
+      "seizure_end_time": "19:45:26"
     },
     {
       "seizure_number": 6,
       "file_name": "chb24_04.edf",
-      "registration_start_time": "N/A",
-      "registration_end_time": "N/A",
-      "seizure_start_time": "00.23.31",
-      "seizure_end_time": "00.23.58"
+      "registration_start_time": "19:26:46",
+      "registration_end_time": "20:26:46",
+      "seizure_start_time": "19:50:17",
+      "seizure_end_time": "19:50:44"
     },
     {
       "seizure_number": 7,
       "file_name": "chb24_04.edf",
-      "registration_start_time": "N/A",
-      "registration_end_time": "N/A",
-      "seizure_start_time": "00.29.05",
-      "seizure_end_time": "00.29.24"
+      "registration_start_time": "19:26:46",
+      "registration_end_time": "20:26:46",
+      "seizure_start_time": "19:55:51",
+      "seizure_end_time": "19:56:10"
     },
     {
       "seizure_number": 8,
       "file_name": "chb24_06.edf",
-      "registration_start_time": "N/A",
-      "registration_end_time": "N/A",
-      "seizure_start_time": "00.20.29",
-      "seizure_end_time": "00.20.53"
+      "registration_start_time": "21:27:00",
+      "registration_end_time": "22:27:00",
+      "seizure_start_time": "21:47:29",
+      "seizure_end_time": "21:47:53"
     },
     {
       "seizure_number": 9,
       "file_name": "chb24_07.edf",
-      "registration_start_time": "N/A",
-      "registration_end_time": "N/A",
-      "seizure_start_time": "00.00.38",
-      "seizure_end_time": "00.01.00"
+      "registration_start_time": "22:27:08",
+      "registration_end_time": "23:27:08",
+      "seizure_start_time": "22:27:46",
+      "seizure_end_time": "22:28:46"
     },
     {
       "seizure_number": 10,
       "file_name": "chb24_09.edf",
-      "registration_start_time": "N/A",
-      "registration_end_time": "N/A",
-      "seizure_start_time": "00.29.05",
-      "seizure_end_time": "00.29.24"
+      "registration_start_time": "00:27:22",
+      "registration_end_time": "01:27:22",
+      "seizure_start_time": "00:56:27",
+      "seizure_end_time": "00:56:46"
     },
     {
       "seizure_number": 11,
       "file_name": "chb24_11.edf",
-      "registration_start_time": "N/A",
-      "registration_end_time": "N/A",
-      "seizure_start_time": "00.58.47",
-      "seizure_end_time": "00.59.57"
+      "registration_start_time": "02:27:36",
+      "registration_end_time": "03:27:36",
+      "seizure_start_time": "02:58:47",
+      "seizure_end_time": "02:59:57"
     },
     {
       "seizure_number": 12,
       "file_name": "chb24_13.edf",
-      "registration_start_time": "N/A",
-      "registration_end_time": "N/A",
-      "seizure_start_time": "00.54.48",
-      "seizure_end_time": "00.55.04"
+      "registration_start_time": "04:27:50",
+      "registration_end_time": "05:27:50",
+      "seizure_start_time": "05:22:38",
+      "seizure_end_time": "05:22:54"
     },
     {
       "seizure_number": 13,
       "file_name": "chb24_14.edf",
-      "registration_start_time": "N/A",
-      "registration_end_time": "N/A",
-      "seizure_start_time": "00.32.19",
-      "seizure_end_time": "00.32.46"
+      "registration_start_time": "05:27:57",
+      "registration_end_time": "06:27:57",
+      "seizure_start_time": "06:00:16",
+      "seizure_end_time": "06:00:43"
     },
     {
       "seizure_number": 14,
       "file_name": "chb24_15.edf",
-      "registration_start_time": "N/A",
-      "registration_end_time": "N/A",
-      "seizure_start_time": "00.59.12",
-      "seizure_end_time": "00.59.29"
+      "registration_start_time": "06:28:05",
+      "registration_end_time": "07:28:05",
+      "seizure_start_time": "07:27:17",
+      "seizure_end_time": "07:27:34"
     },
     {
       "seizure_number": 15,
       "file_name": "chb24_17.edf",
-      "registration_start_time": "N/A",
-      "registration_end_time": "N/A",
-      "seizure_start_time": "00.58.35",
-      "seizure_end_time": "00.59.41"
+      "registration_start_time": "08:28:19",
+      "registration_end_time": "09:28:19",
+      "seizure_start_time": "09:26:54",
+      "seizure_end_time": "09:28:00"
     },
     {
       "seizure_number": 16,
       "file_name": "chb24_21.edf",
-      "registration_start_time": "N/A",
-      "registration_end_time": "N/A",
-      "seizure_start_time": "00.46.44",
-      "seizure_end_time": "00.47.52"
+      "registration_start_time": "12:28:50",
+      "registration_end_time": "13:28:50",
+      "seizure_start_time": "13:15:34",
+      "seizure_end_time": "13:16:42"
     }
   ],
   "non-seizures": []
