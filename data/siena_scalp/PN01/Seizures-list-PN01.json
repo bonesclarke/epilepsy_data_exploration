@@ -43,19 +43,19 @@
   "seizures": [
     {
       "seizure_number": 1,
-      "file_name": "PN01.edf",
+      "file_name": "PN01-1.edf",
       "seizure_start_time": "21:51:02",
-      "seizure_end_time": "21.51.56",
-      "registration_start_time": "19.00.44",
-      "registration_end_time": "08.29.41"
+      "seizure_end_time": "21:51:56",
+      "registration_start_time": "19:00:44",
+      "registration_end_time": "08:29:41"
     },
     {
       "seizure_number": 2,
-      "file_name": "PN01.edf",
-      "seizure_start_time": "07.53.17",
-      "seizure_end_time": "07.54.31",
-      "registration_start_time": "19.00.44",
-      "registration_end_time": "08.29.41"
+      "file_name": "PN01-1.edf",
+      "seizure_start_time": "07:53:17",
+      "seizure_end_time": "07:54:31",
+      "registration_start_time": "19:00:44",
+      "registration_end_time": "08:29:41"
     }
   ]
 }

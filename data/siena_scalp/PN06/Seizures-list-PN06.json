@@ -43,7 +43,7 @@
   "seizures": [
     {
       "seizure_number": 1,
-      "file_name": "PNO6-1.edf",
+      "file_name": "PN06-1.edf",
       "registration_start_time": "04.21.22",
       "registration_end_time": "07.01.37",
       "seizure_start_time": "05.54.25",
@@ -52,7 +52,7 @@
     },
     {
       "seizure_number": 2,
-      "file_name": "PNO6-2.edf",
+      "file_name": "PN06-2.edf",
       "registration_start_time": "21.11.29",
       "registration_end_time": "00.41.49",
       "seizure_start_time": "23.39.09",
@@ -68,7 +68,7 @@
     },
     {
       "seizure_number": 4,
-      "file_name": "PNO6-4.edf",
+      "file_name": "PN06-4.edf",
       "registration_start_time": "11.16.09",
       "registration_end_time": "13.12.54",
       "seizure_start_time": "12.55.08",

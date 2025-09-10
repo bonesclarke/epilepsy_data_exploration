@@ -43,11 +43,11 @@
   "seizures": [
     {
       "seizure_number": 1,
-      "file_name": "PN11-.edf",
-      "registration_start_time": "11.31.25",
-      "registration_end_time": "13.56.02",
-      "seizure_start_time": "13.37.19",
-      "seizure_end_time": "13.38.14"
+      "file_name": "PN11-1.edf",
+      "registration_start_time": "11:31:25",
+      "registration_end_time": "13:56:02",
+      "seizure_start_time": "13:37:19",
+      "seizure_end_time": "13:38:14"
     }
   ]
 }
