@@ -118,17 +118,17 @@
       "seizure_number": 2,
       "file_name": "chb09_08.edf",
       "registration_start_time": "20:22:17",
-      "registration_end_time": "24:22:17",
-      "seizure_start_time": "21.11.28",
-      "seizure_end_time": "21.12.47"
+      "registration_end_time": "00:22:17",
+      "seizure_start_time": "21:11:28",
+      "seizure_end_time": "21:12:47"
     },
     {
       "seizure_number": 3,
       "file_name": "chb09_08.edf",
       "registration_start_time": "20:22:17",
-      "registration_end_time": "24:22:17",
-      "seizure_start_time": "22.55.33",
-      "seizure_end_time": "22.56.44"
+      "registration_end_time": "00:22:17",
+      "seizure_start_time": "22:55:33",
+      "seizure_end_time": "22:56:44"
     },
     {
       "seizure_number": 4,
