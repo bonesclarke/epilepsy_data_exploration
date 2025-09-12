@@ -1,0 +1,4384 @@
+Processing 245 seizure records...
+============================================================
+  0%|          | 0/245 [00:00<?, ?it/s]Patient id: chb01
+Edf file: chb01_03.edf
+Registration start: 13:43:04
+Registration end: 14:43:04
+Registration start seconds: 49384
+Registration end seconds: 52984
+EDF file duration: 3600
+Seizure start: 14:33:00
+Seizure end: 14:33:40
+Seizure start seconds: 52380
+Seizure end seconds: 52420
+Seizure duration: 40
+Seizure onset seconds: 2996
+Post-ictal onset seconds: 3036
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+  0%|          | 1/245 [00:53<3:35:35, 53.02s/it]Patient id: chb01
+Edf file: chb01_04.edf
+Registration start: 14:43:12
+Registration end: 15:43:12
+Registration start seconds: 52992
+Registration end seconds: 56592
+EDF file duration: 3600
+Seizure start: 15:07:39
+Seizure end: 15:08:06
+Seizure start seconds: 54459
+Seizure end seconds: 54486
+Seizure duration: 27
+Seizure onset seconds: 1467
+Post-ictal onset seconds: 1494
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+  1%|          | 2/245 [02:39<5:43:00, 84.69s/it]Patient id: chb01
+Edf file: chb01_15.edf
+Registration start: 01:44:44
+Registration end: 02:44:44
+Registration start seconds: 6284
+Registration end seconds: 9884
+EDF file duration: 3600
+Seizure start: 02:13:36
+Seizure end: 02:14:16
+Seizure start seconds: 8016
+Seizure end seconds: 8056
+Seizure duration: 40
+Seizure onset seconds: 1732
+Post-ictal onset seconds: 1772
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+  1%|          | 3/245 [04:37<6:41:27, 99.54s/it]Patient id: chb01
+Edf file: chb01_16.edf
+Registration start: 02:44:51
+Registration end: 03:44:51
+Registration start seconds: 9891
+Registration end seconds: 13491
+EDF file duration: 3600
+Seizure start: 03:01:46
+Seizure end: 03:02:37
+Seizure start seconds: 10906
+Seizure end seconds: 10957
+Seizure duration: 51
+Seizure onset seconds: 1015
+Post-ictal onset seconds: 1066
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+  2%|▏         | 4/245 [08:22<9:58:45, 149.07s/it]Patient id: chb01
+Edf file: chb01_18.edf
+Registration start: 04:45:06
+Registration end: 05:45:06
+Registration start seconds: 17106
+Registration end seconds: 20706
+EDF file duration: 3600
+Seizure start: 05:13:46
+Seizure end: 05:15:16
+Seizure start seconds: 18826
+Seizure end seconds: 18916
+Seizure duration: 90
+Seizure onset seconds: 1720
+Post-ictal onset seconds: 1810
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+  2%|▏         | 5/245 [10:04<8:48:26, 132.11s/it]Patient id: chb01
+Edf file: chb01_21.edf
+Registration start: 07:33:46
+Registration end: 08:33:46
+Registration start seconds: 27226
+Registration end seconds: 30826
+EDF file duration: 3600
+Seizure start: 07:39:13
+Seizure end: 07:40:46
+Seizure start seconds: 27553
+Seizure end seconds: 27646
+Seizure duration: 93
+Seizure onset seconds: 327
+Post-ictal onset seconds: 420
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+  2%|▏         | 6/245 [13:59<11:06:25, 167.31s/it]Patient id: chb01
+Edf file: chb01_26.edf
+Registration start: 12:34:22
+Registration end: 13:13:07
+Registration start seconds: 45262
+Registration end seconds: 47587
+EDF file duration: 2325
+Seizure start: 13:05:24
+Seizure end: 13:07:05
+Seizure start seconds: 47124
+Seizure end seconds: 47225
+Seizure duration: 101
+Seizure onset seconds: 1862
+Post-ictal onset seconds: 1963
+Post-ictal end seconds: 2324
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+  3%|▎         | 7/245 [14:42<8:22:35, 126.70s/it] Patient id: chb02
+Edf file: chb02_16.edf
+Registration start: 09:31:46
+Registration end: 09:47:45
+Registration start seconds: 34306
+Registration end seconds: 35265
+EDF file duration: 959
+Seizure start: 09:33:56
+Seizure end: 09:35:18
+Seizure start seconds: 34436
+Seizure end seconds: 34518
+Seizure duration: 82
+Seizure onset seconds: 130
+Post-ictal onset seconds: 212
+Post-ictal end seconds: 958
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+  3%|▎         | 8/245 [15:36<6:49:09, 103.59s/it]Patient id: chb02
+Edf file: chb02_16.1.edf
+Registration start: 10:50:23
+Registration end: 11:50:23
+Registration start seconds: 39023
+Registration end seconds: 42623
+EDF file duration: 3600
+Seizure start: 11:39:55
+Seizure end: 11:41:16
+Seizure start seconds: 41995
+Seizure end seconds: 42076
+Seizure duration: 81
+Seizure onset seconds: 2972
+Post-ictal onset seconds: 3053
+Post-ictal end seconds: 3599
+Patient id: chb02
+Edf file: chb02_19.edf
+Registration start: 13:50:45
+Registration end: 14:50:45
+Registration start seconds: 49845
+Registration end seconds: 53445
+EDF file duration: 3600
+Seizure start: 14:46:54
+Seizure end: 14:47:03
+Seizure start seconds: 53214
+Seizure end seconds: 53223
+Seizure duration: 9
+Seizure onset seconds: 3369
+Post-ictal onset seconds: 3378
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+  4%|▍         | 10/245 [16:08<4:01:41, 61.71s/it]Patient id: chb03
+Edf file: chb03_01.edf
+Registration start: 13:23:36
+Registration end: 14:23:36
+Registration start seconds: 48216
+Registration end seconds: 51816
+EDF file duration: 3600
+Seizure start: 13:29:38
+Seizure end: 13:30:30
+Seizure start seconds: 48578
+Seizure end seconds: 48630
+Seizure duration: 52
+Seizure onset seconds: 362
+Post-ictal onset seconds: 414
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+  4%|▍         | 11/245 [19:17<6:06:59, 94.10s/it]Patient id: chb03
+Edf file: chb03_02.edf
+Registration start: 14:23:39
+Registration end: 15:23:39
+Registration start seconds: 51819
+Registration end seconds: 55419
+EDF file duration: 3600
+Seizure start: 14:35:50
+Seizure end: 14:36:55
+Seizure start seconds: 52550
+Seizure end seconds: 52615
+Seizure duration: 65
+Seizure onset seconds: 731
+Post-ictal onset seconds: 796
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+  5%|▍         | 12/245 [22:10<7:26:28, 114.97s/it]Patient id: chb03
+Edf file: chb03_03.edf
+Registration start: 15:23:47
+Registration end: 16:23:47
+Registration start seconds: 55427
+Registration end seconds: 59027
+EDF file duration: 3600
+Seizure start: 15:30:59
+Seizure end: 15:32:08
+Seizure start seconds: 55859
+Seizure end seconds: 55928
+Seizure duration: 69
+Seizure onset seconds: 432
+Post-ictal onset seconds: 501
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+  5%|▌         | 13/245 [24:31<7:52:26, 122.18s/it]Patient id: chb03
+Edf file: chb03_04.edf
+Registration start: 16:23:54
+Registration end: 17:23:54
+Registration start seconds: 59034
+Registration end seconds: 62634
+EDF file duration: 3600
+Seizure start: 17:00:16
+Seizure end: 17:01:08
+Seizure start seconds: 61216
+Seizure end seconds: 61268
+Seizure duration: 52
+Seizure onset seconds: 2182
+Post-ictal onset seconds: 2234
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+  6%|▌         | 14/245 [25:48<7:01:46, 109.55s/it]Patient id: chb03
+Edf file: chb03_34.edf
+Registration start: 01:51:23
+Registration end: 02:51:23
+Registration start seconds: 6683
+Registration end seconds: 10283
+EDF file duration: 3600
+Seizure start: 02:24:25
+Seizure end: 02:25:12
+Seizure start seconds: 8665
+Seizure end seconds: 8712
+Seizure duration: 47
+Seizure onset seconds: 1982
+Post-ictal onset seconds: 2029
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+  6%|▌         | 15/245 [27:37<6:59:04, 109.32s/it]Patient id: chb03
+Edf file: chb03_35.edf
+Registration start: 02:51:30
+Registration end: 03:51:30
+Registration start seconds: 10290
+Registration end seconds: 13890
+EDF file duration: 3600
+Seizure start: 03:34:42
+Seizure end: 03:35:46
+Seizure start seconds: 12882
+Seizure end seconds: 12946
+Seizure duration: 64
+Seizure onset seconds: 2592
+Post-ictal onset seconds: 2656
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+  7%|▋         | 16/245 [28:50<6:16:41, 98.70s/it] Patient id: chb03
+Edf file: chb03_36.edf
+Registration start: 04:51:45
+Registration end: 05:51:45
+Registration start seconds: 17505
+Registration end seconds: 21105
+EDF file duration: 3600
+Seizure start: 05:20:30
+Seizure end: 05:21:23
+Seizure start seconds: 19230
+Seizure end seconds: 19283
+Seizure duration: 53
+Seizure onset seconds: 1725
+Post-ictal onset seconds: 1778
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+  7%|▋         | 17/245 [30:27<6:13:53, 98.39s/it]Patient id: chb04
+Edf file: chb04_05.edf
+Registration start: 10:02:37
+Registration end: 12:41:33
+Registration start seconds: 36157
+Registration end seconds: 45693
+EDF file duration: 9536
+Seizure start: 12:12:41
+Seizure end: 12:13:30
+Seizure start seconds: 43961
+Seizure end seconds: 44010
+Seizure duration: 49
+Seizure onset seconds: 7804
+Post-ictal onset seconds: 7853
+Post-ictal end seconds: 9535
+Detected 22 onset times
+Found 23 onsets and 23 peaks
+  7%|▋         | 18/245 [32:00<6:05:41, 96.66s/it]Patient id: chb04
+Edf file: chb04_08.edf
+Registration start: 18:53:30
+Registration end: 22:53:30
+Registration start seconds: 68010
+Registration end seconds: 82410
+EDF file duration: 14400
+Seizure start: 20:40:56
+Seizure end: 20:42:47
+Seizure start seconds: 74456
+Seizure end seconds: 74567
+Seizure duration: 111
+Seizure onset seconds: 6446
+Post-ictal onset seconds: 6557
+Post-ictal end seconds: 14399
+Detected 24 onset times
+Found 24 onsets and 24 peaks
+  8%|▊         | 19/245 [39:10<12:16:52, 195.63s/it]Patient id: chb04
+Edf file: chb04_28.edf
+Registration start: 00:04:47
+Registration end: 04:05:10
+Registration start seconds: 287
+Registration end seconds: 14710
+EDF file duration: 14423
+Seizure start: 00:32:46
+Seizure end: 00:34:28
+Seizure start seconds: 1966
+Seizure end seconds: 2068
+Seizure duration: 102
+Seizure onset seconds: 1679
+Post-ictal onset seconds: 1781
+Post-ictal end seconds: 14422
+Detected 24 onset times
+Found 24 onsets and 24 peaks
+  8%|▊         | 20/245 [59:04<30:48:02, 492.81s/it]Patient id: chb04
+Edf file: chb04_28.edf
+Registration start: 00:04:47
+Registration end: 04:05:10
+Registration start seconds: 287
+Registration end seconds: 14710
+EDF file duration: 14423
+Seizure start: 01:07:49
+Seizure end: 01:09:45
+Seizure start seconds: 4069
+Seizure end seconds: 4185
+Seizure duration: 116
+Seizure onset seconds: 3782
+Post-ictal onset seconds: 3898
+Post-ictal end seconds: 14422
+Detected 24 onset times
+Found 24 onsets and 24 peaks
+  9%|▊         | 21/245 [1:14:53<39:08:17, 629.01s/it]Patient id: chb05
+Edf file: chb05_06.edf
+Registration start: 22:21:25
+Registration end: 23:21:25
+Registration start seconds: 80485
+Registration end seconds: 84085
+EDF file duration: 3600
+Seizure start: 22:28:22
+Seizure end: 22:30:17
+Seizure start seconds: 80902
+Seizure end seconds: 81017
+Seizure duration: 115
+Seizure onset seconds: 417
+Post-ictal onset seconds: 532
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+  9%|▉         | 22/245 [1:17:53<30:39:06, 494.83s/it]Patient id: chb05
+Edf file: chb05_13.edf
+Registration start: 05:22:15
+Registration end: 06:22:15
+Registration start seconds: 19335
+Registration end seconds: 22935
+EDF file duration: 3600
+Seizure start: 05:40:21
+Seizure end: 05:42:11
+Seizure start seconds: 20421
+Seizure end seconds: 20531
+Seizure duration: 110
+Seizure onset seconds: 1086
+Post-ictal onset seconds: 1196
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+  9%|▉         | 23/245 [1:20:35<24:22:59, 395.40s/it]Patient id: chb05
+Edf file: chb05_16.edf
+Registration start: 08:22:35
+Registration end: 09:22:35
+Registration start seconds: 30155
+Registration end seconds: 33755
+EDF file duration: 3600
+Seizure start: 09:01:12
+Seizure end: 09:02:48
+Seizure start seconds: 32472
+Seizure end seconds: 32568
+Seizure duration: 96
+Seizure onset seconds: 2317
+Post-ictal onset seconds: 2413
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 10%|▉         | 24/245 [1:21:55<18:28:02, 300.83s/it]Patient id: chb05
+Edf file: chb05_17.edf
+Registration start: 09:22:42
+Registration end: 10:22:42
+Registration start seconds: 33762
+Registration end seconds: 37362
+EDF file duration: 3600
+Seizure start: 10:03:33
+Seizure end: 10:05:33
+Seizure start seconds: 36213
+Seizure end seconds: 36333
+Seizure duration: 120
+Seizure onset seconds: 2451
+Post-ictal onset seconds: 2571
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 10%|█         | 25/245 [1:23:02<14:06:04, 230.75s/it]Patient id: chb05
+Edf file: chb05_22.edf
+Registration start: 14:23:17
+Registration end: 15:23:17
+Registration start seconds: 51797
+Registration end seconds: 55397
+EDF file duration: 3600
+Seizure start: 15:02:25
+Seizure end: 15:04:22
+Seizure start seconds: 54145
+Seizure end seconds: 54262
+Seizure duration: 117
+Seizure onset seconds: 2348
+Post-ictal onset seconds: 2465
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 11%|█         | 26/245 [1:24:24<11:20:00, 186.30s/it]Patient id: chb06
+Edf file: chb06_01.edf
+Registration start: 19:08:32
+Registration end: 23:08:59
+Registration start seconds: 68912
+Registration end seconds: 83339
+EDF file duration: 14427
+Seizure start: 19:37:16
+Seizure end: 19:37:30
+Seizure start seconds: 70636
+Seizure end seconds: 70650
+Seizure duration: 14
+Seizure onset seconds: 1724
+Post-ictal onset seconds: 1738
+Post-ictal end seconds: 14426
+Detected 19 onset times
+Found 23 onsets and 23 peaks
+ 11%|█         | 27/245 [1:38:20<23:04:27, 381.04s/it]Patient id: chb06
+Edf file: chb06_01.edf
+Registration start: 19:08:32
+Registration end: 23:08:59
+Registration start seconds: 68912
+Registration end seconds: 83339
+EDF file duration: 14427
+Seizure start: 21:12:53
+Seizure end: 21:13:08
+Seizure start seconds: 76373
+Seizure end seconds: 76388
+Seizure duration: 15
+Seizure onset seconds: 7461
+Post-ictal onset seconds: 7476
+Post-ictal end seconds: 14426
+Detected 17 onset times
+Found 23 onsets and 23 peaks
+ 11%|█▏        | 28/245 [1:45:57<24:20:31, 403.83s/it]Patient id: chb06
+Edf file: chb06_01.edf
+Registration start: 19:08:32
+Registration end: 23:08:59
+Registration start seconds: 68912
+Registration end seconds: 83339
+EDF file duration: 14427
+Seizure start: 22:53:37
+Seizure end: 22:53:52
+Seizure start seconds: 82417
+Seizure end seconds: 82432
+Seizure duration: 15
+Seizure onset seconds: 13505
+Post-ictal onset seconds: 13520
+Post-ictal end seconds: 14426
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 12%|█▏        | 29/245 [1:46:58<18:03:01, 300.84s/it]Patient id: chb06
+Edf file: chb06_04.edf
+Registration start: 07:09:51
+Registration end: 10:50:52
+Registration start seconds: 25791
+Registration end seconds: 39052
+EDF file duration: 13261
+Seizure start: 07:15:18
+Seizure end: 07:15:38
+Seizure start seconds: 26118
+Seizure end seconds: 26138
+Seizure duration: 20
+Seizure onset seconds: 327
+Post-ictal onset seconds: 347
+Post-ictal end seconds: 13260
+Detected 15 onset times
+Found 23 onsets and 23 peaks
+ 12%|█▏        | 30/245 [1:58:34<25:02:35, 419.33s/it]Patient id: chb06
+Edf file: chb06_04.edf
+Registration start: 07:09:51
+Registration end: 10:50:52
+Registration start seconds: 25791
+Registration end seconds: 39052
+EDF file duration: 13261
+Seizure start: 08:53:22
+Seizure end: 08:53:42
+Seizure start seconds: 32002
+Seizure end seconds: 32022
+Seizure duration: 20
+Seizure onset seconds: 6211
+Post-ictal onset seconds: 6231
+Post-ictal end seconds: 13260
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 13%|█▎        | 31/245 [2:03:54<23:09:27, 389.57s/it]Patient id: chb06
+Edf file: chb06_09.edf
+Registration start: 02:51:47
+Registration end: 06:51:47
+Registration start seconds: 10307
+Registration end seconds: 24707
+EDF file duration: 14400
+Seizure start: 06:20:07
+Seizure end: 06:20:23
+Seizure start seconds: 22807
+Seizure end seconds: 22823
+Seizure duration: 16
+Seizure onset seconds: 12500
+Post-ictal onset seconds: 12516
+Post-ictal end seconds: 14399
+Detected 22 onset times
+Found 23 onsets and 23 peaks
+ 13%|█▎        | 32/245 [2:06:11<18:34:18, 313.89s/it]Patient id: chb06
+Edf file: chb06_10.edf
+Registration start: 06:51:54
+Registration end: 10:51:54
+Registration start seconds: 24714
+Registration end seconds: 39114
+EDF file duration: 14400
+Seizure start: 09:52:27
+Seizure end: 09:52:39
+Seizure start seconds: 35547
+Seizure end seconds: 35559
+Seizure duration: 12
+Seizure onset seconds: 10833
+Post-ictal onset seconds: 10845
+Post-ictal end seconds: 14399
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 13%|█▎        | 33/245 [2:08:49<15:43:48, 267.12s/it]Patient id: chb06
+Edf file: chb06_13.edf
+Registration start: 18:52:20
+Registration end: 22:52:20
+Registration start seconds: 67940
+Registration end seconds: 82340
+EDF file duration: 14400
+Seizure start: 19:00:46
+Seizure end: 19:00:59
+Seizure start seconds: 68446
+Seizure end seconds: 68459
+Seizure duration: 13
+Seizure onset seconds: 506
+Post-ictal onset seconds: 519
+Post-ictal end seconds: 14399
+Detected 22 onset times
+Found 23 onsets and 23 peaks
+ 14%|█▍        | 34/245 [2:29:51<33:09:08, 565.63s/it]Patient id: chb06
+Edf file: chb06_18.edf
+Registration start: 11:45:55
+Registration end: 13:58:03
+Registration start seconds: 42355
+Registration end seconds: 50283
+EDF file duration: 7928
+Seizure start: 13:55:54
+Seizure end: 13:56:06
+Seizure start seconds: 50154
+Seizure end seconds: 50166
+Seizure duration: 12
+Seizure onset seconds: 7799
+Post-ictal onset seconds: 7811
+Post-ictal end seconds: 7927
+Detected 20 onset times
+Found 22 onsets and 23 peaks
+ 14%|█▍        | 35/245 [2:30:20<23:36:14, 404.64s/it]Patient id: chb06
+Edf file: chb06_24.edf
+Registration start: 08:23:24
+Registration end: 12:23:24
+Registration start seconds: 30204
+Registration end seconds: 44604
+EDF file duration: 14400
+Seizure start: 11:00:11
+Seizure end: 11:00:27
+Seizure start seconds: 39611
+Seizure end seconds: 39627
+Seizure duration: 16
+Seizure onset seconds: 9407
+Post-ictal onset seconds: 9423
+Post-ictal end seconds: 14399
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 15%|█▍        | 36/245 [2:34:36<20:53:42, 359.92s/it]Patient id: chb07
+Edf file: chb07_12.edf
+Registration start: 07:46:22
+Registration end: 11:46:22
+Registration start seconds: 27982
+Registration end seconds: 42382
+EDF file duration: 14400
+Seizure start: 09:08:22
+Seizure end: 09:09:48
+Seizure start seconds: 32902
+Seizure end seconds: 32988
+Seizure duration: 86
+Seizure onset seconds: 4920
+Post-ictal onset seconds: 5006
+Post-ictal end seconds: 14399
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 15%|█▌        | 37/245 [2:42:49<23:06:03, 399.82s/it]Patient id: chb07
+Edf file: chb07_13.edf
+Registration start: 11:46:29
+Registration end: 12:48:35
+Registration start seconds: 42389
+Registration end seconds: 46115
+EDF file duration: 3726
+Seizure start: 12:41:14
+Seizure end: 12:42:50
+Seizure start seconds: 45674
+Seizure end seconds: 45770
+Seizure duration: 96
+Seizure onset seconds: 3285
+Post-ictal onset seconds: 3381
+Post-ictal end seconds: 3725
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 16%|█▌        | 38/245 [2:43:26<16:44:48, 291.25s/it]Patient id: chb07
+Edf file: chb07_19.edf
+Registration start: 08:12:32
+Registration end: 12:12:43
+Registration start seconds: 29552
+Registration end seconds: 43963
+EDF file duration: 14411
+Seizure start: 12:00:20
+Seizure end: 12:02:43
+Seizure start seconds: 43220
+Seizure end seconds: 43363
+Seizure duration: 143
+Seizure onset seconds: 13668
+Post-ictal onset seconds: 13811
+Post-ictal end seconds: 14410
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 16%|█▌        | 39/245 [2:44:22<12:37:30, 220.64s/it]Patient id: chb08
+Edf file: chb08_02.edf
+Registration start: 12:28:57
+Registration end: 13:28:57
+Registration start seconds: 44937
+Registration end seconds: 48537
+EDF file duration: 3600
+Seizure start: 13:13:27
+Seizure end: 13:16:18
+Seizure start seconds: 47607
+Seizure end seconds: 47778
+Seizure duration: 171
+Seizure onset seconds: 2670
+Post-ictal onset seconds: 2841
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 16%|█▋        | 40/245 [2:45:24<9:50:32, 172.84s/it] Patient id: chb08
+Edf file: chb08_05.edf
+Registration start: 15:29:14
+Registration end: 16:29:14
+Registration start seconds: 55754
+Registration end seconds: 59354
+EDF file duration: 3600
+Seizure start: 16:16:50
+Seizure end: 16:20:00
+Seizure start seconds: 58610
+Seizure end seconds: 58800
+Seizure duration: 190
+Seizure onset seconds: 2856
+Post-ictal onset seconds: 3046
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 17%|█▋        | 41/245 [2:46:13<7:41:28, 135.73s/it]Patient id: chb08
+Edf file: chb08_11.edf
+Registration start: 20:37:01
+Registration end: 21:37:01
+Registration start seconds: 74221
+Registration end seconds: 77821
+EDF file duration: 3600
+Seizure start: 21:26:49
+Seizure end: 21:29:03
+Seizure start seconds: 77209
+Seizure end seconds: 77343
+Seizure duration: 134
+Seizure onset seconds: 2988
+Post-ictal onset seconds: 3122
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 17%|█▋        | 42/245 [2:46:59<6:08:44, 108.99s/it]Patient id: chb08
+Edf file: chb08_13.edf
+Registration start: 22:37:16
+Registration end: 23:37:16
+Registration start seconds: 81436
+Registration end seconds: 85036
+EDF file duration: 3600
+Seizure start: 23:17:33
+Seizure end: 23:20:12
+Seizure start seconds: 83853
+Seizure end seconds: 84012
+Seizure duration: 159
+Seizure onset seconds: 2417
+Post-ictal onset seconds: 2576
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 18%|█▊        | 43/245 [2:48:07<5:25:32, 96.69s/it] Patient id: chb08
+Edf file: chb08_21.edf
+Registration start: 06:38:16
+Registration end: 07:38:16
+Registration start seconds: 23896
+Registration end seconds: 27496
+EDF file duration: 3600
+Seizure start: 07:13:03
+Seizure end: 07:17:27
+Seizure start seconds: 25983
+Seizure end seconds: 26247
+Seizure duration: 264
+Seizure onset seconds: 2087
+Post-ictal onset seconds: 2351
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 18%|█▊        | 44/245 [2:49:29<5:08:42, 92.15s/it]Patient id: chb09
+Edf file: chb09_06.edf
+Registration start: 12:21:42
+Registration end: 16:21:41
+Registration start seconds: 44502
+Registration end seconds: 58901
+EDF file duration: 14399
+Seizure start: 15:45:33
+Seizure end: 15:46:37
+Seizure start seconds: 56733
+Seizure end seconds: 56797
+Seizure duration: 64
+Seizure onset seconds: 12231
+Post-ictal onset seconds: 12295
+Post-ictal end seconds: 14398
+Detected 24 onset times
+Found 24 onsets and 24 peaks
+ 18%|█▊        | 45/245 [2:52:05<6:11:27, 111.44s/it]Patient id: chb09
+Edf file: chb09_08.edf
+Registration start: 20:22:17
+Registration end: 00:22:17
+Registration start seconds: 73337
+Registration end seconds: 1337
+EDF file duration: -158400
+Seizure start: 21:11:28
+Seizure end: 21:12:47
+Seizure start seconds: 76288
+Seizure end seconds: 76367
+Seizure duration: 79
+Seizure onset seconds: 2951
+Post-ictal onset seconds: 3030
+Post-ictal end seconds: -158401
+Detected 24 onset times
+Found 24 onsets and 24 peaks
+Error processing data/chb-mit\chb09\chb09_08.edf: tmin (3030) must be less than tmax (-158401)
+ 19%|█▉        | 46/245 [2:52:35<4:48:19, 86.93s/it] Patient id: chb09
+Edf file: chb09_08.edf
+Registration start: 20:22:17
+Registration end: 00:22:17
+Registration start seconds: 73337
+Registration end seconds: 1337
+EDF file duration: -158400
+Seizure start: 22:55:33
+Seizure end: 22:56:44
+Seizure start seconds: 82533
+Seizure end seconds: 82604
+Seizure duration: 71
+Seizure onset seconds: 9196
+Post-ictal onset seconds: 9267
+Post-ictal end seconds: -158401
+ 19%|█▉        | 47/245 [2:53:04<3:49:47, 69.64s/it]Detected 24 onset times
+Found 24 onsets and 24 peaks
+Error processing data/chb-mit\chb09\chb09_08.edf: tmin (9267) must be less than tmax (-158401)
+Patient id: chb09
+Edf file: chb09_19.edf
+Registration start: 12:34:46
+Registration end: 14:09:46
+Registration start seconds: 45286
+Registration end seconds: 50986
+EDF file duration: 5700
+Seizure start: 14:03:05
+Seizure end: 14:04:07
+Seizure start seconds: 50585
+Seizure end seconds: 50647
+Seizure duration: 62
+Seizure onset seconds: 5299
+Post-ictal onset seconds: 5361
+Post-ictal end seconds: 5699
+Detected 24 onset times
+Found 24 onsets and 24 peaks
+ 20%|█▉        | 48/245 [2:53:44<3:18:41, 60.51s/it]Patient id: chb10
+Edf file: chb10_12.edf
+Registration start: 15:55:00
+Registration end: 17:55:00
+Registration start seconds: 57300
+Registration end seconds: 64500
+EDF file duration: 7200
+Seizure start: 17:40:13
+Seizure end: 17:40:48
+Seizure start seconds: 63613
+Seizure end seconds: 63648
+Seizure duration: 35
+Seizure onset seconds: 6313
+Post-ictal onset seconds: 6348
+Post-ictal end seconds: 7199
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 20%|██        | 49/245 [2:54:43<3:16:34, 60.17s/it]Patient id: chb10
+Edf file: chb10_20.edf
+Registration start: 07:56:00
+Registration end: 09:56:12
+Registration start seconds: 28560
+Registration end seconds: 35772
+EDF file duration: 7212
+Seizure start: 09:50:48
+Seizure end: 09:51:58
+Seizure start seconds: 35448
+Seizure end seconds: 35518
+Seizure duration: 70
+Seizure onset seconds: 6888
+Post-ictal onset seconds: 6958
+Post-ictal end seconds: 7211
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 20%|██        | 50/245 [2:55:18<2:50:57, 52.60s/it]Patient id: chb10
+Edf file: chb10_27.edf
+Registration start: 22:02:08
+Registration end: 00:02:26
+Registration start seconds: 79328
+Registration end seconds: 146
+EDF file duration: -165582
+Seizure start: 22:41:50
+Seizure end: 22:42:55
+Seizure start seconds: 81710
+Seizure end seconds: 81775
+Seizure duration: 65
+Seizure onset seconds: 2382
+Post-ictal onset seconds: 2447
+Post-ictal end seconds: -165583
+ 21%|██        | 51/245 [2:55:45<2:25:44, 45.07s/it]Detected 23 onset times
+Found 23 onsets and 23 peaks
+Error processing data/chb-mit\chb10\chb10_27.edf: tmin (2447) must be less than tmax (-165583)
+Patient id: chb10
+Edf file: chb10_30.edf
+Registration start: 04:03:19
+Registration end: 06:03:32
+Registration start seconds: 14599
+Registration end seconds: 21812
+EDF file duration: 7213
+Seizure start: 04:53:40
+Seizure end: 04:54:38
+Seizure start seconds: 17620
+Seizure end seconds: 17678
+Seizure duration: 58
+Seizure onset seconds: 3021
+Post-ictal onset seconds: 3079
+Post-ictal end seconds: 7212
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 21%|██        | 52/245 [3:00:32<6:18:15, 117.59s/it]Patient id: chb10
+Edf file: chb10_31.edf
+Registration start: 06:04:00
+Registration end: 08:04:21
+Registration start seconds: 21840
+Registration end seconds: 29061
+EDF file duration: 7221
+Seizure start: 07:07:21
+Seizure end: 07:08:37
+Seizure start seconds: 25641
+Seizure end seconds: 25717
+Seizure duration: 76
+Seizure onset seconds: 3801
+Post-ictal onset seconds: 3877
+Post-ictal end seconds: 7220
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 22%|██▏       | 53/245 [3:03:58<7:41:21, 144.18s/it]Patient id: chb10
+Edf file: chb10_38.edf
+Registration start: 14:33:05
+Registration end: 16:33:05
+Registration start seconds: 52385
+Registration end seconds: 59585
+EDF file duration: 7200
+Seizure start: 15:50:03
+Seizure end: 15:51:32
+Seizure start seconds: 57003
+Seizure end seconds: 57092
+Seizure duration: 89
+Seizure onset seconds: 4618
+Post-ictal onset seconds: 4707
+Post-ictal end seconds: 7199
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 22%|██▏       | 54/245 [3:07:32<8:44:51, 164.88s/it]Patient id: chb10
+Edf file: chb10_89.edf
+Registration start: 16:21:55
+Registration end: 18:21:55
+Registration start seconds: 58915
+Registration end seconds: 66115
+EDF file duration: 7200
+Seizure start: 16:45:58
+Seizure end: 16:46:52
+Seizure start seconds: 60358
+Seizure end seconds: 60412
+Seizure duration: 54
+Seizure onset seconds: 1443
+Post-ictal onset seconds: 1497
+Post-ictal end seconds: 7199
+Detected 21 onset times
+Found 23 onsets and 23 peaks
+ 22%|██▏       | 55/245 [3:16:16<14:23:48, 272.78s/it]Patient id: chb11
+Edf file: chb11_82.edf
+Registration start: 21:47:24
+Registration end: 22:47:24
+Registration start seconds: 78444
+Registration end seconds: 82044
+EDF file duration: 3600
+Seizure start: 21:52:22
+Seizure end: 21:52:44
+Seizure start seconds: 78742
+Seizure end seconds: 78764
+Seizure duration: 22
+Seizure onset seconds: 298
+Post-ictal onset seconds: 320
+Post-ictal end seconds: 3599
+Detected 27 onset times
+Found 28 onsets and 28 peaks
+ 23%|██▎       | 56/245 [3:19:33<13:07:03, 249.86s/it]Patient id: chb11
+Edf file: chb11_92.edf
+Registration start: 07:48:31
+Registration end: 08:48:31
+Registration start seconds: 28111
+Registration end seconds: 31711
+EDF file duration: 3600
+Seizure start: 08:33:26
+Seizure end: 08:33:58
+Seizure start seconds: 30806
+Seizure end seconds: 30838
+Seizure duration: 32
+Seizure onset seconds: 2695
+Post-ictal onset seconds: 2727
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 23%|██▎       | 57/245 [3:20:31<10:02:37, 192.33s/it]Patient id: chb11
+Edf file: chb11_99.edf
+Registration start: 14:49:19
+Registration end: 15:36:58
+Registration start seconds: 53359
+Registration end seconds: 56218
+EDF file duration: 2859
+Seizure start: 15:13:33
+Seizure end: 15:26:05
+Seizure start seconds: 54813
+Seizure end seconds: 55565
+Seizure duration: 752
+Seizure onset seconds: 1454
+Post-ictal onset seconds: 2206
+Post-ictal end seconds: 2858
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 24%|██▎       | 58/245 [3:22:10<8:32:36, 164.47s/it] Patient id: chb12
+Edf file: chb12_06.edf
+Registration start: 22:44:34
+Registration end: 23:44:40
+Registration start seconds: 81874
+Registration end seconds: 85480
+EDF file duration: 3606
+Seizure start: 23:12:19
+Seizure end: 23:13:20
+Seizure start seconds: 83539
+Seizure end seconds: 83600
+Seizure duration: 61
+Seizure onset seconds: 1665
+Post-ictal onset seconds: 1726
+Post-ictal end seconds: 3605
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 24%|██▍       | 59/245 [3:24:16<7:53:49, 152.85s/it]Patient id: chb12
+Edf file: chb12_06.edf
+Registration start: 22:44:34
+Registration end: 23:44:40
+Registration start seconds: 81874
+Registration end seconds: 85480
+EDF file duration: 3606
+Seizure start: 23:41:29
+Seizure end: 23:42:01
+Seizure start seconds: 85289
+Seizure end seconds: 85321
+Seizure duration: 32
+Seizure onset seconds: 3415
+Post-ictal onset seconds: 3447
+Post-ictal end seconds: 3605
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 24%|██▍       | 60/245 [3:24:45<5:57:14, 115.86s/it]Patient id: chb12
+Edf file: chb12_08.edf
+Registration start: 00:46:38
+Registration end: 01:46:38
+Registration start seconds: 2798
+Registration end seconds: 6398
+EDF file duration: 3600
+Seizure start: 01:10:24
+Seizure end: 01:10:37
+Seizure start seconds: 4224
+Seizure end seconds: 4237
+Seizure duration: 13
+Seizure onset seconds: 1426
+Post-ictal onset seconds: 1439
+Post-ictal end seconds: 3599
+Detected 27 onset times
+Found 28 onsets and 28 peaks
+ 25%|██▍       | 61/245 [3:27:15<6:26:40, 126.09s/it]Patient id: chb12
+Edf file: chb12_08.edf
+Registration start: 00:46:38
+Registration end: 01:46:38
+Registration start seconds: 2798
+Registration end seconds: 6398
+EDF file duration: 3600
+Seizure start: 01:13:09
+Seizure end: 01:13:32
+Seizure start seconds: 4389
+Seizure end seconds: 4412
+Seizure duration: 23
+Seizure onset seconds: 1591
+Post-ictal onset seconds: 1614
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 25%|██▌       | 62/245 [3:29:24<6:26:26, 126.70s/it]Patient id: chb12
+Edf file: chb12_08.edf
+Registration start: 00:46:38
+Registration end: 01:46:38
+Registration start seconds: 2798
+Registration end seconds: 6398
+EDF file duration: 3600
+Seizure start: 01:19:15
+Seizure end: 01:19:35
+Seizure start seconds: 4755
+Seizure end seconds: 4775
+Seizure duration: 20
+Seizure onset seconds: 1957
+Post-ictal onset seconds: 1977
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 26%|██▌       | 63/245 [3:30:54<5:51:26, 115.86s/it]Patient id: chb12
+Edf file: chb12_08.edf
+Registration start: 00:46:38
+Registration end: 01:46:38
+Registration start seconds: 2798
+Registration end seconds: 6398
+EDF file duration: 3600
+Seizure start: 01:33:16
+Seizure end: 01:33:42
+Seizure start seconds: 5596
+Seizure end seconds: 5622
+Seizure duration: 26
+Seizure onset seconds: 2798
+Post-ictal onset seconds: 2824
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 26%|██▌       | 64/245 [3:32:01<5:05:14, 101.18s/it]Patient id: chb12
+Edf file: chb12_09.edf
+Registration start: 01:46:45
+Registration end: 02:46:57
+Registration start seconds: 6405
+Registration end seconds: 10017
+EDF file duration: 3612
+Seizure start: 02:38:07
+Seizure end: 02:38:39
+Seizure start seconds: 9487
+Seizure end seconds: 9519
+Seizure duration: 32
+Seizure onset seconds: 3082
+Post-ictal onset seconds: 3114
+Post-ictal end seconds: 3611
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 27%|██▋       | 65/245 [3:32:57<4:22:27, 87.49s/it] Patient id: chb12
+Edf file: chb12_09.edf
+Registration start: 01:46:45
+Registration end: 02:46:57
+Registration start seconds: 6405
+Registration end seconds: 10017
+EDF file duration: 3612
+Seizure start: 02:45:08
+Seizure end: 02:45:40
+Seizure start seconds: 9908
+Seizure end seconds: 9940
+Seizure duration: 32
+Seizure onset seconds: 3503
+Post-ictal onset seconds: 3535
+Post-ictal end seconds: 3611
+Detected 23 onset times
+Found 28 onsets and 28 peaks
+ 27%|██▋       | 66/245 [3:33:32<3:34:29, 71.90s/it]Patient id: chb12
+Edf file: chb12_10.edf
+Registration start: 02:47:45
+Registration end: 03:47:56
+Registration start seconds: 10065
+Registration end seconds: 13676
+EDF file duration: 3611
+Seizure start: 02:57:38
+Seizure end: 02:58:10
+Seizure start seconds: 10658
+Seizure end seconds: 10690
+Seizure duration: 32
+Seizure onset seconds: 593
+Post-ictal onset seconds: 625
+Post-ictal end seconds: 3610
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 27%|██▋       | 67/245 [3:37:50<6:18:33, 127.61s/it]Patient id: chb12
+Edf file: chb12_10.edf
+Registration start: 02:47:45
+Registration end: 03:47:56
+Registration start seconds: 10065
+Registration end seconds: 13676
+EDF file duration: 3611
+Seizure start: 03:01:16
+Seizure end: 03:02:01
+Seizure start seconds: 10876
+Seizure end seconds: 10921
+Seizure duration: 45
+Seizure onset seconds: 811
+Post-ictal onset seconds: 856
+Post-ictal end seconds: 3610
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 28%|██▊       | 68/245 [3:41:02<7:13:40, 147.01s/it]Patient id: chb12
+Edf file: chb12_11.edf
+Registration start: 03:48:28
+Registration end: 04:28:59
+Registration start seconds: 13708
+Registration end seconds: 16139
+EDF file duration: 2431
+Seizure start: 04:06:33
+Seizure end: 04:07:10
+Seizure start seconds: 14793
+Seizure end seconds: 14830
+Seizure duration: 37
+Seizure onset seconds: 1085
+Post-ictal onset seconds: 1122
+Post-ictal end seconds: 2430
+Detected 27 onset times
+Found 28 onsets and 28 peaks
+ 28%|██▊       | 69/245 [3:42:18<6:08:33, 125.64s/it]Patient id: chb12
+Edf file: chb12_23.edf
+Registration start: 12:06:43
+Registration end: 13:06:43
+Registration start seconds: 43603
+Registration end seconds: 47203
+EDF file duration: 3600
+Seizure start: 12:10:56
+Seizure end: 12:12:16
+Seizure start seconds: 43856
+Seizure end seconds: 43936
+Seizure duration: 80
+Seizure onset seconds: 253
+Post-ictal onset seconds: 333
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 29%|██▊       | 70/245 [3:45:23<6:58:41, 143.55s/it]Patient id: chb12
+Edf file: chb12_23.edf
+Registration start: 12:06:43
+Registration end: 13:06:43
+Registration start seconds: 43603
+Registration end seconds: 47203
+EDF file duration: 3600
+Seizure start: 12:13:48
+Seizure end: 12:15:25
+Seizure start seconds: 44028
+Seizure end seconds: 44125
+Seizure duration: 97
+Seizure onset seconds: 425
+Post-ictal onset seconds: 522
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 29%|██▉       | 71/245 [3:48:12<7:18:38, 151.25s/it]Patient id: chb12
+Edf file: chb12_23.edf
+Registration start: 12:06:43
+Registration end: 13:06:43
+Registration start seconds: 43603
+Registration end seconds: 47203
+EDF file duration: 3600
+Seizure start: 12:17:13
+Seizure end: 12:17:53
+Seizure start seconds: 44233
+Seizure end seconds: 44273
+Seizure duration: 40
+Seizure onset seconds: 630
+Post-ictal onset seconds: 670
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 29%|██▉       | 72/245 [3:50:33<7:07:20, 148.21s/it]Patient id: chb12
+Edf file: chb12_27.edf
+Registration start: 16:07:06
+Registration end: 17:07:06
+Registration start seconds: 58026
+Registration end seconds: 61626
+EDF file duration: 3600
+Seizure start: 16:22:22
+Seizure end: 16:22:57
+Seizure start seconds: 58942
+Seizure end seconds: 58977
+Seizure duration: 35
+Seizure onset seconds: 916
+Post-ictal onset seconds: 951
+Post-ictal end seconds: 3599
+No channels found for frontal region
+No channels found for temporal region
+No channels found for frontotemporal region
+No channels found for parietal region
+No channels found for occipital region
+No channels found for central region
+No channels found for left region
+No channels found for right region
+No channels found for midline region
+No channels found for cross_hemisphere region
+No channels found for left_lateral_chain region
+No channels found for left_parasagittal_chain region
+No channels found for right_parasagittal_chain region
+No channels found for right_lateral_chain region
+No channels found for midline_chain region
+Detected 29 onset times
+Found 29 onsets and 29 peaks
+No channels found for frontal region
+No channels found for temporal region
+No channels found for frontotemporal region
+No channels found for parietal region
+No channels found for occipital region
+No channels found for central region
+No channels found for left region
+No channels found for right region
+No channels found for midline region
+No channels found for cross_hemisphere region
+No channels found for left_lateral_chain region
+No channels found for left_parasagittal_chain region
+No channels found for right_parasagittal_chain region
+No channels found for right_lateral_chain region
+No channels found for midline_chain region
+ 30%|██▉       | 73/245 [3:51:32<5:47:42, 121.30s/it]Patient id: chb12
+Edf file: chb12_27.edf
+Registration start: 16:07:06
+Registration end: 17:07:06
+Registration start seconds: 58026
+Registration end seconds: 61626
+EDF file duration: 3600
+Seizure start: 16:25:23
+Seizure end: 16:25:50
+Seizure start seconds: 59123
+Seizure end seconds: 59150
+Seizure duration: 27
+Seizure onset seconds: 1097
+Post-ictal onset seconds: 1124
+Post-ictal end seconds: 3599
+No channels found for frontal region
+No channels found for temporal region
+No channels found for frontotemporal region
+No channels found for parietal region
+No channels found for occipital region
+No channels found for central region
+No channels found for left region
+No channels found for right region
+No channels found for midline region
+No channels found for cross_hemisphere region
+No channels found for left_lateral_chain region
+No channels found for left_parasagittal_chain region
+No channels found for right_parasagittal_chain region
+No channels found for right_lateral_chain region
+No channels found for midline_chain region
+Detected 29 onset times
+Found 29 onsets and 29 peaks
+No channels found for frontal region
+No channels found for temporal region
+No channels found for frontotemporal region
+No channels found for parietal region
+No channels found for occipital region
+No channels found for central region
+No channels found for left region
+No channels found for right region
+No channels found for midline region
+No channels found for cross_hemisphere region
+No channels found for left_lateral_chain region
+No channels found for left_parasagittal_chain region
+No channels found for right_parasagittal_chain region
+No channels found for right_lateral_chain region
+No channels found for midline_chain region
+ 30%|███       | 74/245 [3:52:29<4:51:09, 102.16s/it]Patient id: chb12
+Edf file: chb12_27.edf
+Registration start: 16:07:06
+Registration end: 17:07:06
+Registration start seconds: 58026
+Registration end seconds: 61626
+EDF file duration: 3600
+Seizure start: 16:35:54
+Seizure end: 16:36:19
+Seizure start seconds: 59754
+Seizure end seconds: 59779
+Seizure duration: 25
+Seizure onset seconds: 1728
+Post-ictal onset seconds: 1753
+Post-ictal end seconds: 3599
+No channels found for frontal region
+No channels found for temporal region
+No channels found for frontotemporal region
+No channels found for parietal region
+No channels found for occipital region
+No channels found for central region
+No channels found for left region
+No channels found for right region
+No channels found for midline region
+No channels found for cross_hemisphere region
+No channels found for left_lateral_chain region
+No channels found for left_parasagittal_chain region
+No channels found for right_parasagittal_chain region
+No channels found for right_lateral_chain region
+No channels found for midline_chain region
+Detected 28 onset times
+Found 29 onsets and 29 peaks
+No channels found for frontal region
+No channels found for temporal region
+No channels found for frontotemporal region
+No channels found for parietal region
+No channels found for occipital region
+No channels found for central region
+No channels found for left region
+No channels found for right region
+No channels found for midline region
+No channels found for cross_hemisphere region
+No channels found for left_lateral_chain region
+No channels found for left_parasagittal_chain region
+No channels found for right_parasagittal_chain region
+No channels found for right_lateral_chain region
+No channels found for midline_chain region
+ 31%|███       | 75/245 [3:53:16<4:02:06, 85.45s/it] Patient id: chb12
+Edf file: chb12_27.edf
+Registration start: 16:07:06
+Registration end: 17:07:06
+Registration start seconds: 58026
+Registration end seconds: 61626
+EDF file duration: 3600
+Seizure start: 16:39:07
+Seizure end: 16:39:49
+Seizure start seconds: 59947
+Seizure end seconds: 59989
+Seizure duration: 42
+Seizure onset seconds: 1921
+Post-ictal onset seconds: 1963
+Post-ictal end seconds: 3599
+No channels found for frontal region
+No channels found for temporal region
+No channels found for frontotemporal region
+No channels found for parietal region
+No channels found for occipital region
+No channels found for central region
+No channels found for left region
+No channels found for right region
+No channels found for midline region
+No channels found for cross_hemisphere region
+No channels found for left_lateral_chain region
+No channels found for left_parasagittal_chain region
+No channels found for right_parasagittal_chain region
+No channels found for right_lateral_chain region
+No channels found for midline_chain region
+Detected 29 onset times
+Found 29 onsets and 29 peaks
+No channels found for frontal region
+No channels found for temporal region
+No channels found for frontotemporal region
+No channels found for parietal region
+No channels found for occipital region
+No channels found for central region
+No channels found for left region
+No channels found for right region
+No channels found for midline region
+No channels found for cross_hemisphere region
+No channels found for left_lateral_chain region
+No channels found for left_parasagittal_chain region
+No channels found for right_parasagittal_chain region
+No channels found for right_lateral_chain region
+No channels found for midline_chain region
+ 31%|███       | 76/245 [3:53:57<3:23:08, 72.12s/it]Patient id: chb12
+Edf file: chb12_27.edf
+Registration start: 16:07:06
+Registration end: 17:07:06
+Registration start seconds: 58026
+Registration end seconds: 61626
+EDF file duration: 3600
+Seizure start: 16:46:54
+Seizure end: 16:47:46
+Seizure start seconds: 60414
+Seizure end seconds: 60466
+Seizure duration: 52
+Seizure onset seconds: 2388
+Post-ictal onset seconds: 2440
+Post-ictal end seconds: 3599
+No channels found for frontal region
+No channels found for temporal region
+No channels found for frontotemporal region
+No channels found for parietal region
+No channels found for occipital region
+No channels found for central region
+No channels found for left region
+No channels found for right region
+No channels found for midline region
+No channels found for cross_hemisphere region
+No channels found for left_lateral_chain region
+No channels found for left_parasagittal_chain region
+No channels found for right_parasagittal_chain region
+No channels found for right_lateral_chain region
+No channels found for midline_chain region
+Detected 24 onset times
+Found 29 onsets and 29 peaks
+No channels found for frontal region
+No channels found for temporal region
+No channels found for frontotemporal region
+No channels found for parietal region
+No channels found for occipital region
+No channels found for central region
+No channels found for left region
+No channels found for right region
+No channels found for midline region
+No channels found for cross_hemisphere region
+No channels found for left_lateral_chain region
+No channels found for left_parasagittal_chain region
+No channels found for right_parasagittal_chain region
+No channels found for right_lateral_chain region
+No channels found for midline_chain region
+ 31%|███▏      | 77/245 [3:54:36<2:53:48, 62.08s/it]Patient id: chb12
+Edf file: chb12_27.edf
+Registration start: 16:07:06
+Registration end: 17:07:06
+Registration start seconds: 58026
+Registration end seconds: 61626
+EDF file duration: 3600
+Seizure start: 16:50:47
+Seizure end: 16:51:35
+Seizure start seconds: 60647
+Seizure end seconds: 60695
+Seizure duration: 48
+Seizure onset seconds: 2621
+Post-ictal onset seconds: 2669
+Post-ictal end seconds: 3599
+No channels found for frontal region
+No channels found for temporal region
+No channels found for frontotemporal region
+No channels found for parietal region
+No channels found for occipital region
+No channels found for central region
+No channels found for left region
+No channels found for right region
+No channels found for midline region
+No channels found for cross_hemisphere region
+No channels found for left_lateral_chain region
+No channels found for left_parasagittal_chain region
+No channels found for right_parasagittal_chain region
+No channels found for right_lateral_chain region
+No channels found for midline_chain region
+Detected 29 onset times
+Found 29 onsets and 29 peaks
+No channels found for frontal region
+No channels found for temporal region
+No channels found for frontotemporal region
+No channels found for parietal region
+No channels found for occipital region
+No channels found for central region
+No channels found for left region
+No channels found for right region
+No channels found for midline region
+No channels found for cross_hemisphere region
+No channels found for left_lateral_chain region
+No channels found for left_parasagittal_chain region
+No channels found for right_parasagittal_chain region
+No channels found for right_lateral_chain region
+No channels found for midline_chain region
+ 32%|███▏      | 78/245 [3:55:13<2:31:49, 54.55s/it]Patient id: chb12
+Edf file: chb12_28.edf
+Registration start: 17:07:12
+Registration end: 18:07:12
+Registration start seconds: 61632
+Registration end seconds: 65232
+EDF file duration: 3600
+Seizure start: 17:10:13
+Seizure end: 17:10:47
+Seizure start seconds: 61813
+Seizure end seconds: 61847
+Seizure duration: 34
+Seizure onset seconds: 181
+Post-ictal onset seconds: 215
+Post-ictal end seconds: 3599
+Detected 29 onset times
+Found 29 onsets and 29 peaks
+ 32%|███▏      | 79/245 [3:58:05<4:08:54, 89.97s/it]Patient id: chb12
+Edf file: chb12_29.edf
+Registration start: 18:07:19
+Registration end: 19:07:43
+Registration start seconds: 65239
+Registration end seconds: 68863
+EDF file duration: 3624
+Seizure start: 18:09:06
+Seizure end: 18:09:45
+Seizure start seconds: 65346
+Seizure end seconds: 65385
+Seizure duration: 39
+Seizure onset seconds: 107
+Post-ictal onset seconds: 146
+Post-ictal end seconds: 3623
+Detected 25 onset times
+Found 29 onsets and 29 peaks
+ 33%|███▎      | 80/245 [4:01:01<5:18:10, 115.70s/it]Patient id: chb12
+Edf file: chb12_29.edf
+Registration start: 18:07:19
+Registration end: 19:07:43
+Registration start seconds: 65239
+Registration end seconds: 68863
+EDF file duration: 3624
+Seizure start: 18:16:33
+Seizure end: 18:17:11
+Seizure start seconds: 65793
+Seizure end seconds: 65831
+Seizure duration: 38
+Seizure onset seconds: 554
+Post-ictal onset seconds: 592
+Post-ictal end seconds: 3623
+Detected 29 onset times
+Found 29 onsets and 29 peaks
+ 33%|███▎      | 81/245 [4:03:27<5:41:18, 124.87s/it]Patient id: chb12
+Edf file: chb12_29.edf
+Registration start: 18:07:19
+Registration end: 19:07:43
+Registration start seconds: 65239
+Registration end seconds: 68863
+EDF file duration: 3624
+Seizure start: 18:26:42
+Seizure end: 18:27:18
+Seizure start seconds: 66402
+Seizure end seconds: 66438
+Seizure duration: 36
+Seizure onset seconds: 1163
+Post-ictal onset seconds: 1199
+Post-ictal end seconds: 3623
+Detected 29 onset times
+Found 29 onsets and 29 peaks
+ 33%|███▎      | 82/245 [4:05:29<5:37:04, 124.08s/it]Patient id: chb12
+Edf file: chb12_29.edf
+Registration start: 18:07:19
+Registration end: 19:07:43
+Registration start seconds: 65239
+Registration end seconds: 68863
+EDF file duration: 3624
+Seizure start: 18:30:44
+Seizure end: 18:31:30
+Seizure start seconds: 66644
+Seizure end seconds: 66690
+Seizure duration: 46
+Seizure onset seconds: 1405
+Post-ictal onset seconds: 1451
+Post-ictal end seconds: 3623
+Detected 29 onset times
+Found 29 onsets and 29 peaks
+ 34%|███▍      | 83/245 [4:07:12<5:18:00, 117.78s/it]Patient id: chb12
+Edf file: chb12_29.edf
+Registration start: 18:07:19
+Registration end: 19:07:43
+Registration start seconds: 65239
+Registration end seconds: 68863
+EDF file duration: 3624
+Seizure start: 18:38:43
+Seizure end: 18:39:20
+Seizure start seconds: 67123
+Seizure end seconds: 67160
+Seizure duration: 37
+Seizure onset seconds: 1884
+Post-ictal onset seconds: 1921
+Post-ictal end seconds: 3623
+Detected 29 onset times
+Found 29 onsets and 29 peaks
+ 34%|███▍      | 84/245 [4:08:44<4:54:33, 109.77s/it]Patient id: chb12
+Edf file: chb12_29.edf
+Registration start: 18:07:19
+Registration end: 19:07:43
+Registration start seconds: 65239
+Registration end seconds: 68863
+EDF file duration: 3624
+Seizure start: 19:06:36
+Seizure end: 19:07:03
+Seizure start seconds: 68796
+Seizure end seconds: 68823
+Seizure duration: 27
+Seizure onset seconds: 3557
+Post-ictal onset seconds: 3584
+Post-ictal end seconds: 3623
+Detected 29 onset times
+Found 29 onsets and 29 peaks
+ 35%|███▍      | 85/245 [4:09:10<3:46:05, 84.79s/it] Patient id: chb12
+Edf file: chb12_33.edf
+Registration start: 22:09:51
+Registration end: 23:09:51
+Registration start seconds: 79791
+Registration end seconds: 83391
+EDF file duration: 3600
+Seizure start: 22:46:16
+Seizure end: 22:46:37
+Seizure start seconds: 81976
+Seizure end seconds: 81997
+Seizure duration: 21
+Seizure onset seconds: 2185
+Post-ictal onset seconds: 2206
+Post-ictal end seconds: 3599
+Detected 29 onset times
+Found 29 onsets and 29 peaks
+ 35%|███▌      | 86/245 [4:10:44<3:51:38, 87.41s/it]Patient id: chb12
+Edf file: chb12_33.edf
+Registration start: 22:09:51
+Registration end: 23:09:51
+Registration start seconds: 79791
+Registration end seconds: 83391
+EDF file duration: 3600
+Seizure start: 22:50:18
+Seizure end: 22:50:41
+Seizure start seconds: 82218
+Seizure end seconds: 82241
+Seizure duration: 23
+Seizure onset seconds: 2427
+Post-ictal onset seconds: 2450
+Post-ictal end seconds: 3599
+Detected 29 onset times
+Found 29 onsets and 29 peaks
+ 36%|███▌      | 87/245 [4:11:56<3:38:17, 82.89s/it]Patient id: chb12
+Edf file: chb12_36.edf
+Registration start: 01:10:11
+Registration end: 02:10:11
+Registration start seconds: 4211
+Registration end seconds: 7811
+EDF file duration: 3600
+Seizure start: 01:21:04
+Seizure end: 01:21:31
+Seizure start seconds: 4864
+Seizure end seconds: 4891
+Seizure duration: 27
+Seizure onset seconds: 653
+Post-ictal onset seconds: 680
+Post-ictal end seconds: 3599
+Detected 27 onset times
+Found 29 onsets and 29 peaks
+ 36%|███▌      | 88/245 [4:15:02<4:57:54, 113.85s/it]Patient id: chb12
+Edf file: chb12_38.edf
+Registration start: 03:11:04
+Registration end: 04:11:04
+Registration start seconds: 11464
+Registration end seconds: 15064
+EDF file duration: 3600
+Seizure start: 03:36:52
+Seizure end: 03:37:17
+Seizure start seconds: 13012
+Seizure end seconds: 13037
+Seizure duration: 25
+Seizure onset seconds: 1548
+Post-ictal onset seconds: 1573
+Post-ictal end seconds: 3599
+Detected 22 onset times
+Found 29 onsets and 29 peaks
+ 36%|███▋      | 89/245 [4:17:21<5:15:26, 121.32s/it]Patient id: chb12
+Edf file: chb12_38.edf
+Registration start: 03:11:04
+Registration end: 04:11:04
+Registration start seconds: 11464
+Registration end seconds: 15064
+EDF file duration: 3600
+Seizure start: 03:57:42
+Seizure end: 03:58:05
+Seizure start seconds: 14262
+Seizure end seconds: 14285
+Seizure duration: 23
+Seizure onset seconds: 2798
+Post-ictal onset seconds: 2821
+Post-ictal end seconds: 3599
+Detected 29 onset times
+Found 29 onsets and 29 peaks
+ 37%|███▋      | 90/245 [4:18:25<4:28:47, 104.05s/it]Patient id: chb12
+Edf file: chb12_38.edf
+Registration start: 03:11:04
+Registration end: 04:11:04
+Registration start seconds: 11464
+Registration end seconds: 15064
+EDF file duration: 3600
+Seizure start: 04:00:30
+Seizure end: 04:01:13
+Seizure start seconds: 14430
+Seizure end seconds: 14473
+Seizure duration: 43
+Seizure onset seconds: 2966
+Post-ictal onset seconds: 3009
+Post-ictal end seconds: 3599
+Detected 29 onset times
+Found 29 onsets and 29 peaks
+ 37%|███▋      | 91/245 [4:19:14<3:45:16, 87.77s/it] Patient id: chb12
+Edf file: chb12_38.edf
+Registration start: 03:11:04
+Registration end: 04:11:04
+Registration start seconds: 11464
+Registration end seconds: 15064
+EDF file duration: 3600
+Seizure start: 04:03:30
+Seizure end: 04:04:25
+Seizure start seconds: 14610
+Seizure end seconds: 14665
+Seizure duration: 55
+Seizure onset seconds: 3146
+Post-ictal onset seconds: 3201
+Post-ictal end seconds: 3599
+Detected 29 onset times
+Found 29 onsets and 29 peaks
+ 38%|███▊      | 92/245 [4:19:56<3:08:49, 74.05s/it]Patient id: chb12
+Edf file: chb12_38.edf
+Registration start: 03:11:04
+Registration end: 04:11:04
+Registration start seconds: 11464
+Registration end seconds: 15064
+EDF file duration: 3600
+Seizure start: 04:07:08
+Seizure end: 04:07:54
+Seizure start seconds: 14828
+Seizure end seconds: 14874
+Seizure duration: 46
+Seizure onset seconds: 3364
+Post-ictal onset seconds: 3410
+Post-ictal end seconds: 3599
+Detected 29 onset times
+Found 29 onsets and 29 peaks
+ 38%|███▊      | 93/245 [4:20:28<2:35:34, 61.41s/it]Patient id: chb12
+Edf file: chb12_42.edf
+Registration start: 07:11:30
+Registration end: 08:11:30
+Registration start seconds: 25890
+Registration end seconds: 29490
+EDF file duration: 3600
+Seizure start: 07:23:09
+Seizure end: 07:24:00
+Seizure start seconds: 26589
+Seizure end seconds: 26640
+Seizure duration: 51
+Seizure onset seconds: 699
+Post-ictal onset seconds: 750
+Post-ictal end seconds: 3599
+Detected 29 onset times
+Found 29 onsets and 29 peaks
+ 38%|███▊      | 94/245 [4:23:28<4:04:15, 97.05s/it]Patient id: chb12
+Edf file: chb12_42.edf
+Registration start: 07:11:30
+Registration end: 08:11:30
+Registration start seconds: 25890
+Registration end seconds: 29490
+EDF file duration: 3600
+Seizure start: 07:27:15
+Seizure end: 07:27:43
+Seizure start seconds: 26835
+Seizure end seconds: 26863
+Seizure duration: 28
+Seizure onset seconds: 945
+Post-ictal onset seconds: 973
+Post-ictal end seconds: 3599
+Detected 29 onset times
+Found 29 onsets and 29 peaks
+ 39%|███▉      | 95/245 [4:26:08<4:49:48, 115.93s/it]Patient id: chb12
+Edf file: chb12_42.edf
+Registration start: 07:11:30
+Registration end: 08:11:30
+Registration start seconds: 25890
+Registration end seconds: 29490
+EDF file duration: 3600
+Seizure start: 07:31:00
+Seizure end: 07:31:29
+Seizure start seconds: 27060
+Seizure end seconds: 27089
+Seizure duration: 29
+Seizure onset seconds: 1170
+Post-ictal onset seconds: 1199
+Post-ictal end seconds: 3599
+Detected 29 onset times
+Found 29 onsets and 29 peaks
+ 39%|███▉      | 96/245 [4:28:36<5:11:47, 125.55s/it]Patient id: chb12
+Edf file: chb12_42.edf
+Registration start: 07:11:30
+Registration end: 08:11:30
+Registration start seconds: 25890
+Registration end seconds: 29490
+EDF file duration: 3600
+Seizure start: 07:39:26
+Seizure end: 07:39:51
+Seizure start seconds: 27566
+Seizure end seconds: 27591
+Seizure duration: 25
+Seizure onset seconds: 1676
+Post-ictal onset seconds: 1701
+Post-ictal end seconds: 3599
+Detected 29 onset times
+Found 29 onsets and 29 peaks
+ 40%|███▉      | 97/245 [4:30:35<5:04:29, 123.44s/it]Patient id: chb12
+Edf file: chb12_42.edf
+Registration start: 07:11:30
+Registration end: 08:11:30
+Registration start seconds: 25890
+Registration end seconds: 29490
+EDF file duration: 3600
+Seizure start: 07:48:23
+Seizure end: 07:48:46
+Seizure start seconds: 28103
+Seizure end seconds: 28126
+Seizure duration: 23
+Seizure onset seconds: 2213
+Post-ictal onset seconds: 2236
+Post-ictal end seconds: 3599
+Detected 29 onset times
+Found 29 onsets and 29 peaks
+ 40%|████      | 98/245 [4:32:01<4:35:13, 112.34s/it]Patient id: chb13
+Edf file: chb13_19.edf
+Registration start: 09:14:25
+Registration end: 10:14:25
+Registration start seconds: 33265
+Registration end seconds: 36865
+EDF file duration: 3600
+Seizure start: 09:49:02
+Seizure end: 09:49:46
+Seizure start seconds: 35342
+Seizure end seconds: 35386
+Seizure duration: 44
+Seizure onset seconds: 2077
+Post-ictal onset seconds: 2121
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 40%|████      | 99/245 [4:33:39<4:22:27, 107.86s/it]Patient id: chb13
+Edf file: chb13_21.edf
+Registration start: 11:14:59
+Registration end: 12:14:59
+Registration start seconds: 40499
+Registration end seconds: 44099
+EDF file duration: 3600
+Seizure start: 11:30:33
+Seizure end: 11:31:43
+Seizure start seconds: 41433
+Seizure end seconds: 41503
+Seizure duration: 70
+Seizure onset seconds: 934
+Post-ictal onset seconds: 1004
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 41%|████      | 100/245 [4:36:00<4:44:35, 117.76s/it]Patient id: chb13
+Edf file: chb13_40.edf
+Registration start: 06:17:50
+Registration end: 07:17:50
+Registration start seconds: 22670
+Registration end seconds: 26270
+EDF file duration: 3600
+Seizure start: 06:20:12
+Seizure end: 06:20:43
+Seizure start seconds: 22812
+Seizure end seconds: 22843
+Seizure duration: 31
+Seizure onset seconds: 142
+Post-ictal onset seconds: 173
+Post-ictal end seconds: 3599
+No channels found for frontotemporal region
+No channels found for cross_hemisphere region
+Detected 22 onset times
+Found 22 onsets and 22 peaks
+No channels found for frontotemporal region
+No channels found for cross_hemisphere region
+ 41%|████      | 101/245 [4:40:32<6:34:04, 164.20s/it]Patient id: chb13
+Edf file: chb13_40.edf
+Registration start: 06:17:50
+Registration end: 07:17:50
+Registration start seconds: 22670
+Registration end seconds: 26270
+EDF file duration: 3600
+Seizure start: 06:26:20
+Seizure end: 06:27:24
+Seizure start seconds: 23180
+Seizure end seconds: 23244
+Seizure duration: 64
+Seizure onset seconds: 510
+Post-ictal onset seconds: 574
+Post-ictal end seconds: 3599
+No channels found for frontotemporal region
+No channels found for cross_hemisphere region
+Detected 22 onset times
+Found 22 onsets and 22 peaks
+No channels found for frontotemporal region
+No channels found for cross_hemisphere region
+ 42%|████▏     | 102/245 [4:44:12<7:11:04, 180.87s/it]Patient id: chb13
+Edf file: chb13_55.edf
+Registration start: 21:20:07
+Registration end: 22:20:07
+Registration start seconds: 76807
+Registration end seconds: 80407
+EDF file duration: 3600
+Seizure start: 21:27:45
+Seizure end: 21:28:05
+Seizure start seconds: 77265
+Seizure end seconds: 77285
+Seizure duration: 20
+Seizure onset seconds: 458
+Post-ictal onset seconds: 478
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 42%|████▏     | 103/245 [4:46:54<6:54:44, 175.25s/it]Patient id: chb13
+Edf file: chb13_55.edf
+Registration start: 21:20:07
+Registration end: 22:20:07
+Registration start seconds: 76807
+Registration end seconds: 80407
+EDF file duration: 3600
+Seizure start: 22:00:43
+Seizure end: 22:01:01
+Seizure start seconds: 79243
+Seizure end seconds: 79261
+Seizure duration: 18
+Seizure onset seconds: 2436
+Post-ictal onset seconds: 2454
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 42%|████▏     | 104/245 [4:48:16<5:46:13, 147.33s/it]Patient id: chb13
+Edf file: chb13_58.edf
+Registration start: 00:20:28
+Registration end: 01:20:28
+Registration start seconds: 1228
+Registration end seconds: 4828
+EDF file duration: 3600
+Seizure start: 01:01:42
+Seizure end: 01:01:59
+Seizure start seconds: 3702
+Seizure end seconds: 3719
+Seizure duration: 17
+Seizure onset seconds: 2474
+Post-ictal onset seconds: 2491
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 43%|████▎     | 105/245 [4:49:24<4:47:55, 123.40s/it]Patient id: chb13
+Edf file: chb13_59.edf
+Registration start: 01:20:34
+Registration end: 02:20:34
+Registration start seconds: 4834
+Registration end seconds: 8434
+EDF file duration: 3600
+Seizure start: 02:16:13
+Seizure end: 02:17:15
+Seizure start seconds: 8173
+Seizure end seconds: 8235
+Seizure duration: 62
+Seizure onset seconds: 3339
+Post-ictal onset seconds: 3401
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 43%|████▎     | 106/245 [4:49:56<3:42:16, 95.94s/it] Patient id: chb13
+Edf file: chb13_60.edf
+Registration start: 02:20:41
+Registration end: 03:20:41
+Registration start seconds: 8441
+Registration end seconds: 12041
+EDF file duration: 3600
+Seizure start: 02:31:19
+Seizure end: 02:31:41
+Seizure start seconds: 9079
+Seizure end seconds: 9101
+Seizure duration: 22
+Seizure onset seconds: 638
+Post-ictal onset seconds: 660
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 44%|████▎     | 107/245 [4:54:06<5:27:21, 142.33s/it]Patient id: chb13
+Edf file: chb13_62.edf
+Registration start: 04:20:55
+Registration end: 05:20:55
+Registration start seconds: 15655
+Registration end seconds: 19255
+EDF file duration: 3600
+Seizure start: 04:35:06
+Seizure end: 04:36:11
+Seizure start seconds: 16506
+Seizure end seconds: 16571
+Seizure duration: 65
+Seizure onset seconds: 851
+Post-ictal onset seconds: 916
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 44%|████▍     | 108/245 [4:57:02<5:47:53, 152.36s/it]Patient id: chb13
+Edf file: chb13_62.edf
+Registration start: 04:20:55
+Registration end: 05:20:55
+Registration start seconds: 15655
+Registration end seconds: 19255
+EDF file duration: 3600
+Seizure start: 04:48:01
+Seizure end: 04:49:06
+Seizure start seconds: 17281
+Seizure end seconds: 17346
+Seizure duration: 65
+Seizure onset seconds: 1626
+Post-ictal onset seconds: 1691
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 44%|████▍     | 109/245 [4:59:21<5:36:28, 148.45s/it]Patient id: chb13
+Edf file: chb13_62.edf
+Registration start: 04:20:55
+Registration end: 05:20:55
+Registration start seconds: 15655
+Registration end seconds: 19255
+EDF file duration: 3600
+Seizure start: 05:05:19
+Seizure end: 05:06:16
+Seizure start seconds: 18319
+Seizure end seconds: 18376
+Seizure duration: 57
+Seizure onset seconds: 2664
+Post-ictal onset seconds: 2721
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 28 onsets and 28 peaks
+ 45%|████▍     | 110/245 [5:00:30<4:39:56, 124.42s/it]Patient id: chb14
+Edf file: chb14_03.edf
+Registration start: 16:35:00
+Registration end: 17:35:00
+Registration start seconds: 59700
+Registration end seconds: 63300
+EDF file duration: 3600
+Seizure start: 17:08:06
+Seizure end: 17:08:20
+Seizure start seconds: 61686
+Seizure end seconds: 61700
+Seizure duration: 14
+Seizure onset seconds: 1986
+Post-ictal onset seconds: 2000
+Post-ictal end seconds: 3599
+Detected 27 onset times
+Found 28 onsets and 28 peaks
+ 45%|████▌     | 111/245 [5:02:42<4:43:01, 126.73s/it]Patient id: chb14
+Edf file: chb14_04.edf
+Registration start: 17:35:07
+Registration end: 18:35:07
+Registration start seconds: 63307
+Registration end seconds: 66907
+EDF file duration: 3600
+Seizure start: 17:57:59
+Seizure end: 17:58:19
+Seizure start seconds: 64679
+Seizure end seconds: 64699
+Seizure duration: 20
+Seizure onset seconds: 1372
+Post-ictal onset seconds: 1392
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 46%|████▌     | 112/245 [5:05:10<4:55:00, 133.09s/it]Patient id: chb14
+Edf file: chb14_04.edf
+Registration start: 17:35:07
+Registration end: 18:35:07
+Registration start seconds: 63307
+Registration end seconds: 66907
+EDF file duration: 3600
+Seizure start: 18:22:04
+Seizure end: 18:22:26
+Seizure start seconds: 66124
+Seizure end seconds: 66146
+Seizure duration: 22
+Seizure onset seconds: 2817
+Post-ictal onset seconds: 2839
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 46%|████▌     | 113/245 [5:06:09<4:04:17, 111.04s/it]Patient id: chb14
+Edf file: chb14_06.edf
+Registration start: 19:35:21
+Registration end: 20:35:21
+Registration start seconds: 70521
+Registration end seconds: 74121
+EDF file duration: 3600
+Seizure start: 20:07:12
+Seizure end: 20:07:26
+Seizure start seconds: 72432
+Seizure end seconds: 72446
+Seizure duration: 14
+Seizure onset seconds: 1911
+Post-ictal onset seconds: 1925
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 47%|████▋     | 114/245 [5:07:53<3:57:43, 108.88s/it]Patient id: chb14
+Edf file: chb14_11.edf
+Registration start: 00:35:55
+Registration end: 01:35:55
+Registration start seconds: 2155
+Registration end seconds: 5755
+EDF file duration: 3600
+Seizure start: 01:06:33
+Seizure end: 01:07:14
+Seizure start seconds: 3993
+Seizure end seconds: 4034
+Seizure duration: 41
+Seizure onset seconds: 1838
+Post-ictal onset seconds: 1879
+Post-ictal end seconds: 3599
+Detected 21 onset times
+Found 28 onsets and 28 peaks
+ 47%|████▋     | 115/245 [5:09:57<4:05:17, 113.21s/it]Patient id: chb14
+Edf file: chb14_17.edf
+Registration start: 06:36:36
+Registration end: 07:36:36
+Registration start seconds: 23796
+Registration end seconds: 27396
+EDF file duration: 3600
+Seizure start: 07:30:35
+Seizure end: 07:30:55
+Seizure start seconds: 27035
+Seizure end seconds: 27055
+Seizure duration: 20
+Seizure onset seconds: 3239
+Post-ictal onset seconds: 3259
+Post-ictal end seconds: 3599
+Detected 27 onset times
+Found 28 onsets and 28 peaks
+ 47%|████▋     | 116/245 [5:10:34<3:14:41, 90.55s/it] Patient id: chb14
+Edf file: chb14_18.edf
+Registration start: 07:36:43
+Registration end: 08:36:43
+Registration start seconds: 27403
+Registration end seconds: 31003
+EDF file duration: 3600
+Seizure start: 07:54:02
+Seizure end: 07:54:24
+Seizure start seconds: 28442
+Seizure end seconds: 28464
+Seizure duration: 22
+Seizure onset seconds: 1039
+Post-ictal onset seconds: 1061
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 48%|████▊     | 117/245 [5:13:10<3:55:05, 110.20s/it]Patient id: chb14
+Edf file: chb14_27.edf
+Registration start: 16:37:45
+Registration end: 17:37:45
+Registration start seconds: 59865
+Registration end seconds: 63465
+EDF file duration: 3600
+Seizure start: 17:24:58
+Seizure end: 17:25:14
+Seizure start seconds: 62698
+Seizure end seconds: 62714
+Seizure duration: 16
+Seizure onset seconds: 2833
+Post-ictal onset seconds: 2849
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 48%|████▊     | 118/245 [5:14:09<3:20:19, 94.64s/it] Patient id: chb15
+Edf file: chb15_06.edf
+Registration start: 23:24:10
+Registration end: 00:24:10
+Registration start seconds: 84250
+Registration end seconds: 1450
+EDF file duration: -169200
+Seizure start: 23:28:42
+Seizure end: 23:30:47
+Seizure start seconds: 84522
+Seizure end seconds: 84647
+Seizure duration: 125
+Seizure onset seconds: 272
+Post-ictal onset seconds: 397
+Post-ictal end seconds: -169201
+ 49%|████▊     | 119/245 [5:14:40<2:38:39, 75.55s/it]Detected 38 onset times
+Found 38 onsets and 38 peaks
+Error processing data/chb-mit\chb15\chb15_06.edf: tmin (397) must be less than tmax (-169201)
+Patient id: chb15
+Edf file: chb15_10.edf
+Registration start: 03:24:38
+Registration end: 04:24:38
+Registration start seconds: 12278
+Registration end seconds: 15878
+EDF file duration: 3600
+Seizure start: 03:42:40
+Seizure end: 03:43:11
+Seizure start seconds: 13360
+Seizure end seconds: 13391
+Seizure duration: 31
+Seizure onset seconds: 1082
+Post-ictal onset seconds: 1113
+Post-ictal end seconds: 3599
+Detected 38 onset times
+Found 38 onsets and 38 peaks
+ 49%|████▉     | 120/245 [5:16:43<3:07:13, 89.87s/it]Patient id: chb15
+Edf file: chb15_15.edf
+Registration start: 08:25:13
+Registration end: 09:25:13
+Registration start seconds: 30313
+Registration end seconds: 33913
+EDF file duration: 3600
+Seizure start: 08:51:44
+Seizure end: 08:54:21
+Seizure start seconds: 31904
+Seizure end seconds: 32061
+Seizure duration: 157
+Seizure onset seconds: 1591
+Post-ictal onset seconds: 1748
+Post-ictal end seconds: 3599
+Detected 38 onset times
+Found 38 onsets and 38 peaks
+ 49%|████▉     | 121/245 [5:18:23<3:12:06, 92.95s/it]Patient id: chb15
+Edf file: chb15_17.edf
+Registration start: 10:25:27
+Registration end: 11:25:27
+Registration start seconds: 37527
+Registration end seconds: 41127
+EDF file duration: 3600
+Seizure start: 10:57:32
+Seizure end: 10:58:07
+Seizure start seconds: 39452
+Seizure end seconds: 39487
+Seizure duration: 35
+Seizure onset seconds: 1925
+Post-ictal onset seconds: 1960
+Post-ictal end seconds: 3599
+Detected 38 onset times
+Found 38 onsets and 38 peaks
+ 50%|████▉     | 122/245 [5:20:09<3:18:22, 96.77s/it]Patient id: chb15
+Edf file: chb15_20.edf
+Registration start: 13:25:48
+Registration end: 14:25:48
+Registration start seconds: 48348
+Registration end seconds: 51948
+EDF file duration: 3600
+Seizure start: 13:35:55
+Seizure end: 13:36:50
+Seizure start seconds: 48955
+Seizure end seconds: 49010
+Seizure duration: 55
+Seizure onset seconds: 607
+Post-ictal onset seconds: 662
+Post-ictal end seconds: 3599
+Detected 32 onset times
+Found 38 onsets and 38 peaks
+ 50%|█████     | 123/245 [5:22:54<3:58:17, 117.19s/it]Patient id: chb15
+Edf file: chb15_22.edf
+Registration start: 15:26:02
+Registration end: 16:26:02
+Registration start seconds: 55562
+Registration end seconds: 59162
+EDF file duration: 3600
+Seizure start: 15:38:42
+Seizure end: 15:42:07
+Seizure start seconds: 56322
+Seizure end seconds: 56527
+Seizure duration: 205
+Seizure onset seconds: 760
+Post-ictal onset seconds: 965
+Post-ictal end seconds: 3599
+Detected 38 onset times
+Found 38 onsets and 38 peaks
+ 51%|█████     | 124/245 [5:25:25<4:17:00, 127.44s/it]Patient id: chb15
+Edf file: chb15_28.edf
+Registration start: 21:27:58
+Registration end: 22:27:58
+Registration start seconds: 77278
+Registration end seconds: 80878
+EDF file duration: 3600
+Seizure start: 21:42:34
+Seizure end: 21:45:44
+Seizure start seconds: 78154
+Seizure end seconds: 78344
+Seizure duration: 190
+Seizure onset seconds: 876
+Post-ictal onset seconds: 1066
+Post-ictal end seconds: 3599
+Detected 38 onset times
+Found 38 onsets and 38 peaks
+ 51%|█████     | 125/245 [5:28:07<4:35:55, 137.96s/it]Patient id: chb15
+Edf file: chb15_31.edf
+Registration start: 00:28:18
+Registration end: 01:28:18
+Registration start seconds: 1698
+Registration end seconds: 5298
+EDF file duration: 3600
+Seizure start: 00:57:29
+Seizure end: 00:59:29
+Seizure start seconds: 3449
+Seizure end seconds: 3569
+Seizure duration: 120
+Seizure onset seconds: 1751
+Post-ictal onset seconds: 1871
+Post-ictal end seconds: 3599
+Detected 38 onset times
+Found 38 onsets and 38 peaks
+ 51%|█████▏    | 126/245 [5:30:05<4:21:24, 131.80s/it]Patient id: chb15
+Edf file: chb15_40.edf
+Registration start: 09:29:21
+Registration end: 10:29:21
+Registration start seconds: 34161
+Registration end seconds: 37761
+EDF file duration: 3600
+Seizure start: 09:43:15
+Seizure end: 09:44:15
+Seizure start seconds: 34995
+Seizure end seconds: 35055
+Seizure duration: 60
+Seizure onset seconds: 834
+Post-ictal onset seconds: 894
+Post-ictal end seconds: 3599
+Detected 38 onset times
+Found 38 onsets and 38 peaks
+ 52%|█████▏    | 127/245 [5:33:15<4:53:26, 149.20s/it]Patient id: chb15
+Edf file: chb15_40.edf
+Registration start: 09:29:21
+Registration end: 10:29:21
+Registration start seconds: 34161
+Registration end seconds: 37761
+EDF file duration: 3600
+Seizure start: 10:08:59
+Seizure end: 10:10:58
+Seizure start seconds: 36539
+Seizure end seconds: 36658
+Seizure duration: 119
+Seizure onset seconds: 2378
+Post-ictal onset seconds: 2497
+Post-ictal end seconds: 3599
+Detected 38 onset times
+Found 38 onsets and 38 peaks
+ 52%|█████▏    | 128/245 [5:34:43<4:15:09, 130.85s/it]Patient id: chb15
+Edf file: chb15_40.edf
+Registration start: 09:29:21
+Registration end: 10:29:21
+Registration start seconds: 34161
+Registration end seconds: 37761
+EDF file duration: 3600
+Seizure start: 10:25:23
+Seizure end: 10:26:26
+Seizure start seconds: 37523
+Seizure end seconds: 37586
+Seizure duration: 63
+Seizure onset seconds: 3362
+Post-ictal onset seconds: 3425
+Post-ictal end seconds: 3599
+Detected 38 onset times
+Found 38 onsets and 38 peaks
+ 53%|█████▎    | 129/245 [5:35:21<3:19:25, 103.15s/it]Patient id: chb15
+Edf file: chb15_46.edf
+Registration start: 15:30:07
+Registration end: 16:30:07
+Registration start seconds: 55807
+Registration end seconds: 59407
+EDF file duration: 3600
+Seizure start: 16:25:29
+Seizure end: 16:27:16
+Seizure start seconds: 59129
+Seizure end seconds: 59236
+Seizure duration: 107
+Seizure onset seconds: 3322
+Post-ictal onset seconds: 3429
+Post-ictal end seconds: 3599
+Detected 38 onset times
+Found 38 onsets and 38 peaks
+ 53%|█████▎    | 130/245 [5:36:01<2:41:16, 84.14s/it] Patient id: chb15
+Edf file: chb15_49.edf
+Registration start: 18:38:05
+Registration end: 19:38:30
+Registration start seconds: 67085
+Registration end seconds: 70710
+EDF file duration: 3625
+Seizure start: 18:56:33
+Seizure end: 18:58:53
+Seizure start seconds: 68193
+Seizure end seconds: 68333
+Seizure duration: 140
+Seizure onset seconds: 1108
+Post-ictal onset seconds: 1248
+Post-ictal end seconds: 3624
+Detected 38 onset times
+Found 38 onsets and 38 peaks
+ 53%|█████▎    | 131/245 [5:38:40<3:22:32, 106.60s/it]Patient id: chb15
+Edf file: chb15_52.edf
+Registration start: 21:39:10
+Registration end: 22:39:19
+Registration start seconds: 77950
+Registration end seconds: 81559
+EDF file duration: 3609
+Seizure start: 21:52:08
+Seizure end: 21:53:19
+Seizure start seconds: 78728
+Seizure end seconds: 78799
+Seizure duration: 71
+Seizure onset seconds: 778
+Post-ictal onset seconds: 849
+Post-ictal end seconds: 3608
+Detected 38 onset times
+Found 38 onsets and 38 peaks
+ 54%|█████▍    | 132/245 [5:41:23<3:52:36, 123.51s/it]Patient id: chb15
+Edf file: chb15_54.edf
+Registration start: 23:39:54
+Registration end: 00:39:54
+Registration start seconds: 85194
+Registration end seconds: 2394
+EDF file duration: -169200
+Seizure start: 23:44:17
+Seizure end: 23:45:12
+Seizure start seconds: 85457
+Seizure end seconds: 85512
+Seizure duration: 55
+Seizure onset seconds: 263
+Post-ictal onset seconds: 318
+Post-ictal end seconds: -169201
+ 54%|█████▍    | 133/245 [5:41:51<2:56:52, 94.75s/it] Detected 38 onset times
+Found 38 onsets and 38 peaks
+Error processing data/chb-mit\chb15\chb15_54.edf: tmin (318) must be less than tmax (-169201)
+Patient id: chb15
+Edf file: chb15_54.edf
+Registration start: 23:39:54
+Registration end: 00:39:54
+Registration start seconds: 85194
+Registration end seconds: 2394
+EDF file duration: -169200
+Seizure start: 23:53:57
+Seizure end: 23:56:54
+Seizure start seconds: 86037
+Seizure end seconds: 86214
+Seizure duration: 177
+Seizure onset seconds: 843
+Post-ictal onset seconds: 1020
+Post-ictal end seconds: -169201
+Detected 38 onset times
+Found 38 onsets and 38 peaks
+ 55%|█████▍    | 134/245 [5:42:24<2:21:19, 76.39s/it]Error processing data/chb-mit\chb15\chb15_54.edf: tmin (1020) must be less than tmax (-169201)
+Patient id: chb15
+Edf file: chb15_54.edf
+Registration start: 23:39:54
+Registration end: 00:39:54
+Registration start seconds: 85194
+Registration end seconds: 2394
+EDF file duration: -169200
+Seizure start: 00:05:18
+Seizure end: 00:06:29
+Seizure start seconds: 318
+Seizure end seconds: 389
+Seizure duration: 71
+Seizure onset seconds: 1524
+Post-ictal onset seconds: 1595
+Post-ictal end seconds: -169201
+ 55%|█████▌    | 135/245 [5:42:52<1:53:28, 61.90s/it]Detected 38 onset times
+Found 38 onsets and 38 peaks
+Error processing data/chb-mit\chb15\chb15_54.edf: tmin (1595) must be less than tmax (-169201)
+Patient id: chb15
+Edf file: chb15_54.edf
+Registration start: 23:39:54
+Registration end: 00:39:54
+Registration start seconds: 85194
+Registration end seconds: 2394
+EDF file duration: -169200
+Seizure start: 00:16:13
+Seizure end: 00:17:24
+Seizure start seconds: 973
+Seizure end seconds: 1044
+Seizure duration: 71
+Seizure onset seconds: 2179
+Post-ictal onset seconds: 2250
+Post-ictal end seconds: -169201
+ 56%|█████▌    | 136/245 [5:43:20<1:33:57, 51.72s/it]Detected 38 onset times
+Found 38 onsets and 38 peaks
+Error processing data/chb-mit\chb15\chb15_54.edf: tmin (2250) must be less than tmax (-169201)
+Patient id: chb15
+Edf file: chb15_54.edf
+Registration start: 23:39:54
+Registration end: 00:39:54
+Registration start seconds: 85194
+Registration end seconds: 2394
+EDF file duration: -169200
+Seizure start: 00:37:08
+Seizure end: 00:37:40
+Seizure start seconds: 2228
+Seizure end seconds: 2260
+Seizure duration: 32
+Seizure onset seconds: 3434
+Post-ictal onset seconds: 3466
+Post-ictal end seconds: -169201
+ 56%|█████▌    | 137/245 [5:43:47<1:19:33, 44.20s/it]Detected 37 onset times
+Found 38 onsets and 38 peaks
+Error processing data/chb-mit\chb15\chb15_54.edf: tmin (3466) must be less than tmax (-169201)
+Patient id: chb15
+Edf file: chb15_62.edf
+Registration start: 07:41:10
+Registration end: 08:41:10
+Registration start seconds: 27670
+Registration end seconds: 31270
+EDF file duration: 3600
+Seizure start: 07:53:41
+Seizure end: 07:55:29
+Seizure start seconds: 28421
+Seizure end seconds: 28529
+Seizure duration: 108
+Seizure onset seconds: 751
+Post-ictal onset seconds: 859
+Post-ictal end seconds: 3599
+Detected 38 onset times
+Found 38 onsets and 38 peaks
+ 56%|█████▋    | 138/245 [5:46:31<2:23:13, 80.32s/it]Patient id: chb16
+Edf file: chb16_10.edf
+Registration start: 01:40:40
+Registration end: 02:40:40
+Registration start seconds: 6040
+Registration end seconds: 9640
+EDF file duration: 3600
+Seizure start: 02:18:50
+Seizure end: 02:18:59
+Seizure start seconds: 8330
+Seizure end seconds: 8339
+Seizure duration: 9
+Seizure onset seconds: 2290
+Post-ictal onset seconds: 2299
+Post-ictal end seconds: 3599
+Detected 22 onset times
+Found 28 onsets and 28 peaks
+ 57%|█████▋    | 139/245 [5:47:58<2:25:13, 82.21s/it]Patient id: chb16
+Edf file: chb16_11.edf
+Registration start: 02:40:47
+Registration end: 03:40:47
+Registration start seconds: 9647
+Registration end seconds: 13247
+EDF file duration: 3600
+Seizure start: 02:59:27
+Seizure end: 02:59:36
+Seizure start seconds: 10767
+Seizure end seconds: 10776
+Seizure duration: 9
+Seizure onset seconds: 1120
+Post-ictal onset seconds: 1129
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 28 onsets and 28 peaks
+ 57%|█████▋    | 140/245 [5:50:28<2:59:17, 102.45s/it]Patient id: chb16
+Edf file: chb16_14.edf
+Registration start: 05:41:08
+Registration end: 06:41:08
+Registration start seconds: 20468
+Registration end seconds: 24068
+EDF file duration: 3600
+Seizure start: 06:12:02
+Seizure end: 06:12:16
+Seizure start seconds: 22322
+Seizure end seconds: 22336
+Seizure duration: 14
+Seizure onset seconds: 1854
+Post-ictal onset seconds: 1868
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 58%|█████▊    | 141/245 [5:52:11<2:58:10, 102.79s/it]Patient id: chb16
+Edf file: chb16_16.edf
+Registration start: 07:41:22
+Registration end: 08:41:22
+Registration start seconds: 27682
+Registration end seconds: 31282
+EDF file duration: 3600
+Seizure start: 08:01:36
+Seizure end: 08:01:42
+Seizure start seconds: 28896
+Seizure end seconds: 28902
+Seizure duration: 6
+Seizure onset seconds: 1214
+Post-ictal onset seconds: 1220
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 28 onsets and 28 peaks
+ 58%|█████▊    | 142/245 [5:54:25<3:12:23, 112.07s/it]Patient id: chb16
+Edf file: chb16_17.edf
+Registration start: 08:41:29
+Registration end: 09:41:29
+Registration start seconds: 31289
+Registration end seconds: 34889
+EDF file duration: 3600
+Seizure start: 08:45:16
+Seizure end: 08:45:25
+Seizure start seconds: 31516
+Seizure end seconds: 31525
+Seizure duration: 9
+Seizure onset seconds: 227
+Post-ictal onset seconds: 236
+Post-ictal end seconds: 3599
+Detected 17 onset times
+Found 28 onsets and 28 peaks
+ 58%|█████▊    | 143/245 [5:57:43<3:54:29, 137.93s/it]Patient id: chb16
+Edf file: chb16_17.edf
+Registration start: 08:41:29
+Registration end: 09:41:29
+Registration start seconds: 31289
+Registration end seconds: 34889
+EDF file duration: 3600
+Seizure start: 09:09:43
+Seizure end: 09:09:49
+Seizure start seconds: 32983
+Seizure end seconds: 32989
+Seizure duration: 6
+Seizure onset seconds: 1694
+Post-ictal onset seconds: 1700
+Post-ictal end seconds: 3599
+Detected 18 onset times
+Found 28 onsets and 28 peaks
+ 59%|█████▉    | 144/245 [5:59:26<3:34:29, 127.42s/it]Patient id: chb16
+Edf file: chb16_17.edf
+Registration start: 08:41:29
+Registration end: 09:41:29
+Registration start seconds: 31289
+Registration end seconds: 34889
+EDF file duration: 3600
+Seizure start: 09:17:31
+Seizure end: 09:17:39
+Seizure start seconds: 33451
+Seizure end seconds: 33459
+Seizure duration: 8
+Seizure onset seconds: 2162
+Post-ictal onset seconds: 2170
+Post-ictal end seconds: 3599
+Detected 18 onset times
+Found 28 onsets and 28 peaks
+ 59%|█████▉    | 145/245 [6:00:47<3:08:50, 113.30s/it]Patient id: chb16
+Edf file: chb16_17.edf
+Registration start: 08:41:29
+Registration end: 09:41:29
+Registration start seconds: 31289
+Registration end seconds: 34889
+EDF file duration: 3600
+Seizure start: 09:36:19
+Seizure end: 09:36:27
+Seizure start seconds: 34579
+Seizure end seconds: 34587
+Seizure duration: 8
+Seizure onset seconds: 3290
+Post-ictal onset seconds: 3298
+Post-ictal end seconds: 3599
+Detected 16 onset times
+Found 28 onsets and 28 peaks
+ 60%|█████▉    | 146/245 [6:01:20<2:27:26, 89.36s/it] Patient id: chb16
+Edf file: chb16_18.edf
+Registration start: 09:41:36
+Registration end: 10:41:36
+Registration start seconds: 34896
+Registration end seconds: 38496
+EDF file duration: 3600
+Seizure start: 09:52:03
+Seizure end: 09:52:11
+Seizure start seconds: 35523
+Seizure end seconds: 35531
+Seizure duration: 8
+Seizure onset seconds: 627
+Post-ictal onset seconds: 635
+Post-ictal end seconds: 3599
+No channels found for frontotemporal region
+No channels found for cross_hemisphere region
+Detected 10 onset times
+Found 22 onsets and 22 peaks
+No channels found for frontotemporal region
+No channels found for cross_hemisphere region
+ 60%|██████    | 147/245 [6:03:26<2:44:02, 100.43s/it]Patient id: chb16
+Edf file: chb16_18.edf
+Registration start: 09:41:36
+Registration end: 10:41:36
+Registration start seconds: 34896
+Registration end seconds: 38496
+EDF file duration: 3600
+Seizure start: 10:13:25
+Seizure end: 10:13:32
+Seizure start seconds: 36805
+Seizure end seconds: 36812
+Seizure duration: 7
+Seizure onset seconds: 1909
+Post-ictal onset seconds: 1916
+Post-ictal end seconds: 3599
+No channels found for frontotemporal region
+No channels found for cross_hemisphere region
+Detected 18 onset times
+Found 22 onsets and 22 peaks
+No channels found for frontotemporal region
+No channels found for cross_hemisphere region
+ 60%|██████    | 148/245 [6:04:32<2:25:32, 90.03s/it] Patient id: chb17
+Edf file: chb17a_03.edf
+Registration start: 19:47:38
+Registration end: 20:47:38
+Registration start seconds: 71258
+Registration end seconds: 74858
+EDF file duration: 3600
+Seizure start: 20:25:40
+Seizure end: 20:27:10
+Seizure start seconds: 73540
+Seizure end seconds: 73630
+Seizure duration: 90
+Seizure onset seconds: 2282
+Post-ictal onset seconds: 2372
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 61%|██████    | 149/245 [6:05:56<2:20:58, 88.11s/it]Patient id: chb17
+Edf file: chb17a_04.edf
+Registration start: 20:47:45
+Registration end: 21:47:45
+Registration start seconds: 74865
+Registration end seconds: 78465
+EDF file duration: 3600
+Seizure start: 21:38:10
+Seizure end: 21:40:05
+Seizure start seconds: 77890
+Seizure end seconds: 78005
+Seizure duration: 115
+Seizure onset seconds: 3025
+Post-ictal onset seconds: 3140
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 61%|██████    | 150/245 [6:06:39<1:58:20, 74.74s/it]Patient id: chb17
+Edf file: chb17b_63.edf
+Registration start: 08:00:02
+Registration end: 09:00:26
+Registration start seconds: 28802
+Registration end seconds: 32426
+EDF file duration: 3624
+Seizure start: 08:52:18
+Seizure end: 08:53:46
+Seizure start seconds: 31938
+Seizure end seconds: 32026
+Seizure duration: 88
+Seizure onset seconds: 3136
+Post-ictal onset seconds: 3224
+Post-ictal end seconds: 3623
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 62%|██████▏   | 151/245 [6:07:21<1:41:32, 64.81s/it]Patient id: chb18
+Edf file: chb18_29.edf
+Registration start: 05:58:59
+Registration end: 06:58:59
+Registration start seconds: 21539
+Registration end seconds: 25139
+EDF file duration: 3600
+Seizure start: 06:56:56
+Seizure end: 06:57:46
+Seizure start seconds: 25016
+Seizure end seconds: 25066
+Seizure duration: 50
+Seizure onset seconds: 3477
+Post-ictal onset seconds: 3527
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 62%|██████▏   | 152/245 [6:07:50<1:23:42, 54.01s/it]Patient id: chb18
+Edf file: chb18_30.edf
+Registration start: 06:59:06
+Registration end: 07:59:06
+Registration start seconds: 25146
+Registration end seconds: 28746
+EDF file duration: 3600
+Seizure start: 07:08:07
+Seizure end: 07:08:37
+Seizure start seconds: 25687
+Seizure end seconds: 25717
+Seizure duration: 30
+Seizure onset seconds: 541
+Post-ictal onset seconds: 571
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 62%|██████▏   | 153/245 [6:10:34<2:13:28, 87.05s/it]Patient id: chb18
+Edf file: chb18_31.edf
+Registration start: 10:00:32
+Registration end: 10:38:26
+Registration start seconds: 36032
+Registration end seconds: 38306
+EDF file duration: 2274
+Seizure start: 10:35:19
+Seizure end: 10:36:27
+Seizure start seconds: 38119
+Seizure end seconds: 38187
+Seizure duration: 68
+Seizure onset seconds: 2087
+Post-ictal onset seconds: 2155
+Post-ictal end seconds: 2273
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 63%|██████▎   | 154/245 [6:11:04<1:46:19, 70.10s/it]Patient id: chb18
+Edf file: chb18_32.edf
+Registration start: 11:38:42
+Registration end: 12:38:42
+Registration start seconds: 41922
+Registration end seconds: 45522
+EDF file duration: 3600
+Seizure start: 12:10:30
+Seizure end: 12:11:25
+Seizure start seconds: 43830
+Seizure end seconds: 43885
+Seizure duration: 55
+Seizure onset seconds: 1908
+Post-ictal onset seconds: 1963
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 63%|██████▎   | 155/245 [6:12:22<1:48:26, 72.30s/it]Patient id: chb18
+Edf file: chb18_35.edf
+Registration start: 08:42:06
+Registration end: 09:42:06
+Registration start seconds: 31326
+Registration end seconds: 34926
+EDF file duration: 3600
+Seizure start: 09:18:42
+Seizure end: 09:19:50
+Seizure start seconds: 33522
+Seizure end seconds: 33590
+Seizure duration: 68
+Seizure onset seconds: 2196
+Post-ictal onset seconds: 2264
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 64%|██████▎   | 156/245 [6:13:49<1:53:41, 76.65s/it]Patient id: chb18
+Edf file: chb18_36.edf
+Registration start: 08:45:57
+Registration end: 09:45:57
+Registration start seconds: 31557
+Registration end seconds: 35157
+EDF file duration: 3600
+Seizure start: 08:53:40
+Seizure end: 08:54:26
+Seizure start seconds: 32020
+Seizure end seconds: 32066
+Seizure duration: 46
+Seizure onset seconds: 463
+Post-ictal onset seconds: 509
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 64%|██████▍   | 157/245 [6:16:56<2:41:15, 109.95s/it]Patient id: chb19
+Edf file: chb19_28.edf
+Registration start: 01:09:35
+Registration end: 02:09:47
+Registration start seconds: 4175
+Registration end seconds: 7787
+EDF file duration: 3612
+Seizure start: 01:14:34
+Seizure end: 01:15:52
+Seizure start seconds: 4474
+Seizure end seconds: 4552
+Seizure duration: 78
+Seizure onset seconds: 299
+Post-ictal onset seconds: 377
+Post-ictal end seconds: 3611
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 64%|██████▍   | 158/245 [6:19:41<3:03:16, 126.40s/it]Patient id: chb19
+Edf file: chb19_29.edf
+Registration start: 07:11:12
+Registration end: 08:11:12
+Registration start seconds: 25872
+Registration end seconds: 29472
+EDF file duration: 3600
+Seizure start: 08:00:36
+Seizure end: 08:01:53
+Seizure start seconds: 28836
+Seizure end seconds: 28913
+Seizure duration: 77
+Seizure onset seconds: 2964
+Post-ictal onset seconds: 3041
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 65%|██████▍   | 159/245 [6:20:32<2:28:39, 103.72s/it]Patient id: chb19
+Edf file: chb19_30.edf
+Registration start: 11:12:51
+Registration end: 12:08:25
+Registration start seconds: 40371
+Registration end seconds: 43705
+EDF file duration: 3334
+Seizure start: 12:05:30
+Seizure end: 12:06:51
+Seizure start seconds: 43530
+Seizure end seconds: 43611
+Seizure duration: 81
+Seizure onset seconds: 3159
+Post-ictal onset seconds: 3240
+Post-ictal end seconds: 3333
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 65%|██████▌   | 160/245 [6:21:02<1:55:38, 81.63s/it] Patient id: chb20
+Edf file: chb20_12.edf
+Registration start: 03:56:53
+Registration end: 04:56:53
+Registration start seconds: 14213
+Registration end seconds: 17813
+EDF file duration: 3600
+Seizure start: 03:58:27
+Seizure end: 03:58:56
+Seizure start seconds: 14307
+Seizure end seconds: 14336
+Seizure duration: 29
+Seizure onset seconds: 94
+Post-ictal onset seconds: 123
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 66%|██████▌   | 161/245 [6:25:49<3:20:37, 143.31s/it]Patient id: chb20
+Edf file: chb20_13.edf
+Registration start: 04:57:00
+Registration end: 05:57:00
+Registration start seconds: 17820
+Registration end seconds: 21420
+EDF file duration: 3600
+Seizure start: 05:21:00
+Seizure end: 05:21:30
+Seizure start seconds: 19260
+Seizure end seconds: 19290
+Seizure duration: 30
+Seizure onset seconds: 1440
+Post-ictal onset seconds: 1470
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 66%|██████▌   | 162/245 [6:27:56<3:11:22, 138.34s/it]Patient id: chb20
+Edf file: chb20_13.edf
+Registration start: 04:57:00
+Registration end: 05:57:00
+Registration start seconds: 17820
+Registration end seconds: 21420
+EDF file duration: 3600
+Seizure start: 05:38:38
+Seizure end: 05:39:17
+Seizure start seconds: 20318
+Seizure end seconds: 20357
+Seizure duration: 39
+Seizure onset seconds: 2498
+Post-ictal onset seconds: 2537
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 67%|██████▋   | 163/245 [6:29:17<2:45:42, 121.26s/it]Patient id: chb20
+Edf file: chb20_14.edf
+Registration start: 05:57:07
+Registration end: 06:57:07
+Registration start seconds: 21427
+Registration end seconds: 25027
+EDF file duration: 3600
+Seizure start: 06:29:58
+Seizure end: 06:30:36
+Seizure start seconds: 23398
+Seizure end seconds: 23436
+Seizure duration: 38
+Seizure onset seconds: 1971
+Post-ictal onset seconds: 2009
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 67%|██████▋   | 164/245 [6:31:11<2:40:46, 119.09s/it]Patient id: chb20
+Edf file: chb20_15.edf
+Registration start: 06:57:14
+Registration end: 07:57:14
+Registration start seconds: 25034
+Registration end seconds: 28634
+EDF file duration: 3600
+Seizure start: 07:03:44
+Seizure end: 07:04:19
+Seizure start seconds: 25424
+Seizure end seconds: 25459
+Seizure duration: 35
+Seizure onset seconds: 390
+Post-ictal onset seconds: 425
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 67%|██████▋   | 165/245 [6:34:40<3:14:24, 145.81s/it]Patient id: chb20
+Edf file: chb20_15.edf
+Registration start: 06:57:14
+Registration end: 07:57:14
+Registration start seconds: 25034
+Registration end seconds: 28634
+EDF file duration: 3600
+Seizure start: 07:25:23
+Seizure end: 07:26:12
+Seizure start seconds: 26723
+Seizure end seconds: 26772
+Seizure duration: 49
+Seizure onset seconds: 1689
+Post-ictal onset seconds: 1738
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 68%|██████▊   | 166/245 [6:36:40<3:01:47, 138.07s/it]Patient id: chb20
+Edf file: chb20_16.edf
+Registration start: 07:57:20
+Registration end: 08:55:09
+Registration start seconds: 28640
+Registration end seconds: 32109
+EDF file duration: 3469
+Seizure start: 08:34:26
+Seizure end: 08:35:01
+Seizure start seconds: 30866
+Seizure end seconds: 30901
+Seizure duration: 35
+Seizure onset seconds: 2226
+Post-ictal onset seconds: 2261
+Post-ictal end seconds: 3468
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 68%|██████▊   | 167/245 [6:38:00<2:37:09, 120.89s/it]Patient id: chb20
+Edf file: chb20_68.edf
+Registration start: 09:45:07
+Registration end: 10:21:14
+Registration start seconds: 35107
+Registration end seconds: 37274
+EDF file duration: 2167
+Seizure start: 10:08:20
+Seizure end: 10:08:59
+Seizure start seconds: 36500
+Seizure end seconds: 36539
+Seizure duration: 39
+Seizure onset seconds: 1393
+Post-ictal onset seconds: 1432
+Post-ictal end seconds: 2166
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 69%|██████▊   | 168/245 [6:39:01<2:12:06, 102.95s/it]Patient id: chb21
+Edf file: chb21_19.edf
+Registration start: 11:59:13
+Registration end: 12:59:13
+Registration start seconds: 43153
+Registration end seconds: 46753
+EDF file duration: 3600
+Seizure start: 12:20:41
+Seizure end: 12:21:37
+Seizure start seconds: 44441
+Seizure end seconds: 44497
+Seizure duration: 56
+Seizure onset seconds: 1288
+Post-ictal onset seconds: 1344
+Post-ictal end seconds: 3599
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 69%|██████▉   | 169/245 [6:41:07<2:19:08, 109.85s/it]Patient id: chb21
+Edf file: chb21_20.edf
+Registration start: 12:59:20
+Registration end: 13:49:10
+Registration start seconds: 46760
+Registration end seconds: 49750
+EDF file duration: 2990
+Seizure start: 13:43:07
+Seizure end: 13:43:57
+Seizure start seconds: 49387
+Seizure end seconds: 49437
+Seizure duration: 50
+Seizure onset seconds: 2627
+Post-ictal onset seconds: 2677
+Post-ictal end seconds: 2989
+Detected 28 onset times
+Found 28 onsets and 28 peaks
+ 69%|██████▉   | 170/245 [6:41:44<1:49:42, 87.76s/it] Patient id: chb21
+Edf file: chb21_21.edf
+Registration start: 15:49:35
+Registration end: 16:49:35
+Registration start seconds: 56975
+Registration end seconds: 60575
+EDF file duration: 3600
+Seizure start: 16:22:58
+Seizure end: 16:24:19
+Seizure start seconds: 58978
+Seizure end seconds: 59059
+Seizure duration: 81
+Seizure onset seconds: 2003
+Post-ictal onset seconds: 2084
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 28 onsets and 28 peaks
+ 70%|██████▉   | 171/245 [6:43:25<1:53:06, 91.71s/it]Patient id: chb21
+Edf file: chb21_22.edf
+Registration start: 16:49:42
+Registration end: 17:49:42
+Registration start seconds: 60582
+Registration end seconds: 64182
+EDF file duration: 3600
+Seizure start: 17:32:15
+Seizure end: 17:32:27
+Seizure start seconds: 63135
+Seizure end seconds: 63147
+Seizure duration: 12
+Seizure onset seconds: 2553
+Post-ictal onset seconds: 2565
+Post-ictal end seconds: 3599
+Detected 27 onset times
+Found 28 onsets and 28 peaks
+ 70%|███████   | 172/245 [6:44:35<1:43:44, 85.26s/it]Patient id: chb22
+Edf file: chb22_20.edf
+Registration start: 17:45:03
+Registration end: 18:45:03
+Registration start seconds: 63903
+Registration end seconds: 67503
+EDF file duration: 3600
+Seizure start: 18:41:10
+Seizure end: 18:42:08
+Seizure start seconds: 67270
+Seizure end seconds: 67328
+Seizure duration: 58
+Seizure onset seconds: 3367
+Post-ictal onset seconds: 3425
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 28 peaks
+ 71%|███████   | 173/245 [6:45:06<1:22:56, 69.12s/it]Patient id: chb22
+Edf file: chb22_25.edf
+Registration start: 22:45:37
+Registration end: 23:45:37
+Registration start seconds: 81937
+Registration end seconds: 85537
+EDF file duration: 3600
+Seizure start: 23:37:56
+Seizure end: 23:39:10
+Seizure start seconds: 85076
+Seizure end seconds: 85150
+Seizure duration: 74
+Seizure onset seconds: 3139
+Post-ictal onset seconds: 3213
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 28 peaks
+ 71%|███████   | 174/245 [6:45:51<1:13:12, 61.87s/it]Patient id: chb22
+Edf file: chb22_38.edf
+Registration start: 11:47:09
+Registration end: 12:47:09
+Registration start seconds: 42429
+Registration end seconds: 46029
+EDF file duration: 3600
+Seizure start: 12:08:12
+Seizure end: 12:09:24
+Seizure start seconds: 43692
+Seizure end seconds: 43764
+Seizure duration: 72
+Seizure onset seconds: 1263
+Post-ictal onset seconds: 1335
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 28 peaks
+ 71%|███████▏  | 175/245 [6:48:01<1:35:59, 82.28s/it]Patient id: chb23
+Edf file: chb23_06.edf
+Registration start: 08:57:57
+Registration end: 11:02:43
+Registration start seconds: 32277
+Registration end seconds: 39763
+EDF file duration: 7486
+Seizure start: 10:04:19
+Seizure end: 10:06:12
+Seizure start seconds: 36259
+Seizure end seconds: 36372
+Seizure duration: 113
+Seizure onset seconds: 3982
+Post-ictal onset seconds: 4095
+Post-ictal end seconds: 7485
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 72%|███████▏  | 176/245 [6:52:04<2:30:04, 130.49s/it]Patient id: chb23
+Edf file: chb23_08.edf
+Registration start: 11:48:05
+Registration end: 14:40:27
+Registration start seconds: 42485
+Registration end seconds: 52827
+EDF file duration: 10342
+Seizure start: 11:53:30
+Seizure end: 11:53:50
+Seizure start seconds: 42810
+Seizure end seconds: 42830
+Seizure duration: 20
+Seizure onset seconds: 325
+Post-ictal onset seconds: 345
+Post-ictal end seconds: 10341
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 72%|███████▏  | 177/245 [7:02:37<5:18:36, 281.12s/it]Patient id: chb23
+Edf file: chb23_08.edf
+Registration start: 11:48:05
+Registration end: 14:40:27
+Registration start seconds: 42485
+Registration end seconds: 52827
+EDF file duration: 10342
+Seizure start: 13:13:09
+Seizure end: 13:13:56
+Seizure start seconds: 47589
+Seizure end seconds: 47636
+Seizure duration: 47
+Seizure onset seconds: 5104
+Post-ictal onset seconds: 5151
+Post-ictal end seconds: 10341
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 73%|███████▎  | 178/245 [7:07:36<5:19:55, 286.50s/it]Patient id: chb23
+Edf file: chb23_09.edf
+Registration start: 14:40:47
+Registration end: 18:41:13
+Registration start seconds: 52847
+Registration end seconds: 67273
+EDF file duration: 14426
+Seizure start: 15:24:06
+Seizure end: 15:25:17
+Seizure start seconds: 55446
+Seizure end seconds: 55517
+Seizure duration: 71
+Seizure onset seconds: 2599
+Post-ictal onset seconds: 2670
+Post-ictal end seconds: 14425
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 73%|███████▎  | 179/245 [7:20:49<8:02:24, 438.56s/it]Patient id: chb23
+Edf file: chb23_09.edf
+Registration start: 14:40:47
+Registration end: 18:41:13
+Registration start seconds: 52847
+Registration end seconds: 67273
+EDF file duration: 14426
+Seizure start: 16:35:32
+Seizure end: 16:36:34
+Seizure start seconds: 59732
+Seizure end seconds: 59794
+Seizure duration: 62
+Seizure onset seconds: 6885
+Post-ictal onset seconds: 6947
+Post-ictal end seconds: 14425
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 73%|███████▎  | 180/245 [7:28:05<7:54:22, 437.88s/it]Patient id: chb23
+Edf file: chb23_09.edf
+Registration start: 14:40:47
+Registration end: 18:41:13
+Registration start seconds: 52847
+Registration end seconds: 67273
+EDF file duration: 14426
+Seizure start: 17:02:12
+Seizure end: 17:02:39
+Seizure start seconds: 61332
+Seizure end seconds: 61359
+Seizure duration: 27
+Seizure onset seconds: 8485
+Post-ictal onset seconds: 8512
+Post-ictal end seconds: 14425
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 74%|███████▍  | 181/245 [7:33:24<7:08:48, 402.00s/it]Patient id: chb23
+Edf file: chb23_09.edf
+Registration start: 14:40:47
+Registration end: 18:41:13
+Registration start seconds: 52847
+Registration end seconds: 67273
+EDF file duration: 14426
+Seizure start: 17:20:27
+Seizure end: 17:21:51
+Seizure start seconds: 62427
+Seizure end seconds: 62511
+Seizure duration: 84
+Seizure onset seconds: 9580
+Post-ictal onset seconds: 9664
+Post-ictal end seconds: 14425
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 74%|███████▍  | 182/245 [7:37:43<6:17:11, 359.23s/it]Patient id: chb24
+Edf file: chb24_01.edf
+Registration start: 16:26:28
+Registration end: 17:26:28
+Registration start seconds: 59188
+Registration end seconds: 62788
+EDF file duration: 3600
+Seizure start: 16:34:28
+Seizure end: 16:34:53
+Seizure start seconds: 59668
+Seizure end seconds: 59693
+Seizure duration: 25
+Seizure onset seconds: 480
+Post-ictal onset seconds: 505
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 75%|███████▍  | 183/245 [7:40:47<5:16:59, 306.76s/it]Patient id: chb24
+Edf file: chb24_01.edf
+Registration start: 16:26:28
+Registration end: 17:26:28
+Registration start seconds: 59188
+Registration end seconds: 62788
+EDF file duration: 3600
+Seizure start: 17:07:19
+Seizure end: 17:07:44
+Seizure start seconds: 61639
+Seizure end seconds: 61664
+Seizure duration: 25
+Seizure onset seconds: 2451
+Post-ictal onset seconds: 2476
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 75%|███████▌  | 184/245 [7:42:03<4:01:17, 237.34s/it]Patient id: chb24
+Edf file: chb24_03.edf
+Registration start: 18:26:39
+Registration end: 19:26:39
+Registration start seconds: 66399
+Registration end seconds: 69999
+EDF file duration: 3600
+Seizure start: 18:30:30
+Seizure end: 18:30:59
+Seizure start seconds: 66630
+Seizure end seconds: 66659
+Seizure duration: 29
+Seizure onset seconds: 231
+Post-ictal onset seconds: 260
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 76%|███████▌  | 185/245 [7:44:44<3:34:32, 214.55s/it]Patient id: chb24
+Edf file: chb24_03.edf
+Registration start: 18:26:39
+Registration end: 19:26:39
+Registration start seconds: 66399
+Registration end seconds: 69999
+EDF file duration: 3600
+Seizure start: 19:14:42
+Seizure end: 19:15:07
+Seizure start seconds: 69282
+Seizure end seconds: 69307
+Seizure duration: 25
+Seizure onset seconds: 2883
+Post-ictal onset seconds: 2908
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 76%|███████▌  | 186/245 [7:45:36<2:42:59, 165.76s/it]Patient id: chb24
+Edf file: chb24_04.edf
+Registration start: 19:26:46
+Registration end: 20:26:46
+Registration start seconds: 70006
+Registration end seconds: 73606
+EDF file duration: 3600
+Seizure start: 19:44:54
+Seizure end: 19:45:26
+Seizure start seconds: 71094
+Seizure end seconds: 71126
+Seizure duration: 32
+Seizure onset seconds: 1088
+Post-ictal onset seconds: 1120
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 76%|███████▋  | 187/245 [7:48:54<2:49:34, 175.43s/it]Patient id: chb24
+Edf file: chb24_04.edf
+Registration start: 19:26:46
+Registration end: 20:26:46
+Registration start seconds: 70006
+Registration end seconds: 73606
+EDF file duration: 3600
+Seizure start: 19:50:17
+Seizure end: 19:50:44
+Seizure start seconds: 71417
+Seizure end seconds: 71444
+Seizure duration: 27
+Seizure onset seconds: 1411
+Post-ictal onset seconds: 1438
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 77%|███████▋  | 188/245 [7:51:45<2:45:15, 173.95s/it]Patient id: chb24
+Edf file: chb24_04.edf
+Registration start: 19:26:46
+Registration end: 20:26:46
+Registration start seconds: 70006
+Registration end seconds: 73606
+EDF file duration: 3600
+Seizure start: 19:55:51
+Seizure end: 19:56:10
+Seizure start seconds: 71751
+Seizure end seconds: 71770
+Seizure duration: 19
+Seizure onset seconds: 1745
+Post-ictal onset seconds: 1764
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 77%|███████▋  | 189/245 [7:53:39<2:25:34, 155.97s/it]Patient id: chb24
+Edf file: chb24_06.edf
+Registration start: 21:27:00
+Registration end: 22:27:00
+Registration start seconds: 77220
+Registration end seconds: 80820
+EDF file duration: 3600
+Seizure start: 21:47:29
+Seizure end: 21:47:53
+Seizure start seconds: 78449
+Seizure end seconds: 78473
+Seizure duration: 24
+Seizure onset seconds: 1229
+Post-ictal onset seconds: 1253
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 78%|███████▊  | 190/245 [7:55:45<2:14:50, 147.10s/it]Patient id: chb24
+Edf file: chb24_07.edf
+Registration start: 22:27:08
+Registration end: 23:27:08
+Registration start seconds: 80828
+Registration end seconds: 84428
+EDF file duration: 3600
+Seizure start: 22:27:46
+Seizure end: 22:28:46
+Seizure start seconds: 80866
+Seizure end seconds: 80926
+Seizure duration: 60
+Seizure onset seconds: 38
+Post-ictal onset seconds: 98
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 78%|███████▊  | 191/245 [8:00:27<2:48:46, 187.52s/it]Patient id: chb24
+Edf file: chb24_09.edf
+Registration start: 00:27:22
+Registration end: 01:27:22
+Registration start seconds: 1642
+Registration end seconds: 5242
+EDF file duration: 3600
+Seizure start: 00:56:27
+Seizure end: 00:56:46
+Seizure start seconds: 3387
+Seizure end seconds: 3406
+Seizure duration: 19
+Seizure onset seconds: 1745
+Post-ictal onset seconds: 1764
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 78%|███████▊  | 192/245 [8:02:03<2:21:21, 160.03s/it]Patient id: chb24
+Edf file: chb24_11.edf
+Registration start: 02:27:36
+Registration end: 03:27:36
+Registration start seconds: 8856
+Registration end seconds: 12456
+EDF file duration: 3600
+Seizure start: 02:58:47
+Seizure end: 02:59:57
+Seizure start seconds: 10727
+Seizure end seconds: 10797
+Seizure duration: 70
+Seizure onset seconds: 1871
+Post-ictal onset seconds: 1941
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 79%|███████▉  | 193/245 [8:03:52<2:05:31, 144.83s/it]Patient id: chb24
+Edf file: chb24_13.edf
+Registration start: 04:27:50
+Registration end: 05:27:50
+Registration start seconds: 16070
+Registration end seconds: 19670
+EDF file duration: 3600
+Seizure start: 05:22:38
+Seizure end: 05:22:54
+Seizure start seconds: 19358
+Seizure end seconds: 19374
+Seizure duration: 16
+Seizure onset seconds: 3288
+Post-ictal onset seconds: 3304
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 79%|███████▉  | 194/245 [8:04:27<1:35:02, 111.82s/it]Patient id: chb24
+Edf file: chb24_14.edf
+Registration start: 05:27:57
+Registration end: 06:27:57
+Registration start seconds: 19677
+Registration end seconds: 23277
+EDF file duration: 3600
+Seizure start: 06:00:16
+Seizure end: 06:00:43
+Seizure start seconds: 21616
+Seizure end seconds: 21643
+Seizure duration: 27
+Seizure onset seconds: 1939
+Post-ictal onset seconds: 1966
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 80%|███████▉  | 195/245 [8:06:16<1:32:26, 110.92s/it]Patient id: chb24
+Edf file: chb24_15.edf
+Registration start: 06:28:05
+Registration end: 07:28:05
+Registration start seconds: 23285
+Registration end seconds: 26885
+EDF file duration: 3600
+Seizure start: 07:27:17
+Seizure end: 07:27:34
+Seizure start seconds: 26837
+Seizure end seconds: 26854
+Seizure duration: 17
+Seizure onset seconds: 3552
+Post-ictal onset seconds: 3569
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 80%|████████  | 196/245 [8:06:42<1:09:54, 85.60s/it] Patient id: chb24
+Edf file: chb24_17.edf
+Registration start: 08:28:19
+Registration end: 09:28:19
+Registration start seconds: 30499
+Registration end seconds: 34099
+EDF file duration: 3600
+Seizure start: 09:26:54
+Seizure end: 09:28:00
+Seizure start seconds: 34014
+Seizure end seconds: 34080
+Seizure duration: 66
+Seizure onset seconds: 3515
+Post-ictal onset seconds: 3581
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 80%|████████  | 197/245 [8:07:10<54:36, 68.26s/it]  Patient id: chb24
+Edf file: chb24_21.edf
+Registration start: 12:28:50
+Registration end: 13:28:50
+Registration start seconds: 44930
+Registration end seconds: 48530
+EDF file duration: 3600
+Seizure start: 13:15:34
+Seizure end: 13:16:42
+Seizure start seconds: 47734
+Seizure end seconds: 47802
+Seizure duration: 68
+Seizure onset seconds: 2804
+Post-ictal onset seconds: 2872
+Post-ictal end seconds: 3599
+Detected 23 onset times
+Found 23 onsets and 23 peaks
+ 81%|████████  | 198/245 [8:08:00<49:16, 62.91s/it]Patient id: PN00
+Edf file: PN00-1.edf
+Registration start: 19:39:33
+Registration end: 20:22:58
+Registration start seconds: 70773
+Registration end seconds: 73378
+EDF file duration: 2605
+Seizure start: 19:58:36
+Seizure end: 19:59:46
+Seizure start seconds: 71916
+Seizure end seconds: 71986
+Seizure duration: 70
+Seizure onset seconds: 1143
+Post-ictal onset seconds: 1213
+Post-ictal end seconds: 2604
+Detected 33 onset times
+Found 33 onsets and 35 peaks
+ 81%|████████  | 199/245 [8:09:33<54:57, 71.68s/it]Patient id: PN00
+Edf file: PN00-2.edf
+Registration start: 02:18:17
+Registration end: 02:56:19
+Registration start seconds: 8297
+Registration end seconds: 10579
+EDF file duration: 2282
+Seizure start: 02:38:37
+Seizure end: 02:39:31
+Seizure start seconds: 9517
+Seizure end seconds: 9571
+Seizure duration: 54
+Seizure onset seconds: 1220
+Post-ictal onset seconds: 1274
+Post-ictal end seconds: 2281
+Detected 33 onset times
+Found 33 onsets and 35 peaks
+ 82%|████████▏ | 200/245 [8:10:44<53:47, 71.72s/it]Patient id: PN00
+Edf file: PN00-3.edf
+Registration start: 18:15:44
+Registration end: 18:57:13
+Registration start seconds: 65744
+Registration end seconds: 68233
+EDF file duration: 2489
+Seizure start: 18:28:29
+Seizure end: 18:29:29
+Seizure start seconds: 66509
+Seizure end seconds: 66569
+Seizure duration: 60
+Seizure onset seconds: 765
+Post-ictal onset seconds: 825
+Post-ictal end seconds: 2488
+Detected 33 onset times
+Found 33 onsets and 35 peaks
+ 82%|████████▏ | 201/245 [8:12:22<58:14, 79.41s/it]Patient id: PN00
+Edf file: PN00-4.edf
+Registration start: 20:51:43
+Registration end: 21:26:25
+Registration start seconds: 75103
+Registration end seconds: 77185
+EDF file duration: 2082
+Seizure start: 21:08:29
+Seizure end: 21:09:43
+Seizure start seconds: 76109
+Seizure end seconds: 76183
+Seizure duration: 74
+Seizure onset seconds: 1006
+Post-ictal onset seconds: 1080
+Post-ictal end seconds: 2081
+Detected 33 onset times
+Found 33 onsets and 35 peaks
+ 82%|████████▏ | 202/245 [8:13:34<55:20, 77.22s/it]Patient id: PN00
+Edf file: PN00-5.edf
+Registration start: 22:22:04
+Registration end: 22:57:27
+Registration start seconds: 80524
+Registration end seconds: 82647
+EDF file duration: 2123
+Seizure start: 22:37:08
+Seizure end: 22:38:15
+Seizure start seconds: 81428
+Seizure end seconds: 81495
+Seizure duration: 67
+Seizure onset seconds: 904
+Post-ictal onset seconds: 971
+Post-ictal end seconds: 2122
+Detected 32 onset times
+Found 33 onsets and 35 peaks
+ 83%|████████▎ | 203/245 [8:14:53<54:23, 77.71s/it]Patient id: PN01
+Edf file: PN01-1.edf
+Registration start: 19:00:44
+Registration end: 08:29:41
+Registration start seconds: 68444
+Registration end seconds: 30581
+EDF file duration: -124263
+Seizure start: 21:51:02
+Seizure end: 21:51:56
+Seizure start seconds: 78662
+Seizure end seconds: 78716
+Seizure duration: 54
+Seizure onset seconds: 10218
+Post-ictal onset seconds: 10272
+Post-ictal end seconds: -124264
+Detected 33 onset times
+Found 33 onsets and 35 peaks
+Error processing data/siena_scalp\PN01\PN01-1.edf: tmin (10272) must be less than tmax (-124264)
+ 83%|████████▎ | 204/245 [8:15:44<47:40, 69.78s/it]Patient id: PN01
+Edf file: PN01-1.edf
+Registration start: 19:00:44
+Registration end: 08:29:41
+Registration start seconds: 68444
+Registration end seconds: 30581
+EDF file duration: -124263
+Seizure start: 07:53:17
+Seizure end: 07:54:31
+Seizure start seconds: 28397
+Seizure end seconds: 28471
+Seizure duration: 74
+Seizure onset seconds: 46353
+Post-ictal onset seconds: 46427
+Post-ictal end seconds: -124264
+Detected 33 onset times
+Found 33 onsets and 35 peaks
+Error processing data/siena_scalp\PN01\PN01-1.edf: tmin (46427) must be less than tmax (-124264)
+ 84%|████████▎ | 205/245 [8:16:35<42:50, 64.27s/it]Patient id: PN03
+Edf file: PN03-1.edf
+Registration start: 22:44:37
+Registration end: 11:41:34
+Registration start seconds: 81877
+Registration end seconds: 42094
+EDF file duration: -126183
+Seizure start: 09:29:10
+Seizure end: 09:31:01
+Seizure start seconds: 34150
+Seizure end seconds: 34261
+Seizure duration: 111
+Seizure onset seconds: 38673
+Post-ictal onset seconds: 38784
+Post-ictal end seconds: -126184
+Detected 33 onset times
+Found 33 onsets and 35 peaks
+Error processing data/siena_scalp\PN03\PN03-1.edf: tmin (38784) must be less than tmax (-126184)
+ 84%|████████▍ | 206/245 [8:17:27<39:16, 60.42s/it]Patient id: PN03
+Edf file: PN03-2.edf
+Registration start: 21:31:04
+Registration end: 08:47:04
+Registration start seconds: 77464
+Registration end seconds: 31624
+EDF file duration: -132240
+Seizure start: 07:13:05
+Seizure end: 07:15:18
+Seizure start seconds: 25985
+Seizure end seconds: 26118
+Seizure duration: 133
+Seizure onset seconds: 34921
+Post-ictal onset seconds: 35054
+Post-ictal end seconds: -132241
+Detected 33 onset times
+Found 33 onsets and 35 peaks
+Error processing data/siena_scalp\PN03\PN03-2.edf: tmin (35054) must be less than tmax (-132241)
+ 84%|████████▍ | 207/245 [8:18:18<36:29, 57.62s/it]Patient id: PN05
+Edf file: PN05-2.edf
+Registration start: 06:46:02
+Registration end: 09:19:47
+Registration start seconds: 24362
+Registration end seconds: 33587
+EDF file duration: 9225
+Seizure start: 08:45:25
+Seizure end: 08:46:00
+Seizure start seconds: 31525
+Seizure end seconds: 31560
+Seizure duration: 35
+Seizure onset seconds: 7163
+Post-ictal onset seconds: 7198
+Post-ictal end seconds: 9224
+Detected 34 onset times
+Found 35 onsets and 37 peaks
+ 85%|████████▍ | 208/245 [8:20:00<43:42, 70.87s/it]Patient id: PN05
+Edf file: PN05-3.edf
+Registration start: 06:01:23
+Registration end: 08:06:57
+Registration start seconds: 21683
+Registration end seconds: 29217
+EDF file duration: 7534
+Seizure start: 07:55:19
+Seizure end: 07:55:49
+Seizure start seconds: 28519
+Seizure end seconds: 28549
+Seizure duration: 30
+Seizure onset seconds: 6836
+Post-ictal onset seconds: 6866
+Post-ictal end seconds: 7533
+Detected 35 onset times
+Found 35 onsets and 37 peaks
+ 85%|████████▌ | 209/245 [8:20:57<40:01, 66.72s/it]Patient id: PN05
+Edf file: PN05-4.edf
+Registration start: 06:38:35
+Registration end: 08:00:23
+Registration start seconds: 23915
+Registration end seconds: 28823
+EDF file duration: 4908
+Seizure start: 07:38:43
+Seizure end: 07:39:22
+Seizure start seconds: 27523
+Seizure end seconds: 27562
+Seizure duration: 39
+Seizure onset seconds: 3608
+Post-ictal onset seconds: 3647
+Post-ictal end seconds: 4907
+Detected 35 onset times
+Found 35 onsets and 37 peaks
+ 86%|████████▌ | 210/245 [8:22:16<41:09, 70.57s/it]Patient id: PN06
+Edf file: PN06-1.edf
+Registration start: 04:21:22
+Registration end: 07:01:37
+Registration start seconds: 15682
+Registration end seconds: 25297
+EDF file duration: 9615
+Seizure start: 05:54:25
+Seizure end: 05:55:29
+Seizure start seconds: 21265
+Seizure end seconds: 21329
+Seizure duration: 64
+Seizure onset seconds: 5583
+Post-ictal onset seconds: 5647
+Post-ictal end seconds: 9614
+Detected 35 onset times
+Found 35 onsets and 37 peaks
+ 86%|████████▌ | 211/245 [8:25:14<58:07, 102.57s/it]Patient id: PN06
+Edf file: PN06-2.edf
+Registration start: 21:11:29
+Registration end: 00:41:49
+Registration start seconds: 76289
+Registration end seconds: 2509
+EDF file duration: -160180
+Seizure start: 23:39:09
+Seizure end: 23:40:18
+Seizure start seconds: 85149
+Seizure end seconds: 85218
+Seizure duration: 69
+Seizure onset seconds: 8860
+Post-ictal onset seconds: 8929
+Post-ictal end seconds: -160181
+Detected 35 onset times
+Found 35 onsets and 37 peaks
+ 87%|████████▋ | 212/245 [8:25:48<45:06, 82.00s/it] Error processing data/siena_scalp\PN06\PN06-2.edf: tmin (8929) must be less than tmax (-160181)
+Patient id: PN06
+Edf file: PN06-3.edf
+Registration start: 06:25:51
+Registration end: 08:41:51
+Registration start seconds: 23151
+Registration end seconds: 31311
+EDF file duration: 8160
+Seizure start: 08:10:26
+Seizure end: 08:11:08
+Seizure start seconds: 29426
+Seizure end seconds: 29468
+Seizure duration: 42
+Seizure onset seconds: 6275
+Post-ictal onset seconds: 6317
+Post-ictal end seconds: 8159
+Detected 35 onset times
+Found 35 onsets and 37 peaks
+ 87%|████████▋ | 213/245 [8:27:38<48:19, 90.61s/it]Patient id: PN06
+Edf file: PN06-4.edf
+Registration start: 11:16:09
+Registration end: 13:12:54
+Registration start seconds: 40569
+Registration end seconds: 47574
+EDF file duration: 7005
+Seizure start: 12:55:08
+Seizure end: 12:56:11
+Seizure start seconds: 46508
+Seizure end seconds: 46571
+Seizure duration: 63
+Seizure onset seconds: 5939
+Post-ictal onset seconds: 6002
+Post-ictal end seconds: 7004
+Detected 35 onset times
+Found 35 onsets and 37 peaks
+ 87%|████████▋ | 214/245 [8:28:51<44:00, 85.19s/it]Patient id: PN06
+Edf file: PN06-5.edf
+Registration start: 13:24:41
+Registration end: 15:04:43
+Registration start seconds: 48281
+Registration end seconds: 54283
+EDF file duration: 6002
+Seizure start: 14:44:24
+Seizure end: 14:45:08
+Seizure start seconds: 53064
+Seizure end seconds: 53108
+Seizure duration: 44
+Seizure onset seconds: 4783
+Post-ictal onset seconds: 4827
+Post-ictal end seconds: 6001
+Detected 35 onset times
+Found 35 onsets and 37 peaks
+ 88%|████████▊ | 215/245 [8:30:16<42:35, 85.17s/it]Patient id: PN07
+Edf file: PN07-1.edf
+Registration start: 23:18:10
+Registration end: 08:01:58
+Registration start seconds: 83890
+Registration end seconds: 28918
+EDF file duration: -141372
+Seizure start: 05:25:49
+Seizure end: 05:26:51
+Seizure start seconds: 19549
+Seizure end seconds: 19611
+Seizure duration: 62
+Seizure onset seconds: 22059
+Post-ictal onset seconds: 22121
+Post-ictal end seconds: -141373
+Detected 42 onset times
+Found 42 onsets and 45 peaks
+Error processing data/siena_scalp\PN07\PN07-1.edf: tmin (22121) must be less than tmax (-141373)
+ 88%|████████▊ | 216/245 [8:31:03<35:37, 73.70s/it]Patient id: PN09
+Edf file: PN09-1.edf
+Registration start: 14:08:54
+Registration end: 16:26:07
+Registration start seconds: 50934
+Registration end seconds: 59167
+EDF file duration: 8233
+Seizure start: 16:09:43
+Seizure end: 16:11:03
+Seizure start seconds: 58183
+Seizure end seconds: 58263
+Seizure duration: 80
+Seizure onset seconds: 7249
+Post-ictal onset seconds: 7329
+Post-ictal end seconds: 8232
+Detected 42 onset times
+Found 42 onsets and 45 peaks
+ 89%|████████▊ | 217/245 [8:32:19<34:46, 74.51s/it]Patient id: PN09
+Edf file: PN09-2.edf
+Registration start: 15:02:09
+Registration end: 17:21:02
+Registration start seconds: 54129
+Registration end seconds: 62462
+EDF file duration: 8333
+Seizure start: 17:00:56
+Seizure end: 17:01:55
+Seizure start seconds: 61256
+Seizure end seconds: 61315
+Seizure duration: 59
+Seizure onset seconds: 7127
+Post-ictal onset seconds: 7186
+Post-ictal end seconds: 8332
+Detected 42 onset times
+Found 42 onsets and 45 peaks
+ 89%|████████▉ | 218/245 [8:33:33<33:23, 74.21s/it]Patient id: PN09
+Edf file: PN09-3.edf
+Registration start: 14:20:23
+Registration end: 16:34:28
+Registration start seconds: 51623
+Registration end seconds: 59668
+EDF file duration: 8045
+Seizure start: 16:20:44
+Seizure end: 16:21:48
+Seizure start seconds: 58844
+Seizure end seconds: 58908
+Seizure duration: 64
+Seizure onset seconds: 7221
+Post-ictal onset seconds: 7285
+Post-ictal end seconds: 8044
+Detected 42 onset times
+Found 42 onsets and 45 peaks
+ 89%|████████▉ | 219/245 [8:34:32<30:16, 69.86s/it]Patient id: PN10
+Edf file: PN10-1.edf
+Registration start: 05:40:05
+Registration end: 08:26:07
+Registration start seconds: 20405
+Registration end seconds: 30367
+EDF file duration: 9962
+Seizure start: 07:45:50
+Seizure end: 07:46:59
+Seizure start seconds: 27950
+Seizure end seconds: 28019
+Seizure duration: 69
+Seizure onset seconds: 7545
+Post-ictal onset seconds: 7614
+Post-ictal end seconds: 9961
+Detected 42 onset times
+Found 42 onsets and 45 peaks
+ 90%|████████▉ | 220/245 [8:37:16<40:47, 97.88s/it]Patient id: PN10
+Edf file: PN10-2.edf
+Registration start: 09:30:15
+Registration end: 11:52:29
+Registration start seconds: 34215
+Registration end seconds: 42749
+EDF file duration: 8534
+Seizure start: 11:40:13
+Seizure end: 11:41:04
+Seizure start seconds: 42013
+Seizure end seconds: 42064
+Seizure duration: 51
+Seizure onset seconds: 7798
+Post-ictal onset seconds: 7849
+Post-ictal end seconds: 8533
+Detected 42 onset times
+Found 42 onsets and 45 peaks
+ 90%|█████████ | 221/245 [8:38:20<35:06, 87.79s/it]Patient id: PN10
+Edf file: PN10-3.edf
+Registration start: 13:33:18
+Registration end: 15:58:31
+Registration start seconds: 48798
+Registration end seconds: 57511
+EDF file duration: 8713
+Seizure start: 15:43:53
+Seizure end: 15:45:02
+Seizure start seconds: 56633
+Seizure end seconds: 56702
+Seizure duration: 69
+Seizure onset seconds: 7835
+Post-ictal onset seconds: 7904
+Post-ictal end seconds: 8712
+Detected 42 onset times
+Found 42 onsets and 45 peaks
+ 91%|█████████ | 222/245 [8:39:29<31:32, 82.27s/it]Patient id: PN10
+Edf file: PN10-4.5.6.edf
+Registration start: 12:11:21
+Registration end: 16:48:49
+Registration start seconds: 43881
+Registration end seconds: 60529
+EDF file duration: 16648
+Seizure start: 12:49:50
+Seizure end: 12:49:55
+Seizure start seconds: 46190
+Seizure end seconds: 46195
+Seizure duration: 5
+Seizure onset seconds: 2309
+Post-ictal onset seconds: 2314
+Post-ictal end seconds: 16647
+Detected 31 onset times
+Found 40 onsets and 45 peaks
+ 91%|█████████ | 223/245 [8:54:04<1:57:19, 319.96s/it]Patient id: PN10
+Edf file: PN10-4.5.6.edf
+Registration start: 12:11:21
+Registration end: 16:48:49
+Registration start seconds: 43881
+Registration end seconds: 60529
+EDF file duration: 16648
+Seizure start: 14:00:25
+Seizure end: 14:00:44
+Seizure start seconds: 50425
+Seizure end seconds: 50444
+Seizure duration: 19
+Seizure onset seconds: 6544
+Post-ictal onset seconds: 6563
+Post-ictal end seconds: 16647
+Detected 42 onset times
+Found 42 onsets and 45 peaks
+ 91%|█████████▏| 224/245 [9:05:17<2:29:06, 426.04s/it]Patient id: PN10
+Edf file: PN10-4.5.6.edf
+Registration start: 12:11:21
+Registration end: 16:48:49
+Registration start seconds: 43881
+Registration end seconds: 60529
+EDF file duration: 16648
+Seizure start: 15:18:26
+Seizure end: 15:19:23
+Seizure start seconds: 55106
+Seizure end seconds: 55163
+Seizure duration: 57
+Seizure onset seconds: 11225
+Post-ictal onset seconds: 11282
+Post-ictal end seconds: 16647
+Detected 42 onset times
+Found 42 onsets and 45 peaks
+ 92%|█████████▏| 225/245 [9:10:45<2:12:12, 396.60s/it]Patient id: PN10
+Edf file: PN10-7.8.9.edf
+Registration start: 16:49:25
+Registration end: 20:58:40
+Registration start seconds: 60565
+Registration end seconds: 75520
+EDF file duration: 14955
+Seizure start: 17:35:13
+Seizure end: 17:36:01
+Seizure start seconds: 63313
+Seizure end seconds: 63361
+Seizure duration: 48
+Seizure onset seconds: 2748
+Post-ictal onset seconds: 2796
+Post-ictal end seconds: 14954
+Detected 42 onset times
+Found 42 onsets and 45 peaks
+ 92%|█████████▏| 226/245 [9:22:55<2:37:14, 496.54s/it]Patient id: PN10
+Edf file: PN10-7.8.9.edf
+Registration start: 16:49:25
+Registration end: 20:58:40
+Registration start seconds: 60565
+Registration end seconds: 75520
+EDF file duration: 14955
+Seizure start: 18:20:24
+Seizure end: 18:20:42
+Seizure start seconds: 66024
+Seizure end seconds: 66042
+Seizure duration: 18
+Seizure onset seconds: 5459
+Post-ictal onset seconds: 5477
+Post-ictal end seconds: 14954
+Detected 41 onset times
+Found 42 onsets and 45 peaks
+ 93%|█████████▎| 227/245 [9:31:06<2:28:26, 494.82s/it]Patient id: PN10
+Edf file: PN10-7.8.9.edf
+Registration start: 16:49:25
+Registration end: 20:58:40
+Registration start seconds: 60565
+Registration end seconds: 75520
+EDF file duration: 14955
+Seizure start: 20:24:48
+Seizure end: 20:25:03
+Seizure start seconds: 73488
+Seizure end seconds: 73503
+Seizure duration: 15
+Seizure onset seconds: 12923
+Post-ictal onset seconds: 12938
+Post-ictal end seconds: 14954
+Detected 41 onset times
+Found 42 onsets and 45 peaks
+ 93%|█████████▎| 228/245 [9:33:28<1:50:11, 388.92s/it]Patient id: PN10
+Edf file: PN10-10.edf
+Registration start: 08:45:22
+Registration end: 11:08:07
+Registration start seconds: 31522
+Registration end seconds: 40087
+EDF file duration: 8565
+Seizure start: 10:58:19
+Seizure end: 10:58:33
+Seizure start seconds: 39499
+Seizure end seconds: 39513
+Seizure duration: 14
+Seizure onset seconds: 7977
+Post-ictal onset seconds: 7991
+Post-ictal end seconds: 8564
+Detected 42 onset times
+Found 42 onsets and 45 peaks
+ 93%|█████████▎| 229/245 [9:34:25<1:17:09, 289.32s/it]Patient id: PN11
+Edf file: PN11-1.edf
+Registration start: 11:31:25
+Registration end: 13:56:02
+Registration start seconds: 41485
+Registration end seconds: 50162
+EDF file duration: 8677
+Seizure start: 13:37:19
+Seizure end: 13:38:14
+Seizure start seconds: 49039
+Seizure end seconds: 49094
+Seizure duration: 55
+Seizure onset seconds: 7554
+Post-ictal onset seconds: 7609
+Post-ictal end seconds: 8676
+Detected 42 onset times
+Found 42 onsets and 45 peaks
+ 94%|█████████▍| 230/245 [9:35:50<57:01, 228.12s/it]  Patient id: PN12
+Edf file: PN12-1.2.edf
+Registration start: 15:51:31
+Registration end: 18:34:25
+Registration start seconds: 57091
+Registration end seconds: 66865
+EDF file duration: 9774
+Seizure start: 16:13:23
+Seizure end: 16:14:26
+Seizure start seconds: 58403
+Seizure end seconds: 58466
+Seizure duration: 63
+Seizure onset seconds: 1312
+Post-ictal onset seconds: 1375
+Post-ictal end seconds: 9773
+Detected 42 onset times
+Found 42 onsets and 45 peaks
+ 94%|█████████▍| 231/245 [9:47:04<1:24:26, 361.88s/it]Patient id: PN12
+Edf file: PN12-1.2.edf
+Registration start: 15:51:31
+Registration end: 18:34:25
+Registration start seconds: 57091
+Registration end seconds: 66865
+EDF file duration: 9774
+Seizure start: 18:31:01
+Seizure end: 18:32:09
+Seizure start seconds: 66661
+Seizure end seconds: 66729
+Seizure duration: 68
+Seizure onset seconds: 9570
+Post-ictal onset seconds: 9638
+Post-ictal end seconds: 9773
+Detected 40 onset times
+Found 42 onsets and 45 peaks
+ 95%|█████████▍| 232/245 [9:47:42<57:22, 264.84s/it]  Patient id: PN12
+Edf file: PN12-3.edf
+Registration start: 08:42:35
+Registration end: 09:15:44
+Registration start seconds: 31355
+Registration end seconds: 33344
+EDF file duration: 1989
+Seizure start: 08:55:27
+Seizure end: 08:57:03
+Seizure start seconds: 32127
+Seizure end seconds: 32223
+Seizure duration: 96
+Seizure onset seconds: 772
+Post-ictal onset seconds: 868
+Post-ictal end seconds: 1988
+Detected 42 onset times
+Found 42 onsets and 45 peaks
+ 95%|█████████▌| 233/245 [9:49:09<42:15, 211.32s/it]Patient id: PN12
+Edf file: PN12-4.edf
+Registration start: 15:59:19
+Registration end: 18:49:13
+Registration start seconds: 57559
+Registration end seconds: 67753
+EDF file duration: 10194
+Seizure start: 18:42:51
+Seizure end: 18:43:54
+Seizure start seconds: 67371
+Seizure end seconds: 67434
+Seizure duration: 63
+Seizure onset seconds: 9812
+Post-ictal onset seconds: 9875
+Post-ictal end seconds: 10193
+Detected 42 onset times
+Found 42 onsets and 45 peaks
+ 96%|█████████▌| 234/245 [9:49:55<29:39, 161.76s/it]Patient id: PN13
+Edf file: PN13-1.edf
+Registration start: 08:24:28
+Registration end: 11:00:23
+Registration start seconds: 30268
+Registration end seconds: 39623
+EDF file duration: 9355
+Seizure start: 10:22:10
+Seizure end: 10:22:58
+Seizure start seconds: 37330
+Seizure end seconds: 37378
+Seizure duration: 48
+Seizure onset seconds: 7062
+Post-ictal onset seconds: 7110
+Post-ictal end seconds: 9354
+Detected 40 onset times
+Found 42 onsets and 45 peaks
+ 96%|█████████▌| 235/245 [9:52:18<26:00, 156.06s/it]Patient id: PN13
+Edf file: PN13-2.edf
+Registration start: 06:55:02
+Registration end: 09:30:14
+Registration start seconds: 24902
+Registration end seconds: 34214
+EDF file duration: 9312
+Seizure start: 08:55:51
+Seizure end: 08:56:56
+Seizure start seconds: 32151
+Seizure end seconds: 32216
+Seizure duration: 65
+Seizure onset seconds: 7249
+Post-ictal onset seconds: 7314
+Post-ictal end seconds: 9311
+Detected 42 onset times
+Found 42 onsets and 45 peaks
+ 96%|█████████▋| 236/245 [9:54:08<21:21, 142.35s/it]Patient id: PN13
+Edf file: PN13-3.edf
+Registration start: 12:00:01
+Registration end: 15:28:48
+Registration start seconds: 43201
+Registration end seconds: 55728
+EDF file duration: 12527
+Seizure start: 14:05:54
+Seizure end: 14:08:25
+Seizure start seconds: 50754
+Seizure end seconds: 50905
+Seizure duration: 151
+Seizure onset seconds: 7553
+Post-ictal onset seconds: 7704
+Post-ictal end seconds: 12526
+Detected 42 onset times
+Found 42 onsets and 45 peaks
+ 97%|█████████▋| 237/245 [9:59:03<25:03, 188.00s/it]Patient id: PN14
+Edf file: PN14-1.edf
+Registration start: 11:44:58
+Registration end: 13:56:06
+Registration start seconds: 42298
+Registration end seconds: 50166
+EDF file duration: 7868
+Seizure start: 13:46:00
+Seizure end: 13:46:27
+Seizure start seconds: 49560
+Seizure end seconds: 49587
+Seizure duration: 27
+Seizure onset seconds: 7262
+Post-ictal onset seconds: 7289
+Post-ictal end seconds: 7867
+Detected 46 onset times
+Found 46 onsets and 49 peaks
+ 97%|█████████▋| 238/245 [9:59:59<17:20, 148.58s/it]Patient id: PN14
+Edf file: PN14-2.edf
+Registration start: 15:50:13
+Registration end: 18:22:58
+Registration start seconds: 57013
+Registration end seconds: 66178
+EDF file duration: 9165
+Seizure start: 17:54:52
+Seizure end: 17:55:04
+Seizure start seconds: 64492
+Seizure end seconds: 64504
+Seizure duration: 12
+Seizure onset seconds: 7479
+Post-ictal onset seconds: 7491
+Post-ictal end seconds: 9164
+Detected 45 onset times
+Found 46 onsets and 49 peaks
+ 98%|█████████▊| 239/245 [10:02:10<14:19, 143.27s/it]Patient id: PN14
+Edf file: PN14-3.edf
+Registration start: 16:17:45
+Registration end: 06:57:40
+Registration start seconds: 58665
+Registration end seconds: 25060
+EDF file duration: -120005
+Seizure start: 21:10:05
+Seizure end: 21:10:46
+Seizure start seconds: 76205
+Seizure end seconds: 76246
+Seizure duration: 41
+Seizure onset seconds: 17540
+Post-ictal onset seconds: 17581
+Post-ictal end seconds: -120006
+Detected 46 onset times
+Found 46 onsets and 49 peaks
+Error processing data/siena_scalp\PN14\PN14-3.edf: tmin (17581) must be less than tmax (-120006)
+ 98%|█████████▊| 240/245 [10:03:05<09:44, 116.85s/it]Patient id: PN14
+Edf file: PN14-4.edf
+Registration start: 14:18:30
+Registration end: 18:22:32
+Registration start seconds: 51510
+Registration end seconds: 66152
+EDF file duration: 14642
+Seizure start: 15:49:33
+Seizure end: 15:50:56
+Seizure start seconds: 56973
+Seizure end seconds: 57056
+Seizure duration: 83
+Seizure onset seconds: 5463
+Post-ictal onset seconds: 5546
+Post-ictal end seconds: 14641
+Detected 46 onset times
+Found 46 onsets and 49 peaks
+ 98%|█████████▊| 241/245 [10:13:49<18:19, 274.87s/it]Patient id: PN16
+Edf file: PN16-1.edf
+Registration start: 20:45:21
+Registration end: 23:03:11
+Registration start seconds: 74721
+Registration end seconds: 82991
+EDF file duration: 8270
+Seizure start: 22:45:05
+Seizure end: 22:47:08
+Seizure start seconds: 81905
+Seizure end seconds: 82028
+Seizure duration: 123
+Seizure onset seconds: 7184
+Post-ictal onset seconds: 7307
+Post-ictal end seconds: 8269
+Detected 46 onset times
+Found 46 onsets and 49 peaks
+ 99%|█████████▉| 242/245 [10:15:16<10:55, 218.42s/it]Patient id: PN16
+Edf file: PN16-2.edf
+Registration start: 00:53:55
+Registration end: 03:28:52
+Registration start seconds: 3235
+Registration end seconds: 12532
+EDF file duration: 9297
+Seizure start: 03:16:49
+Seizure end: 03:18:36
+Seizure start seconds: 11809
+Seizure end seconds: 11916
+Seizure duration: 107
+Seizure onset seconds: 8574
+Post-ictal onset seconds: 8681
+Post-ictal end seconds: 9296
+Detected 46 onset times
+Found 46 onsets and 49 peaks
+ 99%|█████████▉| 243/245 [10:16:26<05:47, 173.91s/it]Patient id: PN17
+Edf file: PN17-1.edf
+Registration start: 20:14:28
+Registration end: 22:49:05
+Registration start seconds: 72868
+Registration end seconds: 82145
+EDF file duration: 9277
+Seizure start: 22:34:48
+Seizure end: 22:35:58
+Seizure start seconds: 81288
+Seizure end seconds: 81358
+Seizure duration: 70
+Seizure onset seconds: 8420
+Post-ictal onset seconds: 8490
+Post-ictal end seconds: 9276
+Detected 46 onset times
+Found 46 onsets and 49 peaks
+100%|█████████▉| 244/245 [10:17:43<02:24, 144.93s/it]Patient id: PN17
+Edf file: PN17-2.edf
+Registration start: 13:52:18
+Registration end: 16:25:10
+Registration start seconds: 49938
+Registration end seconds: 59110
+EDF file duration: 9172
+Seizure start: 16:01:09
+Seizure end: 16:02:32
+Seizure start seconds: 57669
+Seizure end seconds: 57752
+Seizure duration: 83
+Seizure onset seconds: 7731
+Post-ictal onset seconds: 7814
+Post-ictal end seconds: 9171
+Detected 46 onset times
+Found 46 onsets and 49 peaks
+100%|██████████| 245/245 [10:19:17<00:00, 151.66s/it]
+============================================================
+PROCESSING COMPLETE
+============================================================
+Total records: 245
+Successfully processed: 228
+Failed: 17
