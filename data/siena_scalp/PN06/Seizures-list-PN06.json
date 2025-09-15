@@ -53,10 +53,10 @@
     {
       "seizure_number": 2,
       "file_name": "PN06-2.edf",
-      "registration_start_time": "21.11.29",
-      "registration_end_time": "00.41.49",
-      "seizure_start_time": "23.39.09",
-      "seizure_end_time": "23.40.18"
+      "registration_start_time": "21:11:29",
+      "registration_end_time": "00:41:49",
+      "seizure_start_time": "23:39:09",
+      "seizure_end_time": "23:40:18"
     },
     {
       "seizure_number": 3,
