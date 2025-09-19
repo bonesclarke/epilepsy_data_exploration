@@ -719,13 +719,5 @@
   "error_message": {
     "": 1,
     "tmax (52794) must be less than or equal to the max time (41994.9980 s)": 2
-  },
-  "patient_id_right": {},
-  "file_name_right": {},
-  "gender_right": {},
-  "json_file_path_right": {},
-  "seizure_type_right": {},
-  "localization_right": {},
-  "lateralization_right": {},
-  "error_message_right": {}
+  }
 }
